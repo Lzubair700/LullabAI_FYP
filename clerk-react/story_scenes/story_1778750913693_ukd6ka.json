@@ -1,0 +1,81 @@
+{
+  "story_id": "story_1778750913693_ukd6ka",
+  "moral": "Tit for tat",
+  "age": "7",
+  "duration_sec": 30,
+  "created_at": "2026-05-14T09:28:33.693Z",
+  "scenes": [
+    {
+      "scene_index": 0,
+      "sentence": "Tiny Squirrel was hungry.",
+      "word_count": 4,
+      "approx_duration_sec": 1.21
+    },
+    {
+      "scene_index": 1,
+      "sentence": "He found a big, red apple on the ground.",
+      "word_count": 9,
+      "approx_duration_sec": 2.73
+    },
+    {
+      "scene_index": 2,
+      "sentence": "\"Yum!\" said Squirrel, and he took a big bite.",
+      "word_count": 9,
+      "approx_duration_sec": 2.73
+    },
+    {
+      "scene_index": 3,
+      "sentence": "But then Squirrel saw that the apple had a small bite in it already.",
+      "word_count": 14,
+      "approx_duration_sec": 4.24
+    },
+    {
+      "scene_index": 4,
+      "sentence": "\"Oh no, someone else ate this!\" frowned Squirrel.",
+      "word_count": 8,
+      "approx_duration_sec": 2.42
+    },
+    {
+      "scene_index": 5,
+      "sentence": "He put the apple back down.",
+      "word_count": 6,
+      "approx_duration_sec": 1.82
+    },
+    {
+      "scene_index": 6,
+      "sentence": "Soon, Squirrel found his own fresh, juicy apple.",
+      "word_count": 8,
+      "approx_duration_sec": 2.42
+    },
+    {
+      "scene_index": 7,
+      "sentence": "He ate the whole thing happily.",
+      "word_count": 6,
+      "approx_duration_sec": 1.82
+    },
+    {
+      "scene_index": 8,
+      "sentence": "Later, a little bird flew up to Squirrel.",
+      "word_count": 8,
+      "approx_duration_sec": 2.42
+    },
+    {
+      "scene_index": 9,
+      "sentence": "\"Can I have some of your food?\" asked the bird.",
+      "word_count": 10,
+      "approx_duration_sec": 3.03
+    },
+    {
+      "scene_index": 10,
+      "sentence": "Squirrel smiled and said, \"Of course!\" He shared his food with the bird.",
+      "word_count": 13,
+      "approx_duration_sec": 3.94
+    },
+    {
+      "scene_index": 11,
+      "sentence": "Moral: Tit for tat.",
+      "word_count": 4,
+      "approx_duration_sec": 1.21
+    }
+  ]
+}

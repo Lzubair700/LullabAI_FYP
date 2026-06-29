@@ -1,0 +1,357 @@
+{
+  "story_id": "story_1778756787997_u0l9ti",
+  "total_pipeline_sec": 824.92,
+  "scene_count": 10,
+  "scenes": [
+    {
+      "scene_index": 0,
+      "sentence": "The Lost Toy Lily was a little girl who loved her stuffed bear, Teddy.",
+      "av_sync": {
+        "audio_duration_sec": 4.34,
+        "video_duration_sec": 4.34,
+        "sync_error_sec": 0.0,
+        "rating": "perfect"
+      },
+      "prompt_adherence": {
+        "score": 1.0,
+        "method": "keyword_heuristic"
+      },
+      "image_quality": {
+        "original_sharpness": 22.69,
+        "enhanced_sharpness": 9.14,
+        "improvement_ratio": 0.4,
+        "original_resolution": "768x768",
+        "enhanced_resolution": "1536x1536"
+      },
+      "latency": {
+        "fetch_sec": 5.75,
+        "upscale_sec": 0.31,
+        "ffmpeg_sec": 12.17,
+        "total_sec": 18.24
+      },
+      "speaking_rate": {
+        "word_count": 14,
+        "audio_duration_sec": 4.34,
+        "wpm": 193.5,
+        "target_wpm": "120-150",
+        "rating": "too_fast"
+      }
+    },
+    {
+      "scene_index": 1,
+      "sentence": "One day, Lily was playing in the park when Teddy fell out of her bag.",
+      "av_sync": {
+        "audio_duration_sec": 3.94,
+        "video_duration_sec": 3.94,
+        "sync_error_sec": 0.0,
+        "rating": "perfect"
+      },
+      "prompt_adherence": {
+        "score": 1.0,
+        "method": "keyword_heuristic"
+      },
+      "image_quality": {
+        "original_sharpness": 23.98,
+        "enhanced_sharpness": 9.45,
+        "improvement_ratio": 0.39,
+        "original_resolution": "768x768",
+        "enhanced_resolution": "1536x1536"
+      },
+      "latency": {
+        "fetch_sec": 90.03,
+        "upscale_sec": 0.17,
+        "ffmpeg_sec": 8.92,
+        "total_sec": 104.88
+      },
+      "speaking_rate": {
+        "word_count": 15,
+        "audio_duration_sec": 3.94,
+        "wpm": 228.4,
+        "target_wpm": "120-150",
+        "rating": "too_fast"
+      }
+    },
+    {
+      "scene_index": 2,
+      "sentence": "\"Oh no!\" said Lily.",
+      "av_sync": {
+        "audio_duration_sec": 2.16,
+        "video_duration_sec": 2.16,
+        "sync_error_sec": 0.0,
+        "rating": "perfect"
+      },
+      "prompt_adherence": {
+        "score": 1.0,
+        "method": "keyword_heuristic"
+      },
+      "image_quality": {
+        "original_sharpness": 27.87,
+        "enhanced_sharpness": 10.53,
+        "improvement_ratio": 0.38,
+        "original_resolution": "768x768",
+        "enhanced_resolution": "1536x1536"
+      },
+      "latency": {
+        "fetch_sec": 90.05,
+        "upscale_sec": 0.18,
+        "ffmpeg_sec": 5.99,
+        "total_sec": 192.03
+      },
+      "speaking_rate": {
+        "word_count": 4,
+        "audio_duration_sec": 2.16,
+        "wpm": 111.1,
+        "target_wpm": "120-150",
+        "rating": "ideal"
+      }
+    },
+    {
+      "scene_index": 3,
+      "sentence": "\"I lost Teddy!\" Lily felt sad, but she knew she had to be honest.",
+      "av_sync": {
+        "audio_duration_sec": 4.97,
+        "video_duration_sec": 4.97,
+        "sync_error_sec": 0.0,
+        "rating": "perfect"
+      },
+      "prompt_adherence": {
+        "score": 1.0,
+        "method": "keyword_heuristic"
+      },
+      "image_quality": {
+        "original_sharpness": 27.87,
+        "enhanced_sharpness": 10.65,
+        "improvement_ratio": 0.38,
+        "original_resolution": "768x768",
+        "enhanced_resolution": "1536x1536"
+      },
+      "latency": {
+        "fetch_sec": 90.06,
+        "upscale_sec": 0.17,
+        "ffmpeg_sec": 10.62,
+        "total_sec": 286.7
+      },
+      "speaking_rate": {
+        "word_count": 14,
+        "audio_duration_sec": 4.97,
+        "wpm": 169.0,
+        "target_wpm": "120-150",
+        "rating": "acceptable"
+      }
+    },
+    {
+      "scene_index": 4,
+      "sentence": "She told the park keeper, \"I lost my toy bear.\" The kind keeper helped Lily look all over.",
+      "av_sync": {
+        "audio_duration_sec": 6.19,
+        "video_duration_sec": 6.19,
+        "sync_error_sec": 0.0,
+        "rating": "perfect"
+      },
+      "prompt_adherence": {
+        "score": 1.0,
+        "method": "keyword_heuristic"
+      },
+      "image_quality": {
+        "original_sharpness": 32.49,
+        "enhanced_sharpness": 12.55,
+        "improvement_ratio": 0.39,
+        "original_resolution": "768x768",
+        "enhanced_resolution": "1536x1536"
+      },
+      "latency": {
+        "fetch_sec": 89.95,
+        "upscale_sec": 0.25,
+        "ffmpeg_sec": 13.84,
+        "total_sec": 379.96
+      },
+      "speaking_rate": {
+        "word_count": 18,
+        "audio_duration_sec": 6.19,
+        "wpm": 174.5,
+        "target_wpm": "120-150",
+        "rating": "acceptable"
+      }
+    },
+    {
+      "scene_index": 5,
+      "sentence": "After a while, they found Teddy!",
+      "av_sync": {
+        "audio_duration_sec": 2.71,
+        "video_duration_sec": 2.71,
+        "sync_error_sec": 0.0,
+        "rating": "perfect"
+      },
+      "prompt_adherence": {
+        "score": 1.0,
+        "method": "keyword_heuristic"
+      },
+      "image_quality": {
+        "original_sharpness": 22.78,
+        "enhanced_sharpness": 9.17,
+        "improvement_ratio": 0.4,
+        "original_resolution": "768x768",
+        "enhanced_resolution": "1536x1536"
+      },
+      "latency": {
+        "fetch_sec": 90.11,
+        "upscale_sec": 0.21,
+        "ffmpeg_sec": 6.43,
+        "total_sec": 462.62
+      },
+      "speaking_rate": {
+        "word_count": 6,
+        "audio_duration_sec": 2.71,
+        "wpm": 132.8,
+        "target_wpm": "120-150",
+        "rating": "ideal"
+      }
+    },
+    {
+      "scene_index": 6,
+      "sentence": "Lily gave the keeper a big smile.",
+      "av_sync": {
+        "audio_duration_sec": 2.54,
+        "video_duration_sec": 2.54,
+        "sync_error_sec": 0.0,
+        "rating": "perfect"
+      },
+      "prompt_adherence": {
+        "score": 1.0,
+        "method": "keyword_heuristic"
+      },
+      "image_quality": {
+        "original_sharpness": 28.93,
+        "enhanced_sharpness": 11.29,
+        "improvement_ratio": 0.39,
+        "original_resolution": "768x768",
+        "enhanced_resolution": "1536x1536"
+      },
+      "latency": {
+        "fetch_sec": 90.04,
+        "upscale_sec": 0.34,
+        "ffmpeg_sec": 7.57,
+        "total_sec": 553.94
+      },
+      "speaking_rate": {
+        "word_count": 7,
+        "audio_duration_sec": 2.54,
+        "wpm": 165.4,
+        "target_wpm": "120-150",
+        "rating": "acceptable"
+      }
+    },
+    {
+      "scene_index": 7,
+      "sentence": "\"Thank you for helping me find my bear.\" From that day on, Lily always tried to be honest.",
+      "av_sync": {
+        "audio_duration_sec": 6.12,
+        "video_duration_sec": 6.12,
+        "sync_error_sec": 0.0,
+        "rating": "perfect"
+      },
+      "prompt_adherence": {
+        "score": 1.0,
+        "method": "keyword_heuristic"
+      },
+      "image_quality": {
+        "original_sharpness": 30.95,
+        "enhanced_sharpness": 12.28,
+        "improvement_ratio": 0.4,
+        "original_resolution": "768x768",
+        "enhanced_resolution": "1536x1536"
+      },
+      "latency": {
+        "fetch_sec": 90.08,
+        "upscale_sec": 0.36,
+        "ffmpeg_sec": 16.66,
+        "total_sec": 653.13
+      },
+      "speaking_rate": {
+        "word_count": 18,
+        "audio_duration_sec": 6.12,
+        "wpm": 176.5,
+        "target_wpm": "120-150",
+        "rating": "acceptable"
+      }
+    },
+    {
+      "scene_index": 8,
+      "sentence": "She knew it was the right thing to do.",
+      "av_sync": {
+        "audio_duration_sec": 1.94,
+        "video_duration_sec": 1.94,
+        "sync_error_sec": 0.0,
+        "rating": "perfect"
+      },
+      "prompt_adherence": {
+        "score": 1.0,
+        "method": "keyword_heuristic"
+      },
+      "image_quality": {
+        "original_sharpness": 21.23,
+        "enhanced_sharpness": 7.45,
+        "improvement_ratio": 0.35,
+        "original_resolution": "768x768",
+        "enhanced_resolution": "1536x1536"
+      },
+      "latency": {
+        "fetch_sec": 89.93,
+        "upscale_sec": 0.18,
+        "ffmpeg_sec": 5.5,
+        "total_sec": 731.73
+      },
+      "speaking_rate": {
+        "word_count": 9,
+        "audio_duration_sec": 1.94,
+        "wpm": 278.4,
+        "target_wpm": "120-150",
+        "rating": "too_fast"
+      }
+    },
+    {
+      "scene_index": 9,
+      "sentence": "Moral: Honesty is the best policy.",
+      "av_sync": {
+        "audio_duration_sec": 3.79,
+        "video_duration_sec": 3.79,
+        "sync_error_sec": 0.0,
+        "rating": "perfect"
+      },
+      "prompt_adherence": {
+        "score": 1.0,
+        "method": "keyword_heuristic"
+      },
+      "image_quality": {
+        "original_sharpness": 35.15,
+        "enhanced_sharpness": 13.79,
+        "improvement_ratio": 0.39,
+        "original_resolution": "768x768",
+        "enhanced_resolution": "1536x1536"
+      },
+      "latency": {
+        "fetch_sec": 89.79,
+        "upscale_sec": 0.13,
+        "ffmpeg_sec": 8.45,
+        "total_sec": 824.43
+      },
+      "speaking_rate": {
+        "word_count": 6,
+        "audio_duration_sec": 3.79,
+        "wpm": 95.0,
+        "target_wpm": "120-150",
+        "rating": "acceptable"
+      }
+    }
+  ],
+  "averages": {
+    "avg_sync_error_sec": 0.0,
+    "avg_prompt_adherence": 1.0,
+    "avg_sharpness_improvement": 0.387,
+    "avg_fetch_sec": 81.579,
+    "avg_upscale_sec": 0.23,
+    "avg_ffmpeg_sec": 9.615,
+    "avg_wpm": 172.46,
+    "total_pipeline_sec": 824.92
+  }
+}

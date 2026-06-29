@@ -1,0 +1,57 @@
+{
+  "story_id": "story_1778754132426_ondzlv",
+  "moral": "Kindness",
+  "age": "7",
+  "duration_sec": 30,
+  "created_at": "2026-05-14T10:22:12.427Z",
+  "scenes": [
+    {
+      "scene_index": 0,
+      "sentence": "Tommy was a kind boy.",
+      "word_count": 5,
+      "approx_duration_sec": 2.78
+    },
+    {
+      "scene_index": 1,
+      "sentence": "One day, he saw a small bird on the ground.",
+      "word_count": 10,
+      "approx_duration_sec": 5.56
+    },
+    {
+      "scene_index": 2,
+      "sentence": "The bird's wing was hurt.",
+      "word_count": 5,
+      "approx_duration_sec": 2.78
+    },
+    {
+      "scene_index": 3,
+      "sentence": "Tommy gently picked up the bird and took it home.",
+      "word_count": 10,
+      "approx_duration_sec": 5.56
+    },
+    {
+      "scene_index": 4,
+      "sentence": "He gave the bird food and water.",
+      "word_count": 7,
+      "approx_duration_sec": 3.89
+    },
+    {
+      "scene_index": 5,
+      "sentence": "The bird soon felt better.",
+      "word_count": 5,
+      "approx_duration_sec": 2.78
+    },
+    {
+      "scene_index": 6,
+      "sentence": "Tommy smiled, happy that he could help the little bird.",
+      "word_count": 10,
+      "approx_duration_sec": 5.56
+    },
+    {
+      "scene_index": 7,
+      "sentence": "Moral: Kindness",
+      "word_count": 2,
+      "approx_duration_sec": 1.11
+    }
+  ]
+}

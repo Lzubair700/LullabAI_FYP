@@ -1,0 +1,1498 @@
+[
+  {
+    "timestamp": "2025-12-08T20:12:52.721Z",
+    "requestedMoral": "Be happy and thankful",
+    "requestedDuration": 30,
+    "storyPreview": "Once upon a time, there lived a little bird named ...",
+    "moralAccuracy": 0.3088017701754561,
+    "recallAtK": 0,
+    "durationError": {
+      "absoluteError": 4,
+      "relativeError": 0.13333333333333333,
+      "actualDuration": 26,
+      "expectedDuration": 30,
+      "wordCount": 64
+    },
+    "storySimilarity": null,
+    "duration_abs_error": 4,
+    "duration_actual": 26,
+    "story_sim_max": null,
+    "story_sim_avg": null
+  },
+  {
+    "timestamp": "2025-12-08T20:22:25.624Z",
+    "requestedMoral": "Sharing is caring",
+    "requestedDuration": 30,
+    "storyPreview": "The small rabbit sat in the soft grass, watching t...",
+    "moralAccuracy": 0.9539554518499473,
+    "recallAtK": 0,
+    "durationError": {
+      "absoluteError": 19,
+      "relativeError": 0.6333333333333333,
+      "actualDuration": 49,
+      "expectedDuration": 30,
+      "wordCount": 121
+    },
+    "storySimilarity": null,
+    "duration_abs_error": 19,
+    "duration_actual": 49,
+    "story_sim_max": null,
+    "story_sim_avg": null
+  },
+  {
+    "timestamp": "2025-12-08T20:24:45.600Z",
+    "requestedMoral": "Keep your room clean",
+    "requestedDuration": 30,
+    "storyPreview": "It was a sunny day and Lily was playing in her roo...",
+    "moralAccuracy": 0.9579442012642935,
+    "recallAtK": 0,
+    "durationError": {
+      "absoluteError": 4,
+      "relativeError": 0.13333333333333333,
+      "actualDuration": 26,
+      "expectedDuration": 30,
+      "wordCount": 63
+    },
+    "storySimilarity": null,
+    "duration_abs_error": 4,
+    "duration_actual": 26,
+    "story_sim_max": null,
+    "story_sim_avg": null
+  },
+  {
+    "timestamp": "2025-12-08T20:35:03.936Z",
+    "requestedMoral": "Patience is a virtue",
+    "requestedDuration": 30,
+    "storyPreview": "It was a peaceful night. The moon shone brightly, ...",
+    "moralAccuracy": 0.5343625528913697,
+    "recallAtK": 0,
+    "durationError": {
+      "absoluteError": 10,
+      "relativeError": 0.3333333333333333,
+      "actualDuration": 40,
+      "expectedDuration": 30,
+      "wordCount": 98
+    },
+    "storySimilarity": null,
+    "duration_abs_error": 10,
+    "duration_actual": 40,
+    "story_sim_max": null,
+    "story_sim_avg": null
+  },
+  {
+    "timestamp": "2025-12-08T20:37:13.960Z",
+    "requestedMoral": "Be honest and truthful",
+    "requestedDuration": 30,
+    "storyPreview": "Lily the little bunny was hopping through the mead...",
+    "moralAccuracy": 0.4719378309995659,
+    "recallAtK": 0,
+    "durationError": {
+      "absoluteError": 4,
+      "relativeError": 0.13333333333333333,
+      "actualDuration": 26,
+      "expectedDuration": 30,
+      "wordCount": 63
+    },
+    "storySimilarity": null,
+    "duration_abs_error": 4,
+    "duration_actual": 26,
+    "story_sim_max": null,
+    "story_sim_avg": null
+  },
+  {
+    "timestamp": "2025-12-08T20:38:54.907Z",
+    "requestedMoral": "Tit for tat",
+    "requestedDuration": 40,
+    "storyPreview": "It was a sunny day and little Lily was playing in ...",
+    "moralAccuracy": 0.3087442923095604,
+    "recallAtK": 0,
+    "durationError": {
+      "absoluteError": 0,
+      "relativeError": 0,
+      "actualDuration": 40,
+      "expectedDuration": 40,
+      "wordCount": 98
+    },
+    "storySimilarity": null,
+    "duration_abs_error": 0,
+    "duration_actual": 40,
+    "story_sim_max": null,
+    "story_sim_avg": null
+  },
+  {
+    "timestamp": "2025-12-08T20:39:48.020Z",
+    "requestedMoral": "Tit for tat",
+    "requestedDuration": 30,
+    "storyPreview": "It was a sunny day in the meadow. Lily the ladybug...",
+    "moralAccuracy": 0.38338262616778596,
+    "recallAtK": 0,
+    "durationError": {
+      "absoluteError": 6,
+      "relativeError": 0.2,
+      "actualDuration": 24,
+      "expectedDuration": 30,
+      "wordCount": 60
+    },
+    "storySimilarity": null,
+    "duration_abs_error": 6,
+    "duration_actual": 24,
+    "story_sim_max": null,
+    "story_sim_avg": null
+  },
+  {
+    "timestamp": "2025-12-09T10:20:11.004Z",
+    "requestedMoral": "Be honest",
+    "requestedDuration": 20,
+    "storyPreview": "It was a sunny day. Little Lily found a shiny coin...",
+    "moralAccuracy": 0.4452626626357831,
+    "recallAtK": 0,
+    "durationError": {
+      "absoluteError": 2,
+      "relativeError": 0.1,
+      "actualDuration": 18,
+      "expectedDuration": 20,
+      "wordCount": 43
+    },
+    "storySimilarity": null,
+    "duration_abs_error": 2,
+    "duration_actual": 18,
+    "story_sim_max": null,
+    "story_sim_avg": null
+  },
+  {
+    "timestamp": "2025-12-09T12:57:29.065Z",
+    "requestedMoral": "Help others in need",
+    "requestedDuration": 20,
+    "storyPreview": "The Helpful Puppy\n\nTimmy was walking home from sch...",
+    "moralAccuracy": 0.41183587698130975,
+    "recallAtK": 0,
+    "durationError": {
+      "absoluteError": 2,
+      "relativeError": 0.1,
+      "actualDuration": 18,
+      "expectedDuration": 20,
+      "wordCount": 44
+    },
+    "storySimilarity": null,
+    "duration_abs_error": 2,
+    "duration_actual": 18,
+    "story_sim_max": null,
+    "story_sim_avg": null
+  },
+  {
+    "timestamp": "2025-12-09T13:02:36.768Z",
+    "requestedMoral": "Feed the hungry",
+    "requestedDuration": 30,
+    "storyPreview": "Little Lila spotted a stray puppy shivering in the...",
+    "moralAccuracy": 0.34177428769286594,
+    "recallAtK": 0,
+    "durationError": {
+      "absoluteError": 7,
+      "relativeError": 0.23333333333333334,
+      "actualDuration": 23,
+      "expectedDuration": 30,
+      "wordCount": 57
+    },
+    "storySimilarity": null,
+    "duration_abs_error": 7,
+    "duration_actual": 23,
+    "story_sim_max": null,
+    "story_sim_avg": null
+  },
+  {
+    "timestamp": "2026-02-11T16:24:50.632Z",
+    "requestedMoral": "Tit for tat",
+    "requestedDuration": 30,
+    "storyPreview": "Little Bunny was hopping in the green grass. He sa...",
+    "moralAccuracy": 0.27531132034193906,
+    "recallAtK": 0,
+    "durationError": {
+      "absoluteError": 2,
+      "relativeError": 0.06666666666666667,
+      "actualDuration": 28,
+      "expectedDuration": 30,
+      "wordCount": 68
+    },
+    "storySimilarity": null,
+    "duration_abs_error": 2,
+    "duration_actual": 28,
+    "story_sim_max": null,
+    "story_sim_avg": null
+  },
+  {
+    "timestamp": "2026-02-11T17:22:47.474Z",
+    "requestedMoral": "Tit for tat",
+    "requestedDuration": 30,
+    "storyPreview": "Little Bunny was hopping in the green field. He fo...",
+    "moralAccuracy": 0.2733628503294022,
+    "recallAtK": 0,
+    "durationError": {
+      "absoluteError": 1,
+      "relativeError": 0.03333333333333333,
+      "actualDuration": 29,
+      "expectedDuration": 30,
+      "wordCount": 71
+    },
+    "storySimilarity": null,
+    "duration_abs_error": 1,
+    "duration_actual": 29,
+    "story_sim_max": null,
+    "story_sim_avg": null
+  },
+  {
+    "timestamp": "2026-02-11T17:23:05.616Z",
+    "requestedMoral": "Honesty is the best policy",
+    "requestedDuration": 30,
+    "storyPreview": "Timmy the Puppy\n\nTimmy was a happy puppy who loved...",
+    "moralAccuracy": 0.5855765334307119,
+    "recallAtK": 0,
+    "durationError": {
+      "absoluteError": 2,
+      "relativeError": 0.06666666666666667,
+      "actualDuration": 28,
+      "expectedDuration": 30,
+      "wordCount": 69
+    },
+    "storySimilarity": {
+      "maxSimilarity": 0.5982288966210788,
+      "avgSimilarity": 0.5982288966210788,
+      "minSimilarity": 0.5982288966210788
+    },
+    "duration_abs_error": 2,
+    "duration_actual": 28,
+    "story_sim_max": 0.5982288966210788,
+    "story_sim_avg": 0.5982288966210788
+  },
+  {
+    "timestamp": "2026-02-11T17:46:10.422Z",
+    "requestedMoral": "Respect",
+    "requestedDuration": 30,
+    "storyPreview": "Lily the Puppy\nLily was a small, brown puppy. She ...",
+    "moralAccuracy": 0.2902380395132687,
+    "recallAtK": 0,
+    "durationError": {
+      "absoluteError": 1,
+      "relativeError": 0.03333333333333333,
+      "actualDuration": 29,
+      "expectedDuration": 30,
+      "wordCount": 72
+    },
+    "storySimilarity": null,
+    "duration_abs_error": 1,
+    "duration_actual": 29,
+    "story_sim_max": null,
+    "story_sim_avg": null
+  },
+  {
+    "timestamp": "2026-02-12T03:38:45.271Z",
+    "requestedMoral": "Respect",
+    "requestedDuration": 30,
+    "storyPreview": "It was a sunny day. Little Lily was playing in the...",
+    "moralAccuracy": 0.24192526534714895,
+    "recallAtK": 0,
+    "durationError": {
+      "absoluteError": 4,
+      "relativeError": 0.13333333333333333,
+      "actualDuration": 26,
+      "expectedDuration": 30,
+      "wordCount": 65
+    },
+    "storySimilarity": null,
+    "duration_abs_error": 4,
+    "duration_actual": 26,
+    "story_sim_max": null,
+    "story_sim_avg": null
+  },
+  {
+    "timestamp": "2026-02-12T09:43:32.760Z",
+    "requestedMoral": "Respect",
+    "requestedDuration": 30,
+    "storyPreview": "It was a sunny day. Little Lily saw a bird's nest ...",
+    "moralAccuracy": 0.3981293650211416,
+    "recallAtK": 0,
+    "durationError": {
+      "absoluteError": 0,
+      "relativeError": 0,
+      "actualDuration": 30,
+      "expectedDuration": 30,
+      "wordCount": 73
+    },
+    "storySimilarity": null,
+    "duration_abs_error": 0,
+    "duration_actual": 30,
+    "story_sim_max": null,
+    "story_sim_avg": null
+  },
+  {
+    "timestamp": "2026-02-14T08:07:02.878Z",
+    "requestedMoral": "Teamwork",
+    "requestedDuration": 30,
+    "storyPreview": "Little Pig and Big Pig were best friends. They wan...",
+    "moralAccuracy": 0.5296560038873919,
+    "recallAtK": 0,
+    "durationError": {
+      "absoluteError": 5,
+      "relativeError": 0.16666666666666666,
+      "actualDuration": 25,
+      "expectedDuration": 30,
+      "wordCount": 61
+    },
+    "storySimilarity": null,
+    "duration_abs_error": 5,
+    "duration_actual": 25,
+    "story_sim_max": null,
+    "story_sim_avg": null
+  },
+  {
+    "timestamp": "2026-02-14T08:54:14.067Z",
+    "requestedMoral": "kindness",
+    "requestedDuration": 40,
+    "storyPreview": "The Boy saw a cat. The cat was cold. The Boy had a...",
+    "moralAccuracy": 0.47545018924055243,
+    "recallAtK": 0,
+    "durationError": {
+      "absoluteError": 8,
+      "relativeError": 0.2,
+      "actualDuration": 32,
+      "expectedDuration": 40,
+      "wordCount": 78
+    },
+    "storySimilarity": null,
+    "duration_abs_error": 8,
+    "duration_actual": 32,
+    "story_sim_max": null,
+    "story_sim_avg": null
+  },
+  {
+    "timestamp": "2026-02-17T10:29:18.656Z",
+    "requestedMoral": "Courage",
+    "requestedDuration": 30,
+    "storyPreview": "Little Lily was scared of the big, dark cave. But ...",
+    "moralAccuracy": 0.45849728396885187,
+    "recallAtK": 0,
+    "durationError": {
+      "absoluteError": 7,
+      "relativeError": 0.23333333333333334,
+      "actualDuration": 23,
+      "expectedDuration": 30,
+      "wordCount": 57
+    },
+    "storySimilarity": null,
+    "duration_abs_error": 7,
+    "duration_actual": 23,
+    "story_sim_max": null,
+    "story_sim_avg": null
+  },
+  {
+    "timestamp": "2026-02-17T11:08:28.877Z",
+    "requestedMoral": "Tit for tat",
+    "requestedDuration": 40,
+    "storyPreview": "Bunny saw a big red apple. He took a bite. \n\nBut t...",
+    "moralAccuracy": 0.38205687038784536,
+    "recallAtK": 1,
+    "durationError": {
+      "absoluteError": 18,
+      "relativeError": 0.45,
+      "actualDuration": 22,
+      "expectedDuration": 40,
+      "wordCount": 55
+    },
+    "storySimilarity": {
+      "maxSimilarity": 0.8914388009966809,
+      "avgSimilarity": 0.8436093334275726,
+      "minSimilarity": 0.7957798658584643
+    },
+    "duration_abs_error": 18,
+    "duration_actual": 22,
+    "story_sim_max": 0.8914388009966809,
+    "story_sim_avg": 0.8436093334275726
+  },
+  {
+    "timestamp": "2026-03-30T15:04:17.106Z",
+    "requestedMoral": "Telling truth",
+    "requestedDuration": 30,
+    "storyPreview": "Little Lily was a good girl, but one day she made ...",
+    "moralAccuracy": 0.4582693230843611,
+    "recallAtK": 0,
+    "durationError": {
+      "absoluteError": 4,
+      "relativeError": 0.13333333333333333,
+      "actualDuration": 34,
+      "expectedDuration": 30,
+      "wordCount": 83
+    },
+    "storySimilarity": null,
+    "duration_abs_error": 4,
+    "duration_actual": 34,
+    "story_sim_max": null,
+    "story_sim_avg": null
+  },
+  {
+    "timestamp": "2026-04-14T13:57:46.560Z",
+    "requestedMoral": "Respect",
+    "requestedDuration": 30,
+    "storyPreview": "Little Lily the Lamb loved to play in the green fi...",
+    "moralAccuracy": 0.252306171722029,
+    "recallAtK": 0,
+    "durationError": {
+      "absoluteError": 4,
+      "relativeError": 0.13333333333333333,
+      "actualDuration": 26,
+      "expectedDuration": 30,
+      "wordCount": 63
+    },
+    "storySimilarity": null,
+    "duration_abs_error": 4,
+    "duration_actual": 26,
+    "story_sim_max": null,
+    "story_sim_avg": null
+  },
+  {
+    "timestamp": "2026-04-14T14:20:17.053Z",
+    "requestedMoral": "kindness",
+    "requestedDuration": 40,
+    "storyPreview": "Little Lily was a kind girl. One day, she saw a sm...",
+    "moralAccuracy": 0.5192695761372262,
+    "recallAtK": 0,
+    "durationError": {
+      "absoluteError": 0,
+      "relativeError": 0,
+      "actualDuration": 40,
+      "expectedDuration": 40,
+      "wordCount": 98
+    },
+    "storySimilarity": null,
+    "duration_abs_error": 0,
+    "duration_actual": 40,
+    "story_sim_max": null,
+    "story_sim_avg": null
+  },
+  {
+    "timestamp": "2026-04-14T14:23:01.118Z",
+    "requestedMoral": "kindness",
+    "requestedDuration": 40,
+    "storyPreview": "It was a sunny day. Little Lily was playing in the...",
+    "moralAccuracy": 0.46796207320116895,
+    "recallAtK": 0,
+    "durationError": {
+      "absoluteError": 5,
+      "relativeError": 0.125,
+      "actualDuration": 35,
+      "expectedDuration": 40,
+      "wordCount": 87
+    },
+    "storySimilarity": null,
+    "duration_abs_error": 5,
+    "duration_actual": 35,
+    "story_sim_max": null,
+    "story_sim_avg": null
+  },
+  {
+    "timestamp": "2026-04-14T14:55:21.205Z",
+    "requestedMoral": "Tit for tat",
+    "requestedDuration": 40,
+    "storyPreview": "Little Bunny was hopping in the green grass. He sa...",
+    "moralAccuracy": 0.26345568888266657,
+    "recallAtK": 1,
+    "durationError": {
+      "absoluteError": 2,
+      "relativeError": 0.05,
+      "actualDuration": 38,
+      "expectedDuration": 40,
+      "wordCount": 94
+    },
+    "storySimilarity": {
+      "maxSimilarity": 0.9146316206022354,
+      "avgSimilarity": 0.8781875143081042,
+      "minSimilarity": 0.817385809065933
+    },
+    "duration_abs_error": 2,
+    "duration_actual": 38,
+    "story_sim_max": 0.9146316206022354,
+    "story_sim_avg": 0.8781875143081042
+  },
+  {
+    "timestamp": "2026-04-14T14:55:39.496Z",
+    "requestedMoral": "Tit for tat",
+    "requestedDuration": 40,
+    "storyPreview": "Little Bunny was hopping in the green field. He sa...",
+    "moralAccuracy": 0.30669440751470234,
+    "recallAtK": 1,
+    "durationError": {
+      "absoluteError": 3,
+      "relativeError": 0.075,
+      "actualDuration": 37,
+      "expectedDuration": 40,
+      "wordCount": 92
+    },
+    "storySimilarity": {
+      "maxSimilarity": 0.9435543239332335,
+      "avgSimilarity": 0.9233784161364524,
+      "minSimilarity": 0.9053785914026214
+    },
+    "duration_abs_error": 3,
+    "duration_actual": 37,
+    "story_sim_max": 0.9435543239332335,
+    "story_sim_avg": 0.9233784161364524
+  },
+  {
+    "timestamp": "2026-04-17T09:20:40.748Z",
+    "requestedMoral": "Respect",
+    "requestedDuration": 40,
+    "storyPreview": "It was a sunny day at the park. Sam and his dog Bu...",
+    "moralAccuracy": 0.26856702162275525,
+    "recallAtK": 0,
+    "durationError": {
+      "absoluteError": 3,
+      "relativeError": 0.075,
+      "actualDuration": 43,
+      "expectedDuration": 40,
+      "wordCount": 106
+    },
+    "storySimilarity": null,
+    "duration_abs_error": 3,
+    "duration_actual": 43,
+    "story_sim_max": null,
+    "story_sim_avg": null
+  },
+  {
+    "timestamp": "2026-04-17T10:17:50.471Z",
+    "requestedMoral": "Respect",
+    "requestedDuration": 30,
+    "storyPreview": "Once there was a little girl named Lily. Lily love...",
+    "moralAccuracy": 0.37621803801725456,
+    "recallAtK": 0,
+    "durationError": {
+      "absoluteError": 0,
+      "relativeError": 0,
+      "actualDuration": 30,
+      "expectedDuration": 30,
+      "wordCount": 75
+    },
+    "storySimilarity": null,
+    "duration_abs_error": 0,
+    "duration_actual": 30,
+    "story_sim_max": null,
+    "story_sim_avg": null
+  },
+  {
+    "timestamp": "2026-04-17T11:03:14.624Z",
+    "requestedMoral": "Tit for tat",
+    "requestedDuration": 40,
+    "storyPreview": "Little Bear was hungry. He saw a big, red apple on...",
+    "moralAccuracy": 0.2529557921650753,
+    "recallAtK": 1,
+    "durationError": {
+      "absoluteError": 1,
+      "relativeError": 0.025,
+      "actualDuration": 41,
+      "expectedDuration": 40,
+      "wordCount": 102
+    },
+    "storySimilarity": {
+      "maxSimilarity": 0.8256059940806163,
+      "avgSimilarity": 0.781284033882192,
+      "minSimilarity": 0.7369620736837676
+    },
+    "duration_abs_error": 1,
+    "duration_actual": 41,
+    "story_sim_max": 0.8256059940806163,
+    "story_sim_avg": 0.781284033882192
+  },
+  {
+    "timestamp": "2026-04-17T11:03:49.067Z",
+    "requestedMoral": "Tit for tat",
+    "requestedDuration": 40,
+    "storyPreview": "Little Duck was swimming in the pond. She found a ...",
+    "moralAccuracy": 0.33074539952076065,
+    "recallAtK": 1,
+    "durationError": {
+      "absoluteError": 4,
+      "relativeError": 0.1,
+      "actualDuration": 44,
+      "expectedDuration": 40,
+      "wordCount": 108
+    },
+    "storySimilarity": {
+      "maxSimilarity": 0.7738804621200979,
+      "avgSimilarity": 0.7453523188310078,
+      "minSimilarity": 0.7114741284556962
+    },
+    "duration_abs_error": 4,
+    "duration_actual": 44,
+    "story_sim_max": 0.7738804621200979,
+    "story_sim_avg": 0.7453523188310078
+  },
+  {
+    "timestamp": "2026-04-17T11:04:34.738Z",
+    "requestedMoral": "kindness",
+    "requestedDuration": 30,
+    "storyPreview": "Little Bunny was hopping in the green grass. He sa...",
+    "moralAccuracy": 0.4713935137086838,
+    "recallAtK": 0,
+    "durationError": {
+      "absoluteError": 6,
+      "relativeError": 0.2,
+      "actualDuration": 24,
+      "expectedDuration": 30,
+      "wordCount": 59
+    },
+    "storySimilarity": null,
+    "duration_abs_error": 6,
+    "duration_actual": 24,
+    "story_sim_max": null,
+    "story_sim_avg": null
+  },
+  {
+    "timestamp": "2026-04-17T11:06:32.252Z",
+    "requestedMoral": "kindness",
+    "requestedDuration": 30,
+    "storyPreview": "Little Lily saw a sad, lost puppy. The puppy's fur...",
+    "moralAccuracy": 0.4713865121761831,
+    "recallAtK": 0,
+    "durationError": {
+      "absoluteError": 5,
+      "relativeError": 0.16666666666666666,
+      "actualDuration": 25,
+      "expectedDuration": 30,
+      "wordCount": 61
+    },
+    "storySimilarity": null,
+    "duration_abs_error": 5,
+    "duration_actual": 25,
+    "story_sim_max": null,
+    "story_sim_avg": null
+  },
+  {
+    "timestamp": "2026-04-17T11:06:44.039Z",
+    "requestedMoral": "kindness",
+    "requestedDuration": 30,
+    "storyPreview": "Little Lily was a kind girl. One day, she saw a sm...",
+    "moralAccuracy": 0.4697880163841077,
+    "recallAtK": 0,
+    "durationError": {
+      "absoluteError": 5,
+      "relativeError": 0.16666666666666666,
+      "actualDuration": 25,
+      "expectedDuration": 30,
+      "wordCount": 62
+    },
+    "storySimilarity": null,
+    "duration_abs_error": 5,
+    "duration_actual": 25,
+    "story_sim_max": null,
+    "story_sim_avg": null
+  },
+  {
+    "timestamp": "2026-04-17T11:52:20.368Z",
+    "requestedMoral": "Helping",
+    "requestedDuration": 30,
+    "storyPreview": "Little Lily saw a small bird on the ground. Its wi...",
+    "moralAccuracy": 0.28159863582119055,
+    "recallAtK": 0,
+    "durationError": {
+      "absoluteError": 11,
+      "relativeError": 0.36666666666666664,
+      "actualDuration": 19,
+      "expectedDuration": 30,
+      "wordCount": 47
+    },
+    "storySimilarity": null,
+    "duration_abs_error": 11,
+    "duration_actual": 19,
+    "story_sim_max": null,
+    "story_sim_avg": null
+  },
+  {
+    "timestamp": "2026-05-09T22:27:18.921Z",
+    "requestedMoral": "kindness",
+    "requestedDuration": 30,
+    "storyPreview": "Little Lily saw a lost puppy. The puppy was scared...",
+    "moralAccuracy": 0.47137692063708914,
+    "recallAtK": 0,
+    "durationError": {
+      "absoluteError": 9,
+      "relativeError": 0.3,
+      "actualDuration": 21,
+      "expectedDuration": 30,
+      "wordCount": 51
+    },
+    "storySimilarity": null,
+    "duration_abs_error": 9,
+    "duration_actual": 21,
+    "story_sim_max": null,
+    "story_sim_avg": null
+  },
+  {
+    "timestamp": "2026-05-10T13:30:59.373Z",
+    "requestedMoral": "Teamwork",
+    "requestedDuration": 30,
+    "storyPreview": "Lily and Ethan were best friends who loved to play...",
+    "moralAccuracy": 0.5641816223708819,
+    "recallAtK": 0,
+    "durationError": {
+      "absoluteError": 3,
+      "relativeError": 0.1,
+      "actualDuration": 27,
+      "expectedDuration": 30,
+      "wordCount": 67
+    },
+    "storySimilarity": null,
+    "duration_abs_error": 3,
+    "duration_actual": 27,
+    "story_sim_max": null,
+    "story_sim_avg": null
+  },
+  {
+    "timestamp": "2026-05-10T13:33:03.430Z",
+    "requestedMoral": "Tit for tat",
+    "requestedDuration": 30,
+    "storyPreview": "Little Bear was walking in the green forest. He fo...",
+    "moralAccuracy": 0.2681217431923491,
+    "recallAtK": 1,
+    "durationError": {
+      "absoluteError": 0,
+      "relativeError": 0,
+      "actualDuration": 30,
+      "expectedDuration": 30,
+      "wordCount": 75
+    },
+    "storySimilarity": {
+      "maxSimilarity": 0.8550256077405834,
+      "avgSimilarity": 0.8077183950689083,
+      "minSimilarity": 0.7382990408205953
+    },
+    "duration_abs_error": 0,
+    "duration_actual": 30,
+    "story_sim_max": 0.8550256077405834,
+    "story_sim_avg": 0.8077183950689083
+  },
+  {
+    "timestamp": "2026-05-10T13:52:55.029Z",
+    "requestedMoral": "Honesty is the best policy",
+    "requestedDuration": 40,
+    "storyPreview": "Tommy the Pup\n\nTommy was a happy pup who loved to ...",
+    "moralAccuracy": 0.5747147740600532,
+    "recallAtK": 0.5,
+    "durationError": {
+      "absoluteError": 3,
+      "relativeError": 0.075,
+      "actualDuration": 43,
+      "expectedDuration": 40,
+      "wordCount": 107
+    },
+    "storySimilarity": {
+      "maxSimilarity": 0.8083521951095429,
+      "avgSimilarity": 0.6906668900087497,
+      "minSimilarity": 0.5729815849079565
+    },
+    "duration_abs_error": 3,
+    "duration_actual": 43,
+    "story_sim_max": 0.8083521951095429,
+    "story_sim_avg": 0.6906668900087497
+  },
+  {
+    "timestamp": "2026-05-10T14:58:45.654Z",
+    "requestedMoral": "Honesty is the best policy",
+    "requestedDuration": 40,
+    "storyPreview": "Timmy's Toy\n\nTimmy was a happy boy who loved his t...",
+    "moralAccuracy": 0.5961158749687284,
+    "recallAtK": 0.6666666666666666,
+    "durationError": {
+      "absoluteError": 3,
+      "relativeError": 0.075,
+      "actualDuration": 43,
+      "expectedDuration": 40,
+      "wordCount": 106
+    },
+    "storySimilarity": {
+      "maxSimilarity": 0.8063497373720966,
+      "avgSimilarity": 0.7379029882561451,
+      "minSimilarity": 0.6049070065030969
+    },
+    "duration_abs_error": 3,
+    "duration_actual": 43,
+    "story_sim_max": 0.8063497373720966,
+    "story_sim_avg": 0.7379029882561451
+  },
+  {
+    "timestamp": "2026-05-10T17:12:59.195Z",
+    "requestedMoral": "gratitude",
+    "requestedDuration": 30,
+    "storyPreview": "Little Lila loved to play in the bright green gras...",
+    "moralAccuracy": 0.5618917764242147,
+    "recallAtK": 0,
+    "durationError": {
+      "absoluteError": 12,
+      "relativeError": 0.4,
+      "actualDuration": 18,
+      "expectedDuration": 30,
+      "wordCount": 44
+    },
+    "storySimilarity": null,
+    "duration_abs_error": 12,
+    "duration_actual": 18,
+    "story_sim_max": null,
+    "story_sim_avg": null
+  },
+  {
+    "timestamp": "2026-05-10T17:23:20.968Z",
+    "requestedMoral": "gratitude",
+    "requestedDuration": 30,
+    "storyPreview": "Little Lily loved to play in the warm sun. One day...",
+    "moralAccuracy": 0.40201083580173247,
+    "recallAtK": 1,
+    "durationError": {
+      "absoluteError": 6,
+      "relativeError": 0.2,
+      "actualDuration": 24,
+      "expectedDuration": 30,
+      "wordCount": 58
+    },
+    "storySimilarity": {
+      "maxSimilarity": 0.8729051064153376,
+      "avgSimilarity": 0.8729051064153376,
+      "minSimilarity": 0.8729051064153376
+    },
+    "duration_abs_error": 6,
+    "duration_actual": 24,
+    "story_sim_max": 0.8729051064153376,
+    "story_sim_avg": 0.8729051064153376
+  },
+  {
+    "timestamp": "2026-05-10T17:27:49.626Z",
+    "requestedMoral": "gratitude",
+    "requestedDuration": 30,
+    "storyPreview": "Jack loved to play in the big park near his house....",
+    "moralAccuracy": 0.4940063387985341,
+    "recallAtK": 1,
+    "durationError": {
+      "absoluteError": 7,
+      "relativeError": 0.23333333333333334,
+      "actualDuration": 23,
+      "expectedDuration": 30,
+      "wordCount": 56
+    },
+    "storySimilarity": {
+      "maxSimilarity": 0.6861067166178458,
+      "avgSimilarity": 0.6861067166178458,
+      "minSimilarity": 0.6861067166178458
+    },
+    "duration_abs_error": 7,
+    "duration_actual": 23,
+    "story_sim_max": 0.6861067166178458,
+    "story_sim_avg": 0.6861067166178458
+  },
+  {
+    "timestamp": "2026-05-10T17:55:32.356Z",
+    "requestedMoral": "Honesty is the best policy",
+    "requestedDuration": 40,
+    "storyPreview": "The Honest Puppy\n\nDaisy was a sweet little puppy w...",
+    "moralAccuracy": 0.7262627361057697,
+    "recallAtK": 0.6666666666666666,
+    "durationError": {
+      "absoluteError": 6,
+      "relativeError": 0.15,
+      "actualDuration": 46,
+      "expectedDuration": 40,
+      "wordCount": 113
+    },
+    "storySimilarity": {
+      "maxSimilarity": 0.8051378044917546,
+      "avgSimilarity": 0.740998584949331,
+      "minSimilarity": 0.6194169564984419
+    },
+    "duration_abs_error": 6,
+    "duration_actual": 46,
+    "story_sim_max": 0.8051378044917546,
+    "story_sim_avg": 0.740998584949331
+  },
+  {
+    "timestamp": "2026-05-10T17:59:20.282Z",
+    "requestedMoral": "Honesty is the best policy",
+    "requestedDuration": 30,
+    "storyPreview": "Lily the Puppy's Big Mistake\n\nLily was a happy pup...",
+    "moralAccuracy": 0.7262254837609495,
+    "recallAtK": 1,
+    "durationError": {
+      "absoluteError": 6,
+      "relativeError": 0.2,
+      "actualDuration": 36,
+      "expectedDuration": 30,
+      "wordCount": 88
+    },
+    "storySimilarity": {
+      "maxSimilarity": 0.7900233653258784,
+      "avgSimilarity": 0.7605800841850406,
+      "minSimilarity": 0.7048011991555352
+    },
+    "duration_abs_error": 6,
+    "duration_actual": 36,
+    "story_sim_max": 0.7900233653258784,
+    "story_sim_avg": 0.7605800841850406
+  },
+  {
+    "timestamp": "2026-05-10T19:38:56.483Z",
+    "requestedMoral": "Teamwork",
+    "requestedDuration": 30,
+    "storyPreview": "Little Bunny lost his favorite red ball. He looked...",
+    "moralAccuracy": 0.5526996824933865,
+    "recallAtK": 0,
+    "durationError": {
+      "absoluteError": 4,
+      "relativeError": 0.13333333333333333,
+      "actualDuration": 26,
+      "expectedDuration": 30,
+      "wordCount": 63
+    },
+    "storySimilarity": null,
+    "duration_abs_error": 4,
+    "duration_actual": 26,
+    "story_sim_max": null,
+    "story_sim_avg": null
+  },
+  {
+    "timestamp": "2026-05-10T20:22:32.200Z",
+    "requestedMoral": "Honesty is the best policy",
+    "requestedDuration": 30,
+    "storyPreview": "The Boy and the Toy\n\nA boy had a toy. The boy took...",
+    "moralAccuracy": 0.5924759405048912,
+    "recallAtK": 1,
+    "durationError": {
+      "absoluteError": 8,
+      "relativeError": 0.26666666666666666,
+      "actualDuration": 22,
+      "expectedDuration": 30,
+      "wordCount": 53
+    },
+    "storySimilarity": {
+      "maxSimilarity": 0.7426717555857374,
+      "avgSimilarity": 0.7162999020646161,
+      "minSimilarity": 0.6905374944295658
+    },
+    "duration_abs_error": 8,
+    "duration_actual": 22,
+    "story_sim_max": 0.7426717555857374,
+    "story_sim_avg": 0.7162999020646161
+  },
+  {
+    "timestamp": "2026-05-10T20:31:11.647Z",
+    "requestedMoral": "Teamwork",
+    "requestedDuration": 40,
+    "storyPreview": "The Big Race\n\nIt was the big race day! All the kid...",
+    "moralAccuracy": 0.5085642120108851,
+    "recallAtK": 0,
+    "durationError": {
+      "absoluteError": 4,
+      "relativeError": 0.1,
+      "actualDuration": 36,
+      "expectedDuration": 40,
+      "wordCount": 90
+    },
+    "storySimilarity": null,
+    "duration_abs_error": 4,
+    "duration_actual": 36,
+    "story_sim_max": null,
+    "story_sim_avg": null
+  },
+  {
+    "timestamp": "2026-05-10T20:52:06.039Z",
+    "requestedMoral": "Friend in need is friend indeed",
+    "requestedDuration": 30,
+    "storyPreview": "It was a sunny day. Little Bear saw his friend Bun...",
+    "moralAccuracy": 0.5649291926011518,
+    "recallAtK": 0,
+    "durationError": {
+      "absoluteError": 7,
+      "relativeError": 0.23333333333333334,
+      "actualDuration": 23,
+      "expectedDuration": 30,
+      "wordCount": 57
+    },
+    "storySimilarity": null,
+    "duration_abs_error": 7,
+    "duration_actual": 23,
+    "story_sim_max": null,
+    "story_sim_avg": null
+  },
+  {
+    "timestamp": "2026-05-11T18:58:49.331Z",
+    "requestedMoral": "forgiveness",
+    "requestedDuration": 30,
+    "storyPreview": "Lily was sad. Her best friend Tom had broken her n...",
+    "moralAccuracy": 0.46421893675106213,
+    "recallAtK": 0,
+    "durationError": {
+      "absoluteError": 5,
+      "relativeError": 0.16666666666666666,
+      "actualDuration": 25,
+      "expectedDuration": 30,
+      "wordCount": 62
+    },
+    "storySimilarity": null,
+    "duration_abs_error": 5,
+    "duration_actual": 25,
+    "story_sim_max": null,
+    "story_sim_avg": null
+  },
+  {
+    "timestamp": "2026-05-11T19:14:54.405Z",
+    "requestedMoral": "forgiveness",
+    "requestedDuration": 30,
+    "storyPreview": "Once upon a time, there were two cats named Whiske...",
+    "moralAccuracy": 0.509539391400252,
+    "recallAtK": 0,
+    "durationError": {
+      "absoluteError": 1,
+      "relativeError": 0.03333333333333333,
+      "actualDuration": 29,
+      "expectedDuration": 30,
+      "wordCount": 72
+    },
+    "storySimilarity": null,
+    "duration_abs_error": 1,
+    "duration_actual": 29,
+    "story_sim_max": null,
+    "story_sim_avg": null
+  },
+  {
+    "timestamp": "2026-05-12T17:19:00.174Z",
+    "requestedMoral": "Responsibility",
+    "requestedDuration": 40,
+    "storyPreview": "It was a sunny day. Little Milo was playing in the...",
+    "moralAccuracy": 0.42195547756960006,
+    "recallAtK": 0,
+    "durationError": {
+      "absoluteError": 7,
+      "relativeError": 0.175,
+      "actualDuration": 33,
+      "expectedDuration": 40,
+      "wordCount": 81
+    },
+    "storySimilarity": null,
+    "duration_abs_error": 7,
+    "duration_actual": 33,
+    "story_sim_max": null,
+    "story_sim_avg": null
+  },
+  {
+    "timestamp": "2026-05-12T17:41:33.596Z",
+    "requestedMoral": "sharing is caring",
+    "requestedDuration": 30,
+    "storyPreview": "It was a sunny day in the park. Little Timmy was e...",
+    "moralAccuracy": 0.6208251701429751,
+    "recallAtK": 1,
+    "durationError": {
+      "absoluteError": 3,
+      "relativeError": 0.1,
+      "actualDuration": 27,
+      "expectedDuration": 30,
+      "wordCount": 66
+    },
+    "storySimilarity": {
+      "maxSimilarity": 0.7561863623266243,
+      "avgSimilarity": 0.7561863623266243,
+      "minSimilarity": 0.7561863623266243
+    },
+    "duration_abs_error": 3,
+    "duration_actual": 27,
+    "story_sim_max": 0.7561863623266243,
+    "story_sim_avg": 0.7561863623266243
+  },
+  {
+    "timestamp": "2026-05-12T18:11:37.903Z",
+    "requestedMoral": "sharing is caring",
+    "requestedDuration": 30,
+    "storyPreview": "Once upon a time, there were two sisters named Lil...",
+    "moralAccuracy": 0.5575546727353256,
+    "recallAtK": 1,
+    "durationError": {
+      "absoluteError": 6,
+      "relativeError": 0.2,
+      "actualDuration": 24,
+      "expectedDuration": 30,
+      "wordCount": 60
+    },
+    "storySimilarity": {
+      "maxSimilarity": 0.708750964042635,
+      "avgSimilarity": 0.6572610046920262,
+      "minSimilarity": 0.6057710453414175
+    },
+    "duration_abs_error": 6,
+    "duration_actual": 24,
+    "story_sim_max": 0.708750964042635,
+    "story_sim_avg": 0.6572610046920262
+  },
+  {
+    "timestamp": "2026-05-13T05:48:15.580Z",
+    "requestedMoral": "Teamwork",
+    "requestedDuration": 40,
+    "storyPreview": "Lily the Puppy's Big Job\n\nLily the puppy had a big...",
+    "moralAccuracy": 0.45670202469110766,
+    "recallAtK": 0,
+    "durationError": {
+      "absoluteError": 1,
+      "relativeError": 0.025,
+      "actualDuration": 39,
+      "expectedDuration": 40,
+      "wordCount": 97
+    },
+    "storySimilarity": null,
+    "duration_abs_error": 1,
+    "duration_actual": 39,
+    "story_sim_max": null,
+    "story_sim_avg": null
+  },
+  {
+    "timestamp": "2026-05-14T09:28:33.699Z",
+    "requestedMoral": "Tit for tat",
+    "requestedDuration": 30,
+    "storyPreview": "Tiny Squirrel was hungry. He found a big, red appl...",
+    "moralAccuracy": 0.25287262164683244,
+    "recallAtK": 1,
+    "durationError": {
+      "absoluteError": 10,
+      "relativeError": 0.3333333333333333,
+      "actualDuration": 40,
+      "expectedDuration": 30,
+      "wordCount": 99
+    },
+    "storySimilarity": {
+      "maxSimilarity": 0.7982719329369095,
+      "avgSimilarity": 0.7786291248199824,
+      "minSimilarity": 0.7519940384545742
+    },
+    "duration_abs_error": 10,
+    "duration_actual": 40,
+    "story_sim_max": 0.7982719329369095,
+    "story_sim_avg": 0.7786291248199824
+  },
+  {
+    "timestamp": "2026-05-14T10:22:12.468Z",
+    "requestedMoral": "Kindness",
+    "requestedDuration": 30,
+    "storyPreview": "Tommy was a kind boy. One day, he saw a small bird...",
+    "moralAccuracy": 0.5358791121854112,
+    "recallAtK": 1,
+    "durationError": {
+      "absoluteError": 8,
+      "relativeError": 0.26666666666666666,
+      "actualDuration": 22,
+      "expectedDuration": 30,
+      "wordCount": 54
+    },
+    "storySimilarity": {
+      "maxSimilarity": 0.6476174095292708,
+      "avgSimilarity": 0.6476174095292708,
+      "minSimilarity": 0.6476174095292708
+    },
+    "duration_abs_error": 8,
+    "duration_actual": 22,
+    "story_sim_max": 0.6476174095292708,
+    "story_sim_avg": 0.6476174095292708
+  },
+  {
+    "timestamp": "2026-05-14T11:06:28.159Z",
+    "requestedMoral": "Honesty is the best policy",
+    "requestedDuration": 40,
+    "storyPreview": "The Lost Toy\n\nLily was a little girl who loved her...",
+    "moralAccuracy": 0.7262556479990615,
+    "recallAtK": 1,
+    "durationError": {
+      "absoluteError": 5,
+      "relativeError": 0.125,
+      "actualDuration": 45,
+      "expectedDuration": 40,
+      "wordCount": 111
+    },
+    "storySimilarity": {
+      "maxSimilarity": 0.7141570275862881,
+      "avgSimilarity": 0.6749710040926188,
+      "minSimilarity": 0.6336066454380979
+    },
+    "duration_abs_error": 5,
+    "duration_actual": 45,
+    "story_sim_max": 0.7141570275862881,
+    "story_sim_avg": 0.6749710040926188
+  },
+  {
+    "timestamp": "2026-05-14T11:24:19.370Z",
+    "requestedMoral": "Honesty is the best policy",
+    "requestedDuration": 40,
+    "storyPreview": "Little Lily was a kind girl who loved to help her ...",
+    "moralAccuracy": 0.5182546611969107,
+    "recallAtK": 1,
+    "durationError": {
+      "absoluteError": 3,
+      "relativeError": 0.075,
+      "actualDuration": 37,
+      "expectedDuration": 40,
+      "wordCount": 92
+    },
+    "storySimilarity": {
+      "maxSimilarity": 0.7028751507657408,
+      "avgSimilarity": 0.6688974117939468,
+      "minSimilarity": 0.6349196728221528
+    },
+    "duration_abs_error": 3,
+    "duration_actual": 37,
+    "story_sim_max": 0.7028751507657408,
+    "story_sim_avg": 0.6688974117939468
+  },
+  {
+    "timestamp": "2026-05-14T21:13:41.444Z",
+    "requestedMoral": "Patience",
+    "requestedDuration": 40,
+    "storyPreview": "Little Bunny was a busy rabbit. He hopped and jump...",
+    "moralAccuracy": 0.6201914362315453,
+    "recallAtK": 0,
+    "durationError": {
+      "absoluteError": 1,
+      "relativeError": 0.025,
+      "actualDuration": 41,
+      "expectedDuration": 40,
+      "wordCount": 102
+    },
+    "storySimilarity": null,
+    "duration_abs_error": 1,
+    "duration_actual": 41,
+    "story_sim_max": null,
+    "story_sim_avg": null
+  },
+  {
+    "timestamp": "2026-05-14T21:32:07.933Z",
+    "requestedMoral": "equality",
+    "requestedDuration": 40,
+    "storyPreview": "The Flower Friends\n\nSara loved her garden. She had...",
+    "moralAccuracy": 0.35932177454700415,
+    "recallAtK": 0,
+    "durationError": {
+      "absoluteError": 2,
+      "relativeError": 0.05,
+      "actualDuration": 38,
+      "expectedDuration": 40,
+      "wordCount": 93
+    },
+    "storySimilarity": null,
+    "duration_abs_error": 2,
+    "duration_actual": 38,
+    "story_sim_max": null,
+    "story_sim_avg": null
+  },
+  {
+    "timestamp": "2026-05-14T22:08:25.456Z",
+    "requestedMoral": "equality",
+    "requestedDuration": 40,
+    "storyPreview": "Lily was a little girl who loved to play. One day,...",
+    "moralAccuracy": 0.3897268574675661,
+    "recallAtK": 0,
+    "durationError": {
+      "absoluteError": 2,
+      "relativeError": 0.05,
+      "actualDuration": 38,
+      "expectedDuration": 40,
+      "wordCount": 94
+    },
+    "storySimilarity": null,
+    "duration_abs_error": 2,
+    "duration_actual": 38,
+    "story_sim_max": null,
+    "story_sim_avg": null
+  },
+  {
+    "timestamp": "2026-05-14T22:13:12.720Z",
+    "requestedMoral": "Honesty is the best policy",
+    "requestedDuration": 40,
+    "storyPreview": "The Lost Toy\n\nLily was a sweet little girl who lov...",
+    "moralAccuracy": 0.726218381276248,
+    "recallAtK": 1,
+    "durationError": {
+      "absoluteError": 2,
+      "relativeError": 0.05,
+      "actualDuration": 42,
+      "expectedDuration": 40,
+      "wordCount": 105
+    },
+    "storySimilarity": {
+      "maxSimilarity": 0.7972114382178264,
+      "avgSimilarity": 0.7687873857475837,
+      "minSimilarity": 0.7331649374157028
+    },
+    "duration_abs_error": 2,
+    "duration_actual": 42,
+    "story_sim_max": 0.7972114382178264,
+    "story_sim_avg": 0.7687873857475837
+  },
+  {
+    "timestamp": "2026-05-14T22:32:52.776Z",
+    "requestedMoral": "Honesty is the best policy",
+    "requestedDuration": 40,
+    "storyPreview": "Once upon a time, there was a little girl named Li...",
+    "moralAccuracy": 0.7262254837609495,
+    "recallAtK": 1,
+    "durationError": {
+      "absoluteError": 8,
+      "relativeError": 0.2,
+      "actualDuration": 48,
+      "expectedDuration": 40,
+      "wordCount": 118
+    },
+    "storySimilarity": {
+      "maxSimilarity": 0.7594203810647225,
+      "avgSimilarity": 0.7274097822406556,
+      "minSimilarity": 0.6953991834165887
+    },
+    "duration_abs_error": 8,
+    "duration_actual": 48,
+    "story_sim_max": 0.7594203810647225,
+    "story_sim_avg": 0.7274097822406556
+  },
+  {
+    "timestamp": "2026-05-15T05:27:15.532Z",
+    "requestedMoral": "Honesty is the best policy",
+    "requestedDuration": 40,
+    "storyPreview": "Little Lily loved to draw. One day, she made a big...",
+    "moralAccuracy": 0.7262556479990615,
+    "recallAtK": 0,
+    "durationError": {
+      "absoluteError": 1,
+      "relativeError": 0.025,
+      "actualDuration": 41,
+      "expectedDuration": 40,
+      "wordCount": 101
+    },
+    "storySimilarity": null,
+    "duration_abs_error": 1,
+    "duration_actual": 41,
+    "story_sim_max": null,
+    "story_sim_avg": null
+  },
+  {
+    "timestamp": "2026-05-15T05:30:38.119Z",
+    "requestedMoral": "Teamwork",
+    "requestedDuration": 30,
+    "storyPreview": "Timmy and Tina were best friends. One day, they fo...",
+    "moralAccuracy": 0.5450745734793071,
+    "recallAtK": 0,
+    "durationError": {
+      "absoluteError": 3,
+      "relativeError": 0.1,
+      "actualDuration": 27,
+      "expectedDuration": 30,
+      "wordCount": 66
+    },
+    "storySimilarity": null,
+    "duration_abs_error": 3,
+    "duration_actual": 27,
+    "story_sim_max": null,
+    "story_sim_avg": null
+  },
+  {
+    "timestamp": "2026-05-15T05:42:22.860Z",
+    "requestedMoral": "Friend in need is friend indeed",
+    "requestedDuration": 30,
+    "storyPreview": "Cat was lost. Dog saw Cat. Dog said, \"I can help y...",
+    "moralAccuracy": 0.577001826270122,
+    "recallAtK": 0,
+    "durationError": {
+      "absoluteError": 6,
+      "relativeError": 0.2,
+      "actualDuration": 24,
+      "expectedDuration": 30,
+      "wordCount": 59
+    },
+    "storySimilarity": null,
+    "duration_abs_error": 6,
+    "duration_actual": 24,
+    "story_sim_max": null,
+    "story_sim_avg": null
+  },
+  {
+    "timestamp": "2026-05-15T05:56:34.588Z",
+    "requestedMoral": "Teamwork",
+    "requestedDuration": 20,
+    "storyPreview": "Liam and Lily wanted to build a big sand castle. L...",
+    "moralAccuracy": 0.5575186628599085,
+    "recallAtK": 0,
+    "durationError": {
+      "absoluteError": 4,
+      "relativeError": 0.2,
+      "actualDuration": 16,
+      "expectedDuration": 20,
+      "wordCount": 40
+    },
+    "storySimilarity": null,
+    "duration_abs_error": 4,
+    "duration_actual": 16,
+    "story_sim_max": null,
+    "story_sim_avg": null
+  },
+  {
+    "timestamp": "2026-05-15T06:23:01.994Z",
+    "requestedMoral": "Jealousy",
+    "requestedDuration": 20,
+    "storyPreview": "Sally had a new red ball. Her friend Jill saw the ...",
+    "moralAccuracy": 0.3804226218900586,
+    "recallAtK": 0,
+    "durationError": {
+      "absoluteError": 1,
+      "relativeError": 0.05,
+      "actualDuration": 21,
+      "expectedDuration": 20,
+      "wordCount": 51
+    },
+    "storySimilarity": null,
+    "duration_abs_error": 1,
+    "duration_actual": 21,
+    "story_sim_max": null,
+    "story_sim_avg": null
+  },
+  {
+    "timestamp": "2026-05-26T00:50:03.642Z",
+    "requestedMoral": "Kindness",
+    "requestedDuration": 30,
+    "storyPreview": "Little Lily was a kind girl. One day, she saw a sm...",
+    "moralAccuracy": 0.48550308012118815,
+    "recallAtK": 1,
+    "durationError": {
+      "absoluteError": 4,
+      "relativeError": 0.13333333333333333,
+      "actualDuration": 26,
+      "expectedDuration": 30,
+      "wordCount": 63
+    },
+    "storySimilarity": {
+      "maxSimilarity": 0.6056858665406438,
+      "avgSimilarity": 0.6056858665406438,
+      "minSimilarity": 0.6056858665406438
+    },
+    "duration_abs_error": 4,
+    "duration_actual": 26,
+    "story_sim_max": 0.6056858665406438,
+    "story_sim_avg": 0.6056858665406438
+  },
+  {
+    "timestamp": "2026-06-07T19:59:15.865Z",
+    "requestedMoral": "Kindness",
+    "requestedDuration": 40,
+    "storyPreview": "It was a cold, dark night. Little Liam saw a small...",
+    "moralAccuracy": 0.5111697320391195,
+    "recallAtK": 1,
+    "durationError": {
+      "absoluteError": 0,
+      "relativeError": 0,
+      "actualDuration": 40,
+      "expectedDuration": 40,
+      "wordCount": 100
+    },
+    "storySimilarity": {
+      "maxSimilarity": 0.6749425693388712,
+      "avgSimilarity": 0.6749425693388712,
+      "minSimilarity": 0.6749425693388712
+    },
+    "duration_abs_error": 0,
+    "duration_actual": 40,
+    "story_sim_max": 0.6749425693388712,
+    "story_sim_avg": 0.6749425693388712
+  }
+]

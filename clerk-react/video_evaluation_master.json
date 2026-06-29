@@ -1,0 +1,87 @@
+{
+  "story_count": 6,
+  "stories": [
+    {
+      "story_id": "story_1778607693591_13v014",
+      "scene_count": 9,
+      "total_pipeline_sec": 728.32,
+      "avg_sync_error_sec": 0.0,
+      "avg_prompt_adherence": 1.0,
+      "avg_sharpness_improvement": 0.398,
+      "avg_fetch_sec": 80.296,
+      "avg_upscale_sec": 0.187,
+      "avg_ffmpeg_sec": 5.886,
+      "avg_wpm": 169.344
+    },
+    {
+      "story_id": "story_1778609497855_n6pson",
+      "scene_count": 7,
+      "total_pipeline_sec": 470.72,
+      "avg_sync_error_sec": 0.0,
+      "avg_prompt_adherence": 1.0,
+      "avg_sharpness_improvement": 0.399,
+      "avg_fetch_sec": 65.079,
+      "avg_upscale_sec": 0.256,
+      "avg_ffmpeg_sec": 9.731,
+      "avg_wpm": 190.686
+    },
+    {
+      "story_id": "story_1778756787997_u0l9ti",
+      "scene_count": 10,
+      "total_pipeline_sec": 824.92,
+      "avg_sync_error_sec": 0.0,
+      "avg_prompt_adherence": 1.0,
+      "avg_sharpness_improvement": 0.387,
+      "avg_fetch_sec": 81.579,
+      "avg_upscale_sec": 0.23,
+      "avg_ffmpeg_sec": 9.615,
+      "avg_wpm": 172.46
+    },
+    {
+      "story_id": "story_1778757859361_5kmp52",
+      "scene_count": 9,
+      "total_pipeline_sec": 734.23,
+      "avg_sync_error_sec": 0.192,
+      "avg_prompt_adherence": 1.0,
+      "avg_sharpness_improvement": 0.369,
+      "avg_fetch_sec": 80.687,
+      "avg_upscale_sec": 0.218,
+      "avg_ffmpeg_sec": 9.888,
+      "avg_wpm": 178.878
+    },
+    {
+      "story_id": "story_1778793221409_j8ztoj",
+      "scene_count": 15,
+      "total_pipeline_sec": 1273.15,
+      "avg_sync_error_sec": 0.0,
+      "avg_prompt_adherence": 1.0,
+      "avg_sharpness_improvement": 0.432,
+      "avg_fetch_sec": 84.382,
+      "avg_upscale_sec": 0.169,
+      "avg_ffmpeg_sec": 6.421,
+      "avg_wpm": 154.667
+    },
+    {
+      "story_id": "story_1778794327899_hd18ww",
+      "scene_count": 12,
+      "total_pipeline_sec": 1252.02,
+      "avg_sync_error_sec": 0.0,
+      "avg_prompt_adherence": 1.0,
+      "avg_sharpness_improvement": 0.387,
+      "avg_fetch_sec": 103.471,
+      "avg_upscale_sec": 0.172,
+      "avg_ffmpeg_sec": 7.4,
+      "avg_wpm": 147.608
+    }
+  ],
+  "aggregate": {
+    "M5_avg_av_sync_error_sec": 0.032,
+    "M6_avg_prompt_adherence": 1.0,
+    "M7_avg_sharpness_improvement": 0.395,
+    "M8_avg_fetch_sec": 82.582,
+    "M8_avg_upscale_sec": 0.205,
+    "M8_avg_ffmpeg_sec": 8.157,
+    "M8_avg_total_pipeline_sec": 880.56,
+    "M9_avg_speaking_rate_wpm": 168.941
+  }
+}

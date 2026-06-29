@@ -1,0 +1,248 @@
+{
+  "story_id": "story_1778793221409_j8ztoj",
+  "final_video": "C:\\Users\\ABC\\Downloads\\FYP_Arcana\\FYP_Latest\\FYP_Mid1_Ver2\\FYP_Mid1_Ver2\\FYP_Mid1\\clerk-react\\output_videos\\story_1778793221409_j8ztoj.mp4",
+  "temp_dir": "C:\\Users\\ABC\\Downloads\\FYP_Arcana\\FYP_Latest\\FYP_Mid1_Ver2\\FYP_Mid1_Ver2\\FYP_Mid1\\clerk-react\\output_videos\\temp_story_1778793221409_j8ztoj",
+  "total_pipeline_sec": 1273.15,
+  "scenes": [
+    {
+      "scene_index": 0,
+      "sentence": "Little Bunny was a busy rabbit.",
+      "prompt_used": "Whimsical colorful 2D storybook illustration for children, magical, soft lighting. Little Bunny was a busy rabbit.",
+      "img_path": "C:\\Users\\ABC\\Downloads\\FYP_Arcana\\FYP_Latest\\FYP_Mid1_Ver2\\FYP_Mid1_Ver2\\FYP_Mid1\\clerk-react\\output_videos\\temp_story_1778793221409_j8ztoj\\scene_0.jpg",
+      "img_original_path": "C:\\Users\\ABC\\Downloads\\FYP_Arcana\\FYP_Latest\\FYP_Mid1_Ver2\\FYP_Mid1_Ver2\\FYP_Mid1\\clerk-react\\output_videos\\temp_story_1778793221409_j8ztoj\\scene_0_original.jpg",
+      "audio_path": "C:\\Users\\ABC\\Downloads\\FYP_Arcana\\FYP_Latest\\FYP_Mid1_Ver2\\FYP_Mid1_Ver2\\FYP_Mid1\\clerk-react\\output_videos\\temp_story_1778793221409_j8ztoj\\scene_0.mp3",
+      "vid_path": "C:\\Users\\ABC\\Downloads\\FYP_Arcana\\FYP_Latest\\FYP_Mid1_Ver2\\FYP_Mid1_Ver2\\FYP_Mid1\\clerk-react\\output_videos\\temp_story_1778793221409_j8ztoj\\scene_0.mp4",
+      "word_count": 6,
+      "timing": {
+        "fetch_sec": 6.18,
+        "upscale_sec": 0.29,
+        "ffmpeg_sec": 11.03,
+        "total_sec": 17.51
+      }
+    },
+    {
+      "scene_index": 1,
+      "sentence": "He hopped and jumped all day long.",
+      "prompt_used": "Whimsical colorful 2D storybook illustration for children, magical, soft lighting. He hopped and jumped all day long.",
+      "img_path": "C:\\Users\\ABC\\Downloads\\FYP_Arcana\\FYP_Latest\\FYP_Mid1_Ver2\\FYP_Mid1_Ver2\\FYP_Mid1\\clerk-react\\output_videos\\temp_story_1778793221409_j8ztoj\\scene_1.jpg",
+      "img_original_path": "C:\\Users\\ABC\\Downloads\\FYP_Arcana\\FYP_Latest\\FYP_Mid1_Ver2\\FYP_Mid1_Ver2\\FYP_Mid1\\clerk-react\\output_videos\\temp_story_1778793221409_j8ztoj\\scene_1_original.jpg",
+      "audio_path": "C:\\Users\\ABC\\Downloads\\FYP_Arcana\\FYP_Latest\\FYP_Mid1_Ver2\\FYP_Mid1_Ver2\\FYP_Mid1\\clerk-react\\output_videos\\temp_story_1778793221409_j8ztoj\\scene_1.mp3",
+      "vid_path": "C:\\Users\\ABC\\Downloads\\FYP_Arcana\\FYP_Latest\\FYP_Mid1_Ver2\\FYP_Mid1_Ver2\\FYP_Mid1\\clerk-react\\output_videos\\temp_story_1778793221409_j8ztoj\\scene_1.mp4",
+      "word_count": 7,
+      "timing": {
+        "fetch_sec": 89.85,
+        "upscale_sec": 0.15,
+        "ffmpeg_sec": 6.48,
+        "total_sec": 102.67
+      }
+    },
+    {
+      "scene_index": 2,
+      "sentence": "One day, Bunny saw a big, juicy carrot.",
+      "prompt_used": "Whimsical colorful 2D storybook illustration for children, magical, soft lighting. One day, Bunny saw a big, juicy carrot.",
+      "img_path": "C:\\Users\\ABC\\Downloads\\FYP_Arcana\\FYP_Latest\\FYP_Mid1_Ver2\\FYP_Mid1_Ver2\\FYP_Mid1\\clerk-react\\output_videos\\temp_story_1778793221409_j8ztoj\\scene_2.jpg",
+      "img_original_path": "C:\\Users\\ABC\\Downloads\\FYP_Arcana\\FYP_Latest\\FYP_Mid1_Ver2\\FYP_Mid1_Ver2\\FYP_Mid1\\clerk-react\\output_videos\\temp_story_1778793221409_j8ztoj\\scene_2_original.jpg",
+      "audio_path": "C:\\Users\\ABC\\Downloads\\FYP_Arcana\\FYP_Latest\\FYP_Mid1_Ver2\\FYP_Mid1_Ver2\\FYP_Mid1\\clerk-react\\output_videos\\temp_story_1778793221409_j8ztoj\\scene_2.mp3",
+      "vid_path": "C:\\Users\\ABC\\Downloads\\FYP_Arcana\\FYP_Latest\\FYP_Mid1_Ver2\\FYP_Mid1_Ver2\\FYP_Mid1\\clerk-react\\output_videos\\temp_story_1778793221409_j8ztoj\\scene_2.mp4",
+      "word_count": 8,
+      "timing": {
+        "fetch_sec": 90.18,
+        "upscale_sec": 0.22,
+        "ffmpeg_sec": 6.6,
+        "total_sec": 193.05
+      }
+    },
+    {
+      "scene_index": 3,
+      "sentence": "\"Yum!\" he said.",
+      "prompt_used": "Whimsical colorful 2D storybook illustration for children, magical, soft lighting. \"Yum!\" he said.",
+      "img_path": "C:\\Users\\ABC\\Downloads\\FYP_Arcana\\FYP_Latest\\FYP_Mid1_Ver2\\FYP_Mid1_Ver2\\FYP_Mid1\\clerk-react\\output_videos\\temp_story_1778793221409_j8ztoj\\scene_3.jpg",
+      "img_original_path": "C:\\Users\\ABC\\Downloads\\FYP_Arcana\\FYP_Latest\\FYP_Mid1_Ver2\\FYP_Mid1_Ver2\\FYP_Mid1\\clerk-react\\output_videos\\temp_story_1778793221409_j8ztoj\\scene_3_original.jpg",
+      "audio_path": "C:\\Users\\ABC\\Downloads\\FYP_Arcana\\FYP_Latest\\FYP_Mid1_Ver2\\FYP_Mid1_Ver2\\FYP_Mid1\\clerk-react\\output_videos\\temp_story_1778793221409_j8ztoj\\scene_3.mp3",
+      "vid_path": "C:\\Users\\ABC\\Downloads\\FYP_Arcana\\FYP_Latest\\FYP_Mid1_Ver2\\FYP_Mid1_Ver2\\FYP_Mid1\\clerk-react\\output_videos\\temp_story_1778793221409_j8ztoj\\scene_3.mp4",
+      "word_count": 3,
+      "timing": {
+        "fetch_sec": 90.0,
+        "upscale_sec": 0.17,
+        "ffmpeg_sec": 3.29,
+        "total_sec": 279.69
+      }
+    },
+    {
+      "scene_index": 4,
+      "sentence": "But the carrot was high up on a tree branch.",
+      "prompt_used": "Whimsical colorful 2D storybook illustration for children, magical, soft lighting. But the carrot was high up on a tree branch.",
+      "img_path": "C:\\Users\\ABC\\Downloads\\FYP_Arcana\\FYP_Latest\\FYP_Mid1_Ver2\\FYP_Mid1_Ver2\\FYP_Mid1\\clerk-react\\output_videos\\temp_story_1778793221409_j8ztoj\\scene_4.jpg",
+      "img_original_path": "C:\\Users\\ABC\\Downloads\\FYP_Arcana\\FYP_Latest\\FYP_Mid1_Ver2\\FYP_Mid1_Ver2\\FYP_Mid1\\clerk-react\\output_videos\\temp_story_1778793221409_j8ztoj\\scene_4_original.jpg",
+      "audio_path": "C:\\Users\\ABC\\Downloads\\FYP_Arcana\\FYP_Latest\\FYP_Mid1_Ver2\\FYP_Mid1_Ver2\\FYP_Mid1\\clerk-react\\output_videos\\temp_story_1778793221409_j8ztoj\\scene_4.mp3",
+      "vid_path": "C:\\Users\\ABC\\Downloads\\FYP_Arcana\\FYP_Latest\\FYP_Mid1_Ver2\\FYP_Mid1_Ver2\\FYP_Mid1\\clerk-react\\output_videos\\temp_story_1778793221409_j8ztoj\\scene_4.mp4",
+      "word_count": 10,
+      "timing": {
+        "fetch_sec": 90.05,
+        "upscale_sec": 0.17,
+        "ffmpeg_sec": 5.94,
+        "total_sec": 372.4
+      }
+    },
+    {
+      "scene_index": 5,
+      "sentence": "Bunny tried to jump up and grab the carrot, but he couldn't reach it.",
+      "prompt_used": "Whimsical colorful 2D storybook illustration for children, magical, soft lighting. Bunny tried to jump up and grab the carrot, but he couldn't reach it.",
+      "img_path": "C:\\Users\\ABC\\Downloads\\FYP_Arcana\\FYP_Latest\\FYP_Mid1_Ver2\\FYP_Mid1_Ver2\\FYP_Mid1\\clerk-react\\output_videos\\temp_story_1778793221409_j8ztoj\\scene_5.jpg",
+      "img_original_path": "C:\\Users\\ABC\\Downloads\\FYP_Arcana\\FYP_Latest\\FYP_Mid1_Ver2\\FYP_Mid1_Ver2\\FYP_Mid1\\clerk-react\\output_videos\\temp_story_1778793221409_j8ztoj\\scene_5_original.jpg",
+      "audio_path": "C:\\Users\\ABC\\Downloads\\FYP_Arcana\\FYP_Latest\\FYP_Mid1_Ver2\\FYP_Mid1_Ver2\\FYP_Mid1\\clerk-react\\output_videos\\temp_story_1778793221409_j8ztoj\\scene_5.mp3",
+      "vid_path": "C:\\Users\\ABC\\Downloads\\FYP_Arcana\\FYP_Latest\\FYP_Mid1_Ver2\\FYP_Mid1_Ver2\\FYP_Mid1\\clerk-react\\output_videos\\temp_story_1778793221409_j8ztoj\\scene_5.mp4",
+      "word_count": 14,
+      "timing": {
+        "fetch_sec": 89.76,
+        "upscale_sec": 0.16,
+        "ffmpeg_sec": 7.83,
+        "total_sec": 464.02
+      }
+    },
+    {
+      "scene_index": 6,
+      "sentence": "He jumped and jumped, but the carrot stayed far away.",
+      "prompt_used": "Whimsical colorful 2D storybook illustration for children, magical, soft lighting. He jumped and jumped, but the carrot stayed far away.",
+      "img_path": "C:\\Users\\ABC\\Downloads\\FYP_Arcana\\FYP_Latest\\FYP_Mid1_Ver2\\FYP_Mid1_Ver2\\FYP_Mid1\\clerk-react\\output_videos\\temp_story_1778793221409_j8ztoj\\scene_6.jpg",
+      "img_original_path": "C:\\Users\\ABC\\Downloads\\FYP_Arcana\\FYP_Latest\\FYP_Mid1_Ver2\\FYP_Mid1_Ver2\\FYP_Mid1\\clerk-react\\output_videos\\temp_story_1778793221409_j8ztoj\\scene_6_original.jpg",
+      "audio_path": "C:\\Users\\ABC\\Downloads\\FYP_Arcana\\FYP_Latest\\FYP_Mid1_Ver2\\FYP_Mid1_Ver2\\FYP_Mid1\\clerk-react\\output_videos\\temp_story_1778793221409_j8ztoj\\scene_6.mp3",
+      "vid_path": "C:\\Users\\ABC\\Downloads\\FYP_Arcana\\FYP_Latest\\FYP_Mid1_Ver2\\FYP_Mid1_Ver2\\FYP_Mid1\\clerk-react\\output_videos\\temp_story_1778793221409_j8ztoj\\scene_6.mp4",
+      "word_count": 10,
+      "timing": {
+        "fetch_sec": 89.69,
+        "upscale_sec": 0.15,
+        "ffmpeg_sec": 8.11,
+        "total_sec": 554.0
+      }
+    },
+    {
+      "scene_index": 7,
+      "sentence": "Bunny felt sad and tired.",
+      "prompt_used": "Whimsical colorful 2D storybook illustration for children, magical, soft lighting. Bunny felt sad and tired.",
+      "img_path": "C:\\Users\\ABC\\Downloads\\FYP_Arcana\\FYP_Latest\\FYP_Mid1_Ver2\\FYP_Mid1_Ver2\\FYP_Mid1\\clerk-react\\output_videos\\temp_story_1778793221409_j8ztoj\\scene_7.jpg",
+      "img_original_path": "C:\\Users\\ABC\\Downloads\\FYP_Arcana\\FYP_Latest\\FYP_Mid1_Ver2\\FYP_Mid1_Ver2\\FYP_Mid1\\clerk-react\\output_videos\\temp_story_1778793221409_j8ztoj\\scene_7_original.jpg",
+      "audio_path": "C:\\Users\\ABC\\Downloads\\FYP_Arcana\\FYP_Latest\\FYP_Mid1_Ver2\\FYP_Mid1_Ver2\\FYP_Mid1\\clerk-react\\output_videos\\temp_story_1778793221409_j8ztoj\\scene_7.mp3",
+      "vid_path": "C:\\Users\\ABC\\Downloads\\FYP_Arcana\\FYP_Latest\\FYP_Mid1_Ver2\\FYP_Mid1_Ver2\\FYP_Mid1\\clerk-react\\output_videos\\temp_story_1778793221409_j8ztoj\\scene_7.mp4",
+      "word_count": 5,
+      "timing": {
+        "fetch_sec": 90.02,
+        "upscale_sec": 0.15,
+        "ffmpeg_sec": 4.59,
+        "total_sec": 640.5
+      }
+    },
+    {
+      "scene_index": 8,
+      "sentence": "Then Bunny had an idea.",
+      "prompt_used": "Whimsical colorful 2D storybook illustration for children, magical, soft lighting. Then Bunny had an idea.",
+      "img_path": "C:\\Users\\ABC\\Downloads\\FYP_Arcana\\FYP_Latest\\FYP_Mid1_Ver2\\FYP_Mid1_Ver2\\FYP_Mid1\\clerk-react\\output_videos\\temp_story_1778793221409_j8ztoj\\scene_8.jpg",
+      "img_original_path": "C:\\Users\\ABC\\Downloads\\FYP_Arcana\\FYP_Latest\\FYP_Mid1_Ver2\\FYP_Mid1_Ver2\\FYP_Mid1\\clerk-react\\output_videos\\temp_story_1778793221409_j8ztoj\\scene_8_original.jpg",
+      "audio_path": "C:\\Users\\ABC\\Downloads\\FYP_Arcana\\FYP_Latest\\FYP_Mid1_Ver2\\FYP_Mid1_Ver2\\FYP_Mid1\\clerk-react\\output_videos\\temp_story_1778793221409_j8ztoj\\scene_8.mp3",
+      "vid_path": "C:\\Users\\ABC\\Downloads\\FYP_Arcana\\FYP_Latest\\FYP_Mid1_Ver2\\FYP_Mid1_Ver2\\FYP_Mid1\\clerk-react\\output_videos\\temp_story_1778793221409_j8ztoj\\scene_8.mp4",
+      "word_count": 5,
+      "timing": {
+        "fetch_sec": 90.64,
+        "upscale_sec": 0.16,
+        "ffmpeg_sec": 3.78,
+        "total_sec": 730.34
+      }
+    },
+    {
+      "scene_index": 9,
+      "sentence": "He sat down and waited.",
+      "prompt_used": "Whimsical colorful 2D storybook illustration for children, magical, soft lighting. He sat down and waited.",
+      "img_path": "C:\\Users\\ABC\\Downloads\\FYP_Arcana\\FYP_Latest\\FYP_Mid1_Ver2\\FYP_Mid1_Ver2\\FYP_Mid1\\clerk-react\\output_videos\\temp_story_1778793221409_j8ztoj\\scene_9.jpg",
+      "img_original_path": "C:\\Users\\ABC\\Downloads\\FYP_Arcana\\FYP_Latest\\FYP_Mid1_Ver2\\FYP_Mid1_Ver2\\FYP_Mid1\\clerk-react\\output_videos\\temp_story_1778793221409_j8ztoj\\scene_9_original.jpg",
+      "audio_path": "C:\\Users\\ABC\\Downloads\\FYP_Arcana\\FYP_Latest\\FYP_Mid1_Ver2\\FYP_Mid1_Ver2\\FYP_Mid1\\clerk-react\\output_videos\\temp_story_1778793221409_j8ztoj\\scene_9.mp3",
+      "vid_path": "C:\\Users\\ABC\\Downloads\\FYP_Arcana\\FYP_Latest\\FYP_Mid1_Ver2\\FYP_Mid1_Ver2\\FYP_Mid1\\clerk-react\\output_videos\\temp_story_1778793221409_j8ztoj\\scene_9.mp4",
+      "word_count": 5,
+      "timing": {
+        "fetch_sec": 89.47,
+        "upscale_sec": 0.14,
+        "ffmpeg_sec": 3.96,
+        "total_sec": 819.98
+      }
+    },
+    {
+      "scene_index": 10,
+      "sentence": "Slowly, the wind blew, and the branch moved closer.",
+      "prompt_used": "Whimsical colorful 2D storybook illustration for children, magical, soft lighting. Slowly, the wind blew, and the branch moved closer.",
+      "img_path": "C:\\Users\\ABC\\Downloads\\FYP_Arcana\\FYP_Latest\\FYP_Mid1_Ver2\\FYP_Mid1_Ver2\\FYP_Mid1\\clerk-react\\output_videos\\temp_story_1778793221409_j8ztoj\\scene_10.jpg",
+      "img_original_path": "C:\\Users\\ABC\\Downloads\\FYP_Arcana\\FYP_Latest\\FYP_Mid1_Ver2\\FYP_Mid1_Ver2\\FYP_Mid1\\clerk-react\\output_videos\\temp_story_1778793221409_j8ztoj\\scene_10_original.jpg",
+      "audio_path": "C:\\Users\\ABC\\Downloads\\FYP_Arcana\\FYP_Latest\\FYP_Mid1_Ver2\\FYP_Mid1_Ver2\\FYP_Mid1\\clerk-react\\output_videos\\temp_story_1778793221409_j8ztoj\\scene_10.mp3",
+      "vid_path": "C:\\Users\\ABC\\Downloads\\FYP_Arcana\\FYP_Latest\\FYP_Mid1_Ver2\\FYP_Mid1_Ver2\\FYP_Mid1\\clerk-react\\output_videos\\temp_story_1778793221409_j8ztoj\\scene_10.mp4",
+      "word_count": 9,
+      "timing": {
+        "fetch_sec": 90.17,
+        "upscale_sec": 0.15,
+        "ffmpeg_sec": 8.87,
+        "total_sec": 915.07
+      }
+    },
+    {
+      "scene_index": 11,
+      "sentence": "Bunny waited patiently.",
+      "prompt_used": "Whimsical colorful 2D storybook illustration for children, magical, soft lighting. Bunny waited patiently.",
+      "img_path": "C:\\Users\\ABC\\Downloads\\FYP_Arcana\\FYP_Latest\\FYP_Mid1_Ver2\\FYP_Mid1_Ver2\\FYP_Mid1\\clerk-react\\output_videos\\temp_story_1778793221409_j8ztoj\\scene_11.jpg",
+      "img_original_path": "C:\\Users\\ABC\\Downloads\\FYP_Arcana\\FYP_Latest\\FYP_Mid1_Ver2\\FYP_Mid1_Ver2\\FYP_Mid1\\clerk-react\\output_videos\\temp_story_1778793221409_j8ztoj\\scene_11_original.jpg",
+      "audio_path": "C:\\Users\\ABC\\Downloads\\FYP_Arcana\\FYP_Latest\\FYP_Mid1_Ver2\\FYP_Mid1_Ver2\\FYP_Mid1\\clerk-react\\output_videos\\temp_story_1778793221409_j8ztoj\\scene_11.mp3",
+      "vid_path": "C:\\Users\\ABC\\Downloads\\FYP_Arcana\\FYP_Latest\\FYP_Mid1_Ver2\\FYP_Mid1_Ver2\\FYP_Mid1\\clerk-react\\output_videos\\temp_story_1778793221409_j8ztoj\\scene_11.mp4",
+      "word_count": 3,
+      "timing": {
+        "fetch_sec": 89.81,
+        "upscale_sec": 0.16,
+        "ffmpeg_sec": 4.42,
+        "total_sec": 1000.44
+      }
+    },
+    {
+      "scene_index": 12,
+      "sentence": "When the carrot was low enough, he gently took a bite.",
+      "prompt_used": "Whimsical colorful 2D storybook illustration for children, magical, soft lighting. When the carrot was low enough, he gently took a bite.",
+      "img_path": "C:\\Users\\ABC\\Downloads\\FYP_Arcana\\FYP_Latest\\FYP_Mid1_Ver2\\FYP_Mid1_Ver2\\FYP_Mid1\\clerk-react\\output_videos\\temp_story_1778793221409_j8ztoj\\scene_12.jpg",
+      "img_original_path": "C:\\Users\\ABC\\Downloads\\FYP_Arcana\\FYP_Latest\\FYP_Mid1_Ver2\\FYP_Mid1_Ver2\\FYP_Mid1\\clerk-react\\output_videos\\temp_story_1778793221409_j8ztoj\\scene_12_original.jpg",
+      "audio_path": "C:\\Users\\ABC\\Downloads\\FYP_Arcana\\FYP_Latest\\FYP_Mid1_Ver2\\FYP_Mid1_Ver2\\FYP_Mid1\\clerk-react\\output_videos\\temp_story_1778793221409_j8ztoj\\scene_12.mp3",
+      "vid_path": "C:\\Users\\ABC\\Downloads\\FYP_Arcana\\FYP_Latest\\FYP_Mid1_Ver2\\FYP_Mid1_Ver2\\FYP_Mid1\\clerk-react\\output_videos\\temp_story_1778793221409_j8ztoj\\scene_12.mp4",
+      "word_count": 11,
+      "timing": {
+        "fetch_sec": 90.44,
+        "upscale_sec": 0.17,
+        "ffmpeg_sec": 7.96,
+        "total_sec": 1094.44
+      }
+    },
+    {
+      "scene_index": 13,
+      "sentence": "\"Mmm, delicious!\" said Bunny.",
+      "prompt_used": "Whimsical colorful 2D storybook illustration for children, magical, soft lighting. \"Mmm, delicious!\" said Bunny.",
+      "img_path": "C:\\Users\\ABC\\Downloads\\FYP_Arcana\\FYP_Latest\\FYP_Mid1_Ver2\\FYP_Mid1_Ver2\\FYP_Mid1\\clerk-react\\output_videos\\temp_story_1778793221409_j8ztoj\\scene_13.jpg",
+      "img_original_path": "C:\\Users\\ABC\\Downloads\\FYP_Arcana\\FYP_Latest\\FYP_Mid1_Ver2\\FYP_Mid1_Ver2\\FYP_Mid1\\clerk-react\\output_videos\\temp_story_1778793221409_j8ztoj\\scene_13_original.jpg",
+      "audio_path": "C:\\Users\\ABC\\Downloads\\FYP_Arcana\\FYP_Latest\\FYP_Mid1_Ver2\\FYP_Mid1_Ver2\\FYP_Mid1\\clerk-react\\output_videos\\temp_story_1778793221409_j8ztoj\\scene_13.mp3",
+      "vid_path": "C:\\Users\\ABC\\Downloads\\FYP_Arcana\\FYP_Latest\\FYP_Mid1_Ver2\\FYP_Mid1_Ver2\\FYP_Mid1\\clerk-react\\output_videos\\temp_story_1778793221409_j8ztoj\\scene_13.mp4",
+      "word_count": 4,
+      "timing": {
+        "fetch_sec": 89.49,
+        "upscale_sec": 0.17,
+        "ffmpeg_sec": 6.8,
+        "total_sec": 1182.78
+      }
+    },
+    {
+      "scene_index": 14,
+      "sentence": "Moral: Patience",
+      "prompt_used": "Whimsical colorful 2D storybook illustration for children, magical, soft lighting. Moral: Patience",
+      "img_path": "C:\\Users\\ABC\\Downloads\\FYP_Arcana\\FYP_Latest\\FYP_Mid1_Ver2\\FYP_Mid1_Ver2\\FYP_Mid1\\clerk-react\\output_videos\\temp_story_1778793221409_j8ztoj\\scene_14.jpg",
+      "img_original_path": "C:\\Users\\ABC\\Downloads\\FYP_Arcana\\FYP_Latest\\FYP_Mid1_Ver2\\FYP_Mid1_Ver2\\FYP_Mid1\\clerk-react\\output_videos\\temp_story_1778793221409_j8ztoj\\scene_14_original.jpg",
+      "audio_path": "C:\\Users\\ABC\\Downloads\\FYP_Arcana\\FYP_Latest\\FYP_Mid1_Ver2\\FYP_Mid1_Ver2\\FYP_Mid1\\clerk-react\\output_videos\\temp_story_1778793221409_j8ztoj\\scene_14.mp3",
+      "vid_path": "C:\\Users\\ABC\\Downloads\\FYP_Arcana\\FYP_Latest\\FYP_Mid1_Ver2\\FYP_Mid1_Ver2\\FYP_Mid1\\clerk-react\\output_videos\\temp_story_1778793221409_j8ztoj\\scene_14.mp4",
+      "word_count": 2,
+      "timing": {
+        "fetch_sec": 89.98,
+        "upscale_sec": 0.13,
+        "ffmpeg_sec": 6.66,
+        "total_sec": 1272.58
+      }
+    }
+  ]
+}

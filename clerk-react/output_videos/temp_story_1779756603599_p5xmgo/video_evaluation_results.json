@@ -1,0 +1,357 @@
+{
+  "story_id": "story_1779756603599_p5xmgo",
+  "total_pipeline_sec": 821.26,
+  "scene_count": 10,
+  "scenes": [
+    {
+      "scene_index": 0,
+      "sentence": "Little Lily was a kind girl.",
+      "av_sync": {
+        "audio_duration_sec": 1.85,
+        "video_duration_sec": 1.85,
+        "sync_error_sec": 0.0,
+        "rating": "perfect"
+      },
+      "prompt_adherence": {
+        "score": 0.35,
+        "method": "clip_score"
+      },
+      "image_quality": {
+        "original_sharpness": 24.36,
+        "enhanced_sharpness": 9.12,
+        "improvement_ratio": 0.37,
+        "original_resolution": "768x768",
+        "enhanced_resolution": "1536x1536"
+      },
+      "latency": {
+        "fetch_sec": 6.16,
+        "upscale_sec": 2.93,
+        "ffmpeg_sec": 8.54,
+        "total_sec": 17.64
+      },
+      "speaking_rate": {
+        "word_count": 6,
+        "audio_duration_sec": 1.85,
+        "wpm": 194.6,
+        "target_wpm": "120-150",
+        "rating": "too_fast"
+      }
+    },
+    {
+      "scene_index": 1,
+      "sentence": "One day, she saw a small bird.",
+      "av_sync": {
+        "audio_duration_sec": 2.16,
+        "video_duration_sec": 2.16,
+        "sync_error_sec": 0.0,
+        "rating": "perfect"
+      },
+      "prompt_adherence": {
+        "score": 0.349,
+        "method": "clip_score"
+      },
+      "image_quality": {
+        "original_sharpness": 24.75,
+        "enhanced_sharpness": 10.3,
+        "improvement_ratio": 0.42,
+        "original_resolution": "768x768",
+        "enhanced_resolution": "1536x1536"
+      },
+      "latency": {
+        "fetch_sec": 89.22,
+        "upscale_sec": 0.19,
+        "ffmpeg_sec": 5.75,
+        "total_sec": 101.34
+      },
+      "speaking_rate": {
+        "word_count": 7,
+        "audio_duration_sec": 2.16,
+        "wpm": 194.4,
+        "target_wpm": "120-150",
+        "rating": "too_fast"
+      }
+    },
+    {
+      "scene_index": 2,
+      "sentence": "The bird's wing was hurt.",
+      "av_sync": {
+        "audio_duration_sec": 1.78,
+        "video_duration_sec": 1.78,
+        "sync_error_sec": 0.0,
+        "rating": "perfect"
+      },
+      "prompt_adherence": {
+        "score": 0.318,
+        "method": "clip_score"
+      },
+      "image_quality": {
+        "original_sharpness": 23.02,
+        "enhanced_sharpness": 9.37,
+        "improvement_ratio": 0.41,
+        "original_resolution": "768x768",
+        "enhanced_resolution": "1536x1536"
+      },
+      "latency": {
+        "fetch_sec": 90.03,
+        "upscale_sec": 0.15,
+        "ffmpeg_sec": 4.45,
+        "total_sec": 190.03
+      },
+      "speaking_rate": {
+        "word_count": 5,
+        "audio_duration_sec": 1.78,
+        "wpm": 168.5,
+        "target_wpm": "120-150",
+        "rating": "acceptable"
+      }
+    },
+    {
+      "scene_index": 3,
+      "sentence": "Lily got some food and water for the bird.",
+      "av_sync": {
+        "audio_duration_sec": 2.26,
+        "video_duration_sec": 2.26,
+        "sync_error_sec": 0.0,
+        "rating": "perfect"
+      },
+      "prompt_adherence": {
+        "score": 0.319,
+        "method": "clip_score"
+      },
+      "image_quality": {
+        "original_sharpness": 30.45,
+        "enhanced_sharpness": 12.04,
+        "improvement_ratio": 0.4,
+        "original_resolution": "768x768",
+        "enhanced_resolution": "1536x1536"
+      },
+      "latency": {
+        "fetch_sec": 90.83,
+        "upscale_sec": 0.14,
+        "ffmpeg_sec": 6.82,
+        "total_sec": 283.22
+      },
+      "speaking_rate": {
+        "word_count": 9,
+        "audio_duration_sec": 2.26,
+        "wpm": 238.9,
+        "target_wpm": "120-150",
+        "rating": "too_fast"
+      }
+    },
+    {
+      "scene_index": 4,
+      "sentence": "She kept the bird safe in her room.",
+      "av_sync": {
+        "audio_duration_sec": 2.4,
+        "video_duration_sec": 2.4,
+        "sync_error_sec": 0.0,
+        "rating": "perfect"
+      },
+      "prompt_adherence": {
+        "score": 0.374,
+        "method": "clip_score"
+      },
+      "image_quality": {
+        "original_sharpness": 25.9,
+        "enhanced_sharpness": 9.59,
+        "improvement_ratio": 0.37,
+        "original_resolution": "768x768",
+        "enhanced_resolution": "1536x1536"
+      },
+      "latency": {
+        "fetch_sec": 89.56,
+        "upscale_sec": 0.14,
+        "ffmpeg_sec": 5.5,
+        "total_sec": 371.46
+      },
+      "speaking_rate": {
+        "word_count": 8,
+        "audio_duration_sec": 2.4,
+        "wpm": 200.0,
+        "target_wpm": "120-150",
+        "rating": "too_fast"
+      }
+    },
+    {
+      "scene_index": 5,
+      "sentence": "Soon, the bird's wing healed.",
+      "av_sync": {
+        "audio_duration_sec": 2.54,
+        "video_duration_sec": 2.54,
+        "sync_error_sec": 0.0,
+        "rating": "perfect"
+      },
+      "prompt_adherence": {
+        "score": 0.312,
+        "method": "clip_score"
+      },
+      "image_quality": {
+        "original_sharpness": 24.79,
+        "enhanced_sharpness": 9.53,
+        "improvement_ratio": 0.38,
+        "original_resolution": "768x768",
+        "enhanced_resolution": "1536x1536"
+      },
+      "latency": {
+        "fetch_sec": 89.66,
+        "upscale_sec": 0.2,
+        "ffmpeg_sec": 7.64,
+        "total_sec": 463.33
+      },
+      "speaking_rate": {
+        "word_count": 5,
+        "audio_duration_sec": 2.54,
+        "wpm": 118.1,
+        "target_wpm": "120-150",
+        "rating": "ideal"
+      }
+    },
+    {
+      "scene_index": 6,
+      "sentence": "Lily let the bird fly free.",
+      "av_sync": {
+        "audio_duration_sec": 2.02,
+        "video_duration_sec": 2.02,
+        "sync_error_sec": 0.0,
+        "rating": "perfect"
+      },
+      "prompt_adherence": {
+        "score": 0.303,
+        "method": "clip_score"
+      },
+      "image_quality": {
+        "original_sharpness": 28.23,
+        "enhanced_sharpness": 11.39,
+        "improvement_ratio": 0.4,
+        "original_resolution": "768x768",
+        "enhanced_resolution": "1536x1536"
+      },
+      "latency": {
+        "fetch_sec": 90.42,
+        "upscale_sec": 0.14,
+        "ffmpeg_sec": 4.78,
+        "total_sec": 550.84
+      },
+      "speaking_rate": {
+        "word_count": 6,
+        "audio_duration_sec": 2.02,
+        "wpm": 178.2,
+        "target_wpm": "120-150",
+        "rating": "acceptable"
+      }
+    },
+    {
+      "scene_index": 7,
+      "sentence": "The bird sang a happy song.",
+      "av_sync": {
+        "audio_duration_sec": 1.94,
+        "video_duration_sec": 1.94,
+        "sync_error_sec": 0.0,
+        "rating": "perfect"
+      },
+      "prompt_adherence": {
+        "score": 0.341,
+        "method": "clip_score"
+      },
+      "image_quality": {
+        "original_sharpness": 23.02,
+        "enhanced_sharpness": 9.2,
+        "improvement_ratio": 0.4,
+        "original_resolution": "768x768",
+        "enhanced_resolution": "1536x1536"
+      },
+      "latency": {
+        "fetch_sec": 90.07,
+        "upscale_sec": 0.14,
+        "ffmpeg_sec": 4.78,
+        "total_sec": 640.92
+      },
+      "speaking_rate": {
+        "word_count": 6,
+        "audio_duration_sec": 1.94,
+        "wpm": 185.6,
+        "target_wpm": "120-150",
+        "rating": "too_fast"
+      }
+    },
+    {
+      "scene_index": 8,
+      "sentence": "Lily felt so good for helping the hurt bird.",
+      "av_sync": {
+        "audio_duration_sec": 2.64,
+        "video_duration_sec": 2.64,
+        "sync_error_sec": 0.0,
+        "rating": "perfect"
+      },
+      "prompt_adherence": {
+        "score": 0.333,
+        "method": "clip_score"
+      },
+      "image_quality": {
+        "original_sharpness": 30.9,
+        "enhanced_sharpness": 11.44,
+        "improvement_ratio": 0.37,
+        "original_resolution": "768x768",
+        "enhanced_resolution": "1536x1536"
+      },
+      "latency": {
+        "fetch_sec": 89.51,
+        "upscale_sec": 0.14,
+        "ffmpeg_sec": 7.03,
+        "total_sec": 732.68
+      },
+      "speaking_rate": {
+        "word_count": 9,
+        "audio_duration_sec": 2.64,
+        "wpm": 204.5,
+        "target_wpm": "120-150",
+        "rating": "too_fast"
+      }
+    },
+    {
+      "scene_index": 9,
+      "sentence": "Moral: Kindness",
+      "av_sync": {
+        "audio_duration_sec": 2.33,
+        "video_duration_sec": 2.33,
+        "sync_error_sec": 0.0,
+        "rating": "perfect"
+      },
+      "prompt_adherence": {
+        "score": 0.319,
+        "method": "clip_score"
+      },
+      "image_quality": {
+        "original_sharpness": 33.68,
+        "enhanced_sharpness": 12.84,
+        "improvement_ratio": 0.38,
+        "original_resolution": "768x768",
+        "enhanced_resolution": "1536x1536"
+      },
+      "latency": {
+        "fetch_sec": 89.87,
+        "upscale_sec": 0.13,
+        "ffmpeg_sec": 5.38,
+        "total_sec": 820.89
+      },
+      "speaking_rate": {
+        "word_count": 2,
+        "audio_duration_sec": 2.33,
+        "wpm": 51.5,
+        "target_wpm": "120-150",
+        "rating": "too_slow"
+      }
+    }
+  ],
+  "averages": {
+    "avg_sync_error_sec": 0.0,
+    "avg_prompt_adherence": 0.332,
+    "avg_sharpness_improvement": 0.39,
+    "avg_fetch_sec": 81.533,
+    "avg_upscale_sec": 0.43,
+    "avg_ffmpeg_sec": 6.067,
+    "avg_wpm": 173.43,
+    "total_pipeline_sec": 821.26
+  }
+}

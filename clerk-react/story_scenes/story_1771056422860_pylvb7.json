@@ -1,0 +1,57 @@
+{
+  "story_id": "story_1771056422860_pylvb7",
+  "moral": "Teamwork",
+  "age": "4",
+  "duration_sec": 30,
+  "created_at": "2026-02-14T08:07:02.860Z",
+  "scenes": [
+    {
+      "scene_index": 0,
+      "sentence": "Little Pig and Big Pig were best friends.",
+      "word_count": 8,
+      "approx_duration_sec": 3.93
+    },
+    {
+      "scene_index": 1,
+      "sentence": "They wanted to build a big, strong house.",
+      "word_count": 8,
+      "approx_duration_sec": 3.93
+    },
+    {
+      "scene_index": 2,
+      "sentence": "Little Pig worked hard, but the house fell down.",
+      "word_count": 9,
+      "approx_duration_sec": 4.43
+    },
+    {
+      "scene_index": 3,
+      "sentence": "Big Pig said, \"Let's work together!\" They helped each other.",
+      "word_count": 10,
+      "approx_duration_sec": 4.92
+    },
+    {
+      "scene_index": 4,
+      "sentence": "Soon, they had a cozy new home.",
+      "word_count": 7,
+      "approx_duration_sec": 3.44
+    },
+    {
+      "scene_index": 5,
+      "sentence": "The two pigs were happy.",
+      "word_count": 5,
+      "approx_duration_sec": 2.46
+    },
+    {
+      "scene_index": 6,
+      "sentence": "They knew that teamwork was the best way to get things done.",
+      "word_count": 12,
+      "approx_duration_sec": 5.9
+    },
+    {
+      "scene_index": 7,
+      "sentence": "Moral: Teamwork",
+      "word_count": 2,
+      "approx_duration_sec": 0.98
+    }
+  ]
+}

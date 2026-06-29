@@ -1,0 +1,1548 @@
+# Vocabulary Bank for Age 5
+# Moderate words - 1-6 letters mostly
+# Words that 5-year-olds can understand and use
+
+# NOUNS (People, Animals, Objects, Places, Concepts)
+mom
+dad
+mommy
+daddy
+parent
+parents
+baby
+babies
+boy
+boys
+girl
+girls
+kid
+kids
+child
+children
+person
+people
+cat
+cats
+kitten
+kittens
+dog
+dogs
+puppy
+puppies
+pig
+pigs
+piglet
+cow
+cows
+calf
+duck
+ducks
+duckling
+hen
+hens
+chicken
+chickens
+chick
+bee
+bees
+ant
+ants
+bug
+bugs
+spider
+spiders
+fish
+fishes
+bird
+birds
+rabbit
+rabbits
+bunny
+bunnies
+bear
+bears
+cub
+lion
+lions
+cub
+tiger
+tigers
+cub
+elephant
+elephants
+butterfly
+butterflies
+ball
+balls
+toy
+toys
+car
+cars
+bus
+buses
+truck
+trucks
+train
+trains
+plane
+planes
+airplane
+airplanes
+boat
+boats
+ship
+ships
+hat
+hats
+cap
+caps
+cup
+cups
+mug
+mugs
+box
+boxes
+bag
+bags
+basket
+baskets
+bed
+beds
+rug
+rugs
+carpet
+carpets
+chair
+chairs
+table
+tables
+desk
+desks
+door
+doors
+window
+windows
+gate
+gates
+fence
+fences
+sun
+moon
+star
+stars
+sky
+skies
+cloud
+clouds
+tree
+trees
+leaf
+leaves
+grass
+flower
+flowers
+rock
+rocks
+stone
+stones
+sand
+mud
+dirt
+soil
+water
+milk
+juice
+soda
+pop
+cake
+cakes
+cookie
+cookies
+candy
+candies
+egg
+eggs
+bread
+loaf
+loaves
+apple
+apples
+banana
+bananas
+orange
+oranges
+grape
+grapes
+hand
+hands
+finger
+fingers
+foot
+feet
+toe
+toes
+eye
+eyes
+nose
+ear
+ears
+hair
+leg
+legs
+arm
+arms
+head
+heads
+face
+faces
+body
+bodies
+house
+houses
+home
+homes
+room
+rooms
+bedroom
+bedrooms
+kitchen
+kitchens
+bathroom
+bathrooms
+yard
+yards
+garden
+gardens
+park
+parks
+playground
+playgrounds
+school
+schools
+classroom
+classrooms
+friend
+friends
+friendship
+teacher
+teachers
+student
+students
+classmate
+classmates
+animal
+animals
+pet
+pets
+book
+books
+story
+stories
+tale
+tales
+picture
+pictures
+photo
+photos
+color
+colors
+game
+games
+sport
+sports
+song
+songs
+music
+dance
+dances
+rain
+rainbow
+rainbows
+snow
+wind
+storm
+storms
+ocean
+oceans
+beach
+beaches
+mountain
+mountains
+forest
+forests
+river
+rivers
+lake
+lakes
+neighbor
+neighbors
+community
+villages
+town
+towns
+city
+cities
+country
+countries
+world
+worlds
+planet
+planets
+adventure
+adventures
+journey
+journeys
+trip
+trips
+discovery
+discoveries
+treasure
+treasures
+magic
+wish
+wishes
+dream
+dreams
+hope
+hopes
+courage
+kindness
+honesty
+patience
+respect
+help
+helps
+helping
+team
+teams
+teamwork
+problem
+problems
+solution
+solutions
+idea
+ideas
+plan
+plans
+choice
+choices
+decision
+decisions
+mistake
+mistakes
+lesson
+lessons
+answer
+answers
+question
+questions
+
+# VERBS (Actions - present, past, future forms)
+go
+goes
+went
+going
+come
+comes
+came
+coming
+run
+runs
+ran
+running
+jump
+jumps
+jumped
+jumping
+walk
+walks
+walked
+walking
+sit
+sits
+sat
+sitting
+stand
+stands
+stood
+standing
+fall
+falls
+fell
+falling
+get
+gets
+got
+getting
+put
+puts
+putting
+take
+takes
+took
+taking
+give
+gives
+gave
+giving
+eat
+eats
+ate
+eating
+drink
+drinks
+drank
+drinking
+play
+plays
+played
+playing
+see
+sees
+saw
+seeing
+look
+looks
+looked
+looking
+watch
+watches
+watched
+watching
+hear
+hears
+heard
+hearing
+listen
+listens
+listened
+listening
+say
+says
+said
+saying
+tell
+tells
+told
+telling
+talk
+talks
+talked
+talking
+speak
+speaks
+spoke
+speaking
+cry
+cries
+cried
+crying
+laugh
+laughs
+laughed
+laughing
+smile
+smiles
+smiled
+smiling
+sleep
+sleeps
+slept
+sleeping
+wake
+wakes
+woke
+waking
+help
+helps
+helped
+helping
+stop
+stops
+stopped
+stopping
+find
+finds
+found
+finding
+like
+likes
+liked
+liking
+love
+loves
+loved
+loving
+want
+wants
+wanted
+wanting
+need
+needs
+needed
+needing
+feel
+feels
+felt
+feeling
+make
+makes
+made
+making
+do
+does
+did
+doing
+can
+could
+will
+would
+should
+may
+might
+is
+are
+was
+were
+being
+been
+has
+have
+had
+having
+think
+thinks
+thought
+thinking
+know
+knows
+knew
+knowing
+learn
+learns
+learned
+learning
+teach
+teaches
+taught
+teaching
+share
+shares
+shared
+sharing
+care
+cares
+cared
+caring
+wait
+waits
+waited
+waiting
+try
+tries
+tried
+trying
+work
+works
+worked
+working
+build
+builds
+built
+building
+draw
+draws
+drew
+drawing
+sing
+sings
+sang
+singing
+dance
+dances
+danced
+dancing
+climb
+climbs
+climbed
+climbing
+swim
+swims
+swam
+swimming
+fly
+flies
+flew
+flying
+hide
+hides
+hid
+hiding
+seek
+seeks
+sought
+seeking
+catch
+catches
+caught
+catching
+throw
+throws
+threw
+throwing
+kick
+kicks
+kicked
+kicking
+ride
+rides
+rode
+riding
+read
+reads
+read
+reading
+write
+writes
+wrote
+writing
+count
+counts
+counted
+counting
+paint
+paints
+painted
+painting
+cook
+cooks
+cooked
+cooking
+wash
+washes
+washed
+washing
+clean
+cleans
+cleaned
+cleaning
+brush
+brushes
+brushed
+brushing
+fix
+fixes
+fixed
+fixing
+break
+breaks
+broke
+breaking
+open
+opens
+opened
+opening
+close
+closes
+closed
+closing
+push
+pushes
+pushed
+pushing
+pull
+pulls
+pulled
+pulling
+carry
+carries
+carried
+carrying
+drop
+drops
+dropped
+dropping
+pick
+picks
+picked
+picking
+hold
+holds
+held
+holding
+touch
+touches
+touched
+touching
+hug
+hugs
+hugged
+hugging
+kiss
+kisses
+kissed
+kissing
+explore
+explores
+explored
+exploring
+discover
+discovers
+discovered
+discovering
+imagine
+imagines
+imagined
+imagining
+create
+creates
+created
+creating
+invent
+invents
+invented
+inventing
+solve
+solves
+solved
+solving
+decide
+decides
+decided
+deciding
+choose
+chooses
+chose
+choosing
+understand
+understands
+understood
+understanding
+remember
+remembers
+remembered
+remembering
+forget
+forgets
+forgot
+forgetting
+believe
+believes
+believed
+believing
+trust
+trusts
+trusted
+trusting
+promise
+promises
+promised
+promising
+forgive
+forgives
+forgave
+forgiving
+apologize
+apologizes
+apologized
+apologizing
+appreciate
+appreciates
+appreciated
+appreciating
+respect
+respects
+respected
+respecting
+admire
+admires
+admired
+admiring
+encourage
+encourages
+encouraged
+encouraging
+support
+supports
+supported
+supporting
+protect
+protects
+protected
+protecting
+defend
+defends
+defended
+defending
+challenge
+challenges
+challenged
+challenging
+overcome
+overcomes
+overcame
+overcoming
+succeed
+succeeds
+succeeded
+succeeding
+achieve
+achieves
+achieved
+achieving
+accomplish
+accomplishes
+accomplished
+accomplishing
+
+# ADJECTIVES (Describing words - with comparisons)
+big
+bigger
+biggest
+small
+smaller
+smallest
+little
+tiny
+huge
+enormous
+hot
+hotter
+hottest
+cold
+colder
+coldest
+warm
+warmer
+warmest
+cool
+cooler
+coolest
+wet
+wetter
+wettest
+dry
+drier
+driest
+new
+newer
+newest
+old
+older
+oldest
+young
+younger
+youngest
+good
+better
+best
+bad
+worse
+worst
+sad
+sadder
+saddest
+mad
+madder
+maddest
+glad
+gladder
+gladdest
+happy
+happier
+happiest
+joyful
+joyfuller
+joyfullest
+red
+blue
+green
+yellow
+pink
+purple
+brown
+black
+white
+gray
+grey
+orange
+fast
+faster
+fastest
+slow
+slower
+slowest
+loud
+louder
+loudest
+quiet
+quieter
+quietest
+soft
+softer
+softest
+hard
+harder
+hardest
+sweet
+sweeter
+sweetest
+sour
+bitter
+nice
+nicer
+nicest
+fun
+funny
+funnier
+funniest
+pretty
+prettier
+prettiest
+beautiful
+more beautiful
+most beautiful
+silly
+sillier
+silliest
+tired
+more tired
+most tired
+hungry
+hungrier
+hungriest
+thirsty
+thirstier
+thirstiest
+full
+fuller
+fullest
+empty
+clean
+cleaner
+cleanest
+dirty
+dirtier
+dirtiest
+open
+closed
+up
+down
+in
+out
+on
+off
+over
+under
+above
+below
+high
+higher
+highest
+low
+lower
+lowest
+bright
+brighter
+brightest
+dark
+darker
+darkest
+kind
+kinder
+kindest
+brave
+braver
+bravest
+smart
+smarter
+smartest
+strong
+stronger
+strongest
+gentle
+gentler
+gentlest
+friendly
+friendlier
+friendliest
+excited
+more excited
+most excited
+proud
+prouder
+proudest
+scared
+more scared
+most scared
+afraid
+safe
+safer
+safest
+unsafe
+careful
+more careful
+most careful
+patient
+more patient
+most patient
+important
+more important
+most important
+special
+more special
+most special
+wonderful
+more wonderful
+most wonderful
+amazing
+more amazing
+most amazing
+colorful
+more colorful
+most colorful
+helpful
+more helpful
+most helpful
+thoughtful
+more thoughtful
+most thoughtful
+generous
+more generous
+most generous
+honest
+more honest
+most honest
+truthful
+more truthful
+most truthful
+responsible
+more responsible
+most responsible
+reliable
+more reliable
+most reliable
+trustworthy
+more trustworthy
+most trustworthy
+confident
+more confident
+most confident
+determined
+more determined
+most determined
+persistent
+more persistent
+most persistent
+curious
+more curious
+most curious
+creative
+more creative
+most creative
+imaginative
+more imaginative
+most imaginative
+wise
+wiser
+wisest
+clever
+cleverer
+cleverest
+brilliant
+more brilliant
+most brilliant
+talented
+more talented
+most talented
+skilled
+more skilled
+most skilled
+experienced
+more experienced
+most experienced
+mature
+more mature
+most mature
+independent
+more independent
+most independent
+cooperative
+more cooperative
+most cooperative
+compassionate
+more compassionate
+most compassionate
+empathetic
+more empathetic
+most empathetic
+grateful
+more grateful
+most grateful
+humble
+humbler
+humblest
+modest
+more modest
+most modest
+courageous
+more courageous
+most courageous
+fearless
+more fearless
+most fearless
+adventurous
+more adventurous
+most adventurous
+explorative
+more explorative
+most explorative
+
+# ADVERBS (How words)
+now
+here
+there
+where
+everywhere
+anywhere
+somewhere
+yes
+no
+maybe
+perhaps
+probably
+definitely
+more
+most
+less
+least
+again
+too
+so
+very
+really
+quite
+well
+better
+best
+then
+soon
+sooner
+soonest
+later
+earlier
+earliest
+today
+tomorrow
+yesterday
+always
+sometimes
+often
+usually
+rarely
+seldom
+never
+first
+last
+next
+before
+after
+together
+alone
+carefully
+quickly
+slowly
+happily
+sadly
+quietly
+loudly
+gently
+bravely
+kindly
+honestly
+patiently
+respectfully
+responsibly
+gratefully
+humbly
+confidently
+determinedly
+curiously
+creatively
+wisely
+cleverly
+thoughtfully
+considerately
+generously
+helpfully
+
+# PHRASES
+once upon a time
+the end
+good night
+good morning
+good afternoon
+good evening
+thank you
+thanks
+thank you very much
+please
+please and thank you
+sorry
+i'm sorry
+hello
+hi
+hey
+goodbye
+bye
+see you later
+see you soon
+excuse me
+pardon me
+you are welcome
+you're welcome
+how are you
+i'm fine
+i'm good
+nice to meet you
+pleased to meet you
+have a nice day
+have a good day
+good luck
+congratulations
+well done
+great job
+good job
+i love you
+i like you
+i miss you
+see you tomorrow
+what's your name
+my name is
+how old are you
+i am five years old
+where are you from
+i am from
+what do you like
+i like
+what is your favorite
+my favorite is
+can you help me
+i need help
+can i help you
+let's play together
+let's be friends
+we are friends
+friends help each other
+sharing is caring
+teamwork makes the dream work
+practice makes perfect
+try your best
+never give up
+believe in yourself
+be kind to others
+respect others
+listen carefully
+think before you act
+make good choices
+learn from mistakes
+always tell the truth
+honesty is the best policy
+patience is a virtue
+be grateful for what you have
+help those in need
+stand up for what is right
+be brave
+be strong
+be yourself
+dream big
+work hard
+play fair
+have fun
+be happy
+stay safe
+take care
+be careful
+watch out
+look both ways
+wash your hands
+brush your teeth
+eat your vegetables
+drink your milk
+go to bed
+wake up
+get dressed
+put on your shoes
+tie your shoes
+zip your jacket
+button your shirt
+comb your hair
+wash your face
+clean your room
+pick up your toys
+put away your things
+do your homework
+finish your work
+do your best
+try again
+keep trying
+don't give up
+you can do it
+i believe in you
+i'm proud of you
+you did great
+that's wonderful
+that's amazing
+how wonderful
+how amazing
+that's nice
+that's good
+that's great
+well done
+good job
+great job
+excellent work
+outstanding
+fantastic
+awesome
+terrific
+super
+wow
+cool
+neat
+sweet
+rad
+awesome sauce
+way to go
+attaboy
+attagirl
+high five
+fist bump
+thumbs up
+good for you
+way to be
+keep it up
+that's the way
+right on
+you got it
+that's right
+exactly
+precisely
+absolutely
+definitely
+certainly
+surely
+of course
+you bet
+sure thing
+no problem
+anytime
+my pleasure
+don't mention it
+it's nothing
+think nothing of it
+not at all
+you're very welcome
+happy to help
+glad to help
+pleasure to help
+i'm here to help
+i'm here for you
+i've got your back
+i support you
+i'm with you
+i'm on your side
+i'm rooting for you
+i'm cheering for you
+go for it
+give it your all
+put your heart into it
+follow your dreams
+reach for the stars
+sky's the limit
+the world is your oyster
+you're capable of anything
+you're amazing
+you're awesome
+you're wonderful
+you're special
+you're unique
+you're one of a kind
+you're the best
+you're great
+you're good
+you're fine
+you're okay
+you're all right
+you're doing fine
+you're doing great
+you're doing good
+you're doing well
+keep up the good work
+keep going
+keep moving forward
+keep pushing forward
+don't stop
+don't quit
+never quit
+never surrender
+never back down
+stand your ground
+hold your head high
+walk tall
+be proud
+be confident
+be strong
+be brave
+be courageous
+be fearless
+be bold
+be daring
+be adventurous
+be curious
+be creative
+be imaginative
+be innovative
+be original
+be unique
+be yourself
+be authentic
+be genuine
+be real
+be true
+be honest
+be truthful
+be sincere
+be kind
+be gentle
+be caring
+be compassionate
+be empathetic
+be understanding
+be patient
+be tolerant
+be accepting
+be inclusive
+be respectful
+be considerate
+be thoughtful
+be helpful
+be generous
+be giving
+be sharing
+be cooperative
+be collaborative
+be team-oriented
+be a team player
+work together
+play together
+learn together
+grow together
+help each other
+support each other
+encourage each other
+lift each other up
+build each other up
+make each other better
+bring out the best in each other
+bring out the best in yourself
+be the best version of yourself
+strive to be better
+always improve
+always learn
+always grow
+always evolve
+always progress
+always advance
+always move forward
+always look ahead
+always aim high
+always dream big
+always think big
+always think positive
+always stay positive
+always be optimistic
+always have hope
+always have faith
+always believe
+always trust
+always have confidence
+always be confident
+always be sure
+always be certain
+always be determined
+always be persistent
+always be resilient
+always bounce back
+always get back up
+always try again
+always keep trying
+always keep going
+always keep moving
+always keep pushing
+always keep fighting
+always keep striving
+always keep working
+always keep learning
+always keep growing
+always keep improving
+always keep evolving
+always keep progressing
+always keep advancing
+always keep moving forward
+always keep looking ahead
+always keep aiming high
+always keep dreaming big
+always keep thinking big
+always keep thinking positive
+always keep staying positive
+always keep being optimistic
+always keep having hope
+always keep having faith
+always keep believing
+always keep trusting
+always keep having confidence
+always keep being confident
+always keep being sure
+always keep being certain
+always keep being determined
+always keep being persistent
+always keep being resilient
+always keep bouncing back
+always keep getting back up
+always keep trying again
+always keep trying
+always keep going
+always keep moving
+always keep pushing
+always keep fighting
+always keep striving
+always keep working
+always keep learning
+always keep growing
+always keep improving
+always keep evolving
+always keep progressing
+always keep advancing
+always keep moving forward
+always keep looking ahead
+always keep aiming high
+always keep dreaming big
+always keep thinking big
+always keep thinking positive
+always keep staying positive
+always keep being optimistic
+always keep having hope
+always keep having faith
+always keep believing
+always keep trusting
+always keep having confidence
+always keep being confident
+always keep being sure
+always keep being certain
+always keep being determined
+always keep being persistent
+always keep being resilient
+always keep bouncing back
+always keep getting back up
+always keep trying again

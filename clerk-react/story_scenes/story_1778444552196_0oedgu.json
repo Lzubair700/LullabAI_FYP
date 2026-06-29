@@ -1,0 +1,45 @@
+{
+  "story_id": "story_1778444552196_0oedgu",
+  "moral": "Honesty is the best policy",
+  "age": "3",
+  "duration_sec": 30,
+  "created_at": "2026-05-10T20:22:32.196Z",
+  "scenes": [
+    {
+      "scene_index": 0,
+      "sentence": "The Boy and the Toy A boy had a toy.",
+      "word_count": 10,
+      "approx_duration_sec": 5.66
+    },
+    {
+      "scene_index": 1,
+      "sentence": "The boy took the toy.",
+      "word_count": 5,
+      "approx_duration_sec": 2.83
+    },
+    {
+      "scene_index": 2,
+      "sentence": "The boy's mom said, \"Where is the toy?\" The boy said, \"I took it.\" The mom said, \"Good boy.\" The boy felt good.",
+      "word_count": 23,
+      "approx_duration_sec": 13.02
+    },
+    {
+      "scene_index": 3,
+      "sentence": "He did not hide.",
+      "word_count": 4,
+      "approx_duration_sec": 2.26
+    },
+    {
+      "scene_index": 4,
+      "sentence": "Honesty is the best policy.",
+      "word_count": 5,
+      "approx_duration_sec": 2.83
+    },
+    {
+      "scene_index": 5,
+      "sentence": "Moral: Honesty is the best policy.",
+      "word_count": 6,
+      "approx_duration_sec": 3.4
+    }
+  ]
+}

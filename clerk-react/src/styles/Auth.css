@@ -1,0 +1,32 @@
+.auth-container {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: url('/bd2.jpeg') center center / cover no-repeat;
+  padding: 96px 16px 24px;
+  position: relative;
+}
+
+.clerk-sign-in,
+.clerk-sign-up {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.clerk-card {
+  background: rgba(255, 255, 255, 0.94);
+  backdrop-filter: blur(14px);
+  border-radius: 26px;
+  box-shadow: 0 24px 50px rgba(78, 97, 143, 0.16);
+  border: 1px solid rgba(255, 255, 255, 0.62);
+}
+
+@media (max-width: 640px) {
+  .auth-container {
+    padding: 88px 12px 20px;
+  }
+}
+
+

@@ -1,0 +1,99 @@
+{
+  "story_id": "story_1778793221409_j8ztoj",
+  "moral": "Patience",
+  "age": "5",
+  "duration_sec": 40,
+  "created_at": "2026-05-14T21:13:41.410Z",
+  "scenes": [
+    {
+      "scene_index": 0,
+      "sentence": "Little Bunny was a busy rabbit.",
+      "word_count": 6,
+      "approx_duration_sec": 2.35
+    },
+    {
+      "scene_index": 1,
+      "sentence": "He hopped and jumped all day long.",
+      "word_count": 7,
+      "approx_duration_sec": 2.75
+    },
+    {
+      "scene_index": 2,
+      "sentence": "One day, Bunny saw a big, juicy carrot.",
+      "word_count": 8,
+      "approx_duration_sec": 3.14
+    },
+    {
+      "scene_index": 3,
+      "sentence": "\"Yum!\" he said.",
+      "word_count": 3,
+      "approx_duration_sec": 1.18
+    },
+    {
+      "scene_index": 4,
+      "sentence": "But the carrot was high up on a tree branch.",
+      "word_count": 10,
+      "approx_duration_sec": 3.92
+    },
+    {
+      "scene_index": 5,
+      "sentence": "Bunny tried to jump up and grab the carrot, but he couldn't reach it.",
+      "word_count": 14,
+      "approx_duration_sec": 5.49
+    },
+    {
+      "scene_index": 6,
+      "sentence": "He jumped and jumped, but the carrot stayed far away.",
+      "word_count": 10,
+      "approx_duration_sec": 3.92
+    },
+    {
+      "scene_index": 7,
+      "sentence": "Bunny felt sad and tired.",
+      "word_count": 5,
+      "approx_duration_sec": 1.96
+    },
+    {
+      "scene_index": 8,
+      "sentence": "Then Bunny had an idea.",
+      "word_count": 5,
+      "approx_duration_sec": 1.96
+    },
+    {
+      "scene_index": 9,
+      "sentence": "He sat down and waited.",
+      "word_count": 5,
+      "approx_duration_sec": 1.96
+    },
+    {
+      "scene_index": 10,
+      "sentence": "Slowly, the wind blew, and the branch moved closer.",
+      "word_count": 9,
+      "approx_duration_sec": 3.53
+    },
+    {
+      "scene_index": 11,
+      "sentence": "Bunny waited patiently.",
+      "word_count": 3,
+      "approx_duration_sec": 1.18
+    },
+    {
+      "scene_index": 12,
+      "sentence": "When the carrot was low enough, he gently took a bite.",
+      "word_count": 11,
+      "approx_duration_sec": 4.31
+    },
+    {
+      "scene_index": 13,
+      "sentence": "\"Mmm, delicious!\" said Bunny.",
+      "word_count": 4,
+      "approx_duration_sec": 1.57
+    },
+    {
+      "scene_index": 14,
+      "sentence": "Moral: Patience",
+      "word_count": 2,
+      "approx_duration_sec": 0.78
+    }
+  ]
+}

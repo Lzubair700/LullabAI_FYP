@@ -1,0 +1,187 @@
+{
+  "story_id": "story_1778824594572_bq3y0g",
+  "total_pipeline_sec": 375.48,
+  "scene_count": 5,
+  "scenes": [
+    {
+      "scene_index": 0,
+      "sentence": "Liam and Lily wanted to build a big sand castle.",
+      "av_sync": {
+        "audio_duration_sec": 3.58,
+        "video_duration_sec": 3.58,
+        "sync_error_sec": 0.0,
+        "rating": "perfect"
+      },
+      "prompt_adherence": {
+        "score": 0.324,
+        "method": "clip_score"
+      },
+      "image_quality": {
+        "original_sharpness": 31.59,
+        "enhanced_sharpness": 12.15,
+        "improvement_ratio": 0.38,
+        "original_resolution": "768x768",
+        "enhanced_resolution": "1536x1536"
+      },
+      "latency": {
+        "fetch_sec": 6.66,
+        "upscale_sec": 0.31,
+        "ffmpeg_sec": 14.42,
+        "total_sec": 21.4
+      },
+      "speaking_rate": {
+        "word_count": 10,
+        "audio_duration_sec": 3.58,
+        "wpm": 167.6,
+        "target_wpm": "120-150",
+        "rating": "acceptable"
+      }
+    },
+    {
+      "scene_index": 1,
+      "sentence": "Liam dug the holes while Lily added the buckets of wet sand.",
+      "av_sync": {
+        "audio_duration_sec": 4.1,
+        "video_duration_sec": 4.1,
+        "sync_error_sec": 0.0,
+        "rating": "perfect"
+      },
+      "prompt_adherence": {
+        "score": 0.352,
+        "method": "clip_score"
+      },
+      "image_quality": {
+        "original_sharpness": 28.7,
+        "enhanced_sharpness": 11.31,
+        "improvement_ratio": 0.39,
+        "original_resolution": "768x768",
+        "enhanced_resolution": "1536x1536"
+      },
+      "latency": {
+        "fetch_sec": 89.92,
+        "upscale_sec": 0.35,
+        "ffmpeg_sec": 19.85,
+        "total_sec": 116.79
+      },
+      "speaking_rate": {
+        "word_count": 12,
+        "audio_duration_sec": 4.1,
+        "wpm": 175.6,
+        "target_wpm": "120-150",
+        "rating": "acceptable"
+      }
+    },
+    {
+      "scene_index": 2,
+      "sentence": "They worked together until their castle was tall and strong.",
+      "av_sync": {
+        "audio_duration_sec": 3.94,
+        "video_duration_sec": 3.94,
+        "sync_error_sec": 0.0,
+        "rating": "perfect"
+      },
+      "prompt_adherence": {
+        "score": 0.347,
+        "method": "clip_score"
+      },
+      "image_quality": {
+        "original_sharpness": 31.09,
+        "enhanced_sharpness": 12.68,
+        "improvement_ratio": 0.41,
+        "original_resolution": "768x768",
+        "enhanced_resolution": "1536x1536"
+      },
+      "latency": {
+        "fetch_sec": 89.72,
+        "upscale_sec": 0.17,
+        "ffmpeg_sec": 13.54,
+        "total_sec": 200.02
+      },
+      "speaking_rate": {
+        "word_count": 10,
+        "audio_duration_sec": 3.94,
+        "wpm": 152.3,
+        "target_wpm": "120-150",
+        "rating": "ideal"
+      }
+    },
+    {
+      "scene_index": 3,
+      "sentence": "\"Yay, we did it!\" they cheered.",
+      "av_sync": {
+        "audio_duration_sec": 2.09,
+        "video_duration_sec": 2.09,
+        "sync_error_sec": 0.0,
+        "rating": "perfect"
+      },
+      "prompt_adherence": {
+        "score": 0.357,
+        "method": "clip_score"
+      },
+      "image_quality": {
+        "original_sharpness": 30.2,
+        "enhanced_sharpness": 11.55,
+        "improvement_ratio": 0.38,
+        "original_resolution": "768x768",
+        "enhanced_resolution": "1536x1536"
+      },
+      "latency": {
+        "fetch_sec": 89.98,
+        "upscale_sec": 0.19,
+        "ffmpeg_sec": 7.92,
+        "total_sec": 284.4
+      },
+      "speaking_rate": {
+        "word_count": 6,
+        "audio_duration_sec": 2.09,
+        "wpm": 172.2,
+        "target_wpm": "120-150",
+        "rating": "acceptable"
+      }
+    },
+    {
+      "scene_index": 4,
+      "sentence": "Moral: Teamwork",
+      "av_sync": {
+        "audio_duration_sec": 1.78,
+        "video_duration_sec": 1.78,
+        "sync_error_sec": 0.0,
+        "rating": "perfect"
+      },
+      "prompt_adherence": {
+        "score": 0.323,
+        "method": "clip_score"
+      },
+      "image_quality": {
+        "original_sharpness": 31.01,
+        "enhanced_sharpness": 12.51,
+        "improvement_ratio": 0.4,
+        "original_resolution": "768x768",
+        "enhanced_resolution": "1536x1536"
+      },
+      "latency": {
+        "fetch_sec": 91.5,
+        "upscale_sec": 0.17,
+        "ffmpeg_sec": 7.12,
+        "total_sec": 375.1
+      },
+      "speaking_rate": {
+        "word_count": 2,
+        "audio_duration_sec": 1.78,
+        "wpm": 67.4,
+        "target_wpm": "120-150",
+        "rating": "too_slow"
+      }
+    }
+  ],
+  "averages": {
+    "avg_sync_error_sec": 0.0,
+    "avg_prompt_adherence": 0.341,
+    "avg_sharpness_improvement": 0.392,
+    "avg_fetch_sec": 73.556,
+    "avg_upscale_sec": 0.238,
+    "avg_ffmpeg_sec": 12.57,
+    "avg_wpm": 147.02,
+    "total_pipeline_sec": 375.48
+  }
+}

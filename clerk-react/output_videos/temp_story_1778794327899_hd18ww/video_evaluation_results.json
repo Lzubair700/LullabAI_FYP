@@ -1,0 +1,425 @@
+{
+  "story_id": "story_1778794327899_hd18ww",
+  "total_pipeline_sec": 1252.02,
+  "scene_count": 12,
+  "scenes": [
+    {
+      "scene_index": 0,
+      "sentence": "The Flower Friends Sara loved her garden.",
+      "av_sync": {
+        "audio_duration_sec": 3.41,
+        "video_duration_sec": 3.41,
+        "sync_error_sec": 0.0,
+        "rating": "perfect"
+      },
+      "prompt_adherence": {
+        "score": 1.0,
+        "method": "keyword_heuristic"
+      },
+      "image_quality": {
+        "original_sharpness": 31.04,
+        "enhanced_sharpness": 11.67,
+        "improvement_ratio": 0.38,
+        "original_resolution": "768x768",
+        "enhanced_resolution": "1536x1536"
+      },
+      "latency": {
+        "fetch_sec": 251.68,
+        "upscale_sec": 0.26,
+        "ffmpeg_sec": 7.69,
+        "total_sec": 259.63
+      },
+      "speaking_rate": {
+        "word_count": 7,
+        "audio_duration_sec": 3.41,
+        "wpm": 123.2,
+        "target_wpm": "120-150",
+        "rating": "ideal"
+      }
+    },
+    {
+      "scene_index": 1,
+      "sentence": "She had red roses, yellow sunflowers, and blue forget-me-nots.",
+      "av_sync": {
+        "audio_duration_sec": 4.66,
+        "video_duration_sec": 4.66,
+        "sync_error_sec": 0.0,
+        "rating": "perfect"
+      },
+      "prompt_adherence": {
+        "score": 1.0,
+        "method": "keyword_heuristic"
+      },
+      "image_quality": {
+        "original_sharpness": 33.88,
+        "enhanced_sharpness": 13.44,
+        "improvement_ratio": 0.4,
+        "original_resolution": "768x768",
+        "enhanced_resolution": "1536x1536"
+      },
+      "latency": {
+        "fetch_sec": 89.97,
+        "upscale_sec": 0.17,
+        "ffmpeg_sec": 10.59,
+        "total_sec": 352.42
+      },
+      "speaking_rate": {
+        "word_count": 9,
+        "audio_duration_sec": 4.66,
+        "wpm": 115.9,
+        "target_wpm": "120-150",
+        "rating": "ideal"
+      }
+    },
+    {
+      "scene_index": 2,
+      "sentence": "Sara's friend Lily came to visit.",
+      "av_sync": {
+        "audio_duration_sec": 2.4,
+        "video_duration_sec": 2.4,
+        "sync_error_sec": 0.0,
+        "rating": "perfect"
+      },
+      "prompt_adherence": {
+        "score": 1.0,
+        "method": "keyword_heuristic"
+      },
+      "image_quality": {
+        "original_sharpness": 26.54,
+        "enhanced_sharpness": 10.41,
+        "improvement_ratio": 0.39,
+        "original_resolution": "768x768",
+        "enhanced_resolution": "1536x1536"
+      },
+      "latency": {
+        "fetch_sec": 89.99,
+        "upscale_sec": 0.16,
+        "ffmpeg_sec": 6.38,
+        "total_sec": 438.19
+      },
+      "speaking_rate": {
+        "word_count": 6,
+        "audio_duration_sec": 2.4,
+        "wpm": 150.0,
+        "target_wpm": "120-150",
+        "rating": "ideal"
+      }
+    },
+    {
+      "scene_index": 3,
+      "sentence": "\"Your flowers are so pretty!\" said Lily.",
+      "av_sync": {
+        "audio_duration_sec": 2.78,
+        "video_duration_sec": 2.78,
+        "sync_error_sec": 0.0,
+        "rating": "perfect"
+      },
+      "prompt_adherence": {
+        "score": 1.0,
+        "method": "keyword_heuristic"
+      },
+      "image_quality": {
+        "original_sharpness": 36.57,
+        "enhanced_sharpness": 14.12,
+        "improvement_ratio": 0.39,
+        "original_resolution": "768x768",
+        "enhanced_resolution": "1536x1536"
+      },
+      "latency": {
+        "fetch_sec": 90.04,
+        "upscale_sec": 0.15,
+        "ffmpeg_sec": 6.08,
+        "total_sec": 527.91
+      },
+      "speaking_rate": {
+        "word_count": 7,
+        "audio_duration_sec": 2.78,
+        "wpm": 151.1,
+        "target_wpm": "120-150",
+        "rating": "ideal"
+      }
+    },
+    {
+      "scene_index": 4,
+      "sentence": "\"I wish I had a garden like yours.\" Sara smiled.",
+      "av_sync": {
+        "audio_duration_sec": 3.34,
+        "video_duration_sec": 3.34,
+        "sync_error_sec": 0.0,
+        "rating": "perfect"
+      },
+      "prompt_adherence": {
+        "score": 1.0,
+        "method": "keyword_heuristic"
+      },
+      "image_quality": {
+        "original_sharpness": 34.93,
+        "enhanced_sharpness": 13.62,
+        "improvement_ratio": 0.39,
+        "original_resolution": "768x768",
+        "enhanced_resolution": "1536x1536"
+      },
+      "latency": {
+        "fetch_sec": 91.31,
+        "upscale_sec": 0.18,
+        "ffmpeg_sec": 7.88,
+        "total_sec": 621.06
+      },
+      "speaking_rate": {
+        "word_count": 10,
+        "audio_duration_sec": 3.34,
+        "wpm": 179.6,
+        "target_wpm": "120-150",
+        "rating": "acceptable"
+      }
+    },
+    {
+      "scene_index": 5,
+      "sentence": "\"You can help me take care of them if you'd like.\" Lily's face lit up.",
+      "av_sync": {
+        "audio_duration_sec": 4.03,
+        "video_duration_sec": 4.03,
+        "sync_error_sec": 0.0,
+        "rating": "perfect"
+      },
+      "prompt_adherence": {
+        "score": 1.0,
+        "method": "keyword_heuristic"
+      },
+      "image_quality": {
+        "original_sharpness": 36.45,
+        "enhanced_sharpness": 14.72,
+        "improvement_ratio": 0.4,
+        "original_resolution": "768x768",
+        "enhanced_resolution": "1536x1536"
+      },
+      "latency": {
+        "fetch_sec": 88.71,
+        "upscale_sec": 0.17,
+        "ffmpeg_sec": 8.9,
+        "total_sec": 710.78
+      },
+      "speaking_rate": {
+        "word_count": 15,
+        "audio_duration_sec": 4.03,
+        "wpm": 223.3,
+        "target_wpm": "120-150",
+        "rating": "too_fast"
+      }
+    },
+    {
+      "scene_index": 6,
+      "sentence": "The two girls worked together, watering the plants and pulling weeds.",
+      "av_sync": {
+        "audio_duration_sec": 4.56,
+        "video_duration_sec": 4.56,
+        "sync_error_sec": 0.0,
+        "rating": "perfect"
+      },
+      "prompt_adherence": {
+        "score": 1.0,
+        "method": "keyword_heuristic"
+      },
+      "image_quality": {
+        "original_sharpness": 35.42,
+        "enhanced_sharpness": 14.12,
+        "improvement_ratio": 0.4,
+        "original_resolution": "768x768",
+        "enhanced_resolution": "1536x1536"
+      },
+      "latency": {
+        "fetch_sec": 90.0,
+        "upscale_sec": 0.17,
+        "ffmpeg_sec": 9.47,
+        "total_sec": 801.36
+      },
+      "speaking_rate": {
+        "word_count": 11,
+        "audio_duration_sec": 4.56,
+        "wpm": 144.7,
+        "target_wpm": "120-150",
+        "rating": "ideal"
+      }
+    },
+    {
+      "scene_index": 7,
+      "sentence": "When they were done, the garden looked even more beautiful.",
+      "av_sync": {
+        "audio_duration_sec": 3.17,
+        "video_duration_sec": 3.17,
+        "sync_error_sec": 0.0,
+        "rating": "perfect"
+      },
+      "prompt_adherence": {
+        "score": 1.0,
+        "method": "keyword_heuristic"
+      },
+      "image_quality": {
+        "original_sharpness": 31.45,
+        "enhanced_sharpness": 11.37,
+        "improvement_ratio": 0.36,
+        "original_resolution": "768x768",
+        "enhanced_resolution": "1536x1536"
+      },
+      "latency": {
+        "fetch_sec": 89.84,
+        "upscale_sec": 0.15,
+        "ffmpeg_sec": 7.65,
+        "total_sec": 889.36
+      },
+      "speaking_rate": {
+        "word_count": 10,
+        "audio_duration_sec": 3.17,
+        "wpm": 189.3,
+        "target_wpm": "120-150",
+        "rating": "too_fast"
+      }
+    },
+    {
+      "scene_index": 8,
+      "sentence": "\"We make a great team!\" said Sara.",
+      "av_sync": {
+        "audio_duration_sec": 2.64,
+        "video_duration_sec": 2.64,
+        "sync_error_sec": 0.0,
+        "rating": "perfect"
+      },
+      "prompt_adherence": {
+        "score": 1.0,
+        "method": "keyword_heuristic"
+      },
+      "image_quality": {
+        "original_sharpness": 34.38,
+        "enhanced_sharpness": 13.04,
+        "improvement_ratio": 0.38,
+        "original_resolution": "768x768",
+        "enhanced_resolution": "1536x1536"
+      },
+      "latency": {
+        "fetch_sec": 90.11,
+        "upscale_sec": 0.16,
+        "ffmpeg_sec": 8.23,
+        "total_sec": 980.08
+      },
+      "speaking_rate": {
+        "word_count": 7,
+        "audio_duration_sec": 2.64,
+        "wpm": 159.1,
+        "target_wpm": "120-150",
+        "rating": "ideal"
+      }
+    },
+    {
+      "scene_index": 9,
+      "sentence": "Lily nodded.",
+      "av_sync": {
+        "audio_duration_sec": 1.22,
+        "video_duration_sec": 1.22,
+        "sync_error_sec": 0.0,
+        "rating": "perfect"
+      },
+      "prompt_adherence": {
+        "score": 1.0,
+        "method": "keyword_heuristic"
+      },
+      "image_quality": {
+        "original_sharpness": 30.8,
+        "enhanced_sharpness": 12.54,
+        "improvement_ratio": 0.41,
+        "original_resolution": "768x768",
+        "enhanced_resolution": "1536x1536"
+      },
+      "latency": {
+        "fetch_sec": 89.93,
+        "upscale_sec": 0.17,
+        "ffmpeg_sec": 3.11,
+        "total_sec": 1064.9
+      },
+      "speaking_rate": {
+        "word_count": 2,
+        "audio_duration_sec": 1.22,
+        "wpm": 98.4,
+        "target_wpm": "120-150",
+        "rating": "acceptable"
+      }
+    },
+    {
+      "scene_index": 10,
+      "sentence": "\"Yes, we do.",
+      "av_sync": {
+        "audio_duration_sec": 1.15,
+        "video_duration_sec": 1.15,
+        "sync_error_sec": 0.0,
+        "rating": "perfect"
+      },
+      "prompt_adherence": {
+        "score": 1.0,
+        "method": "keyword_heuristic"
+      },
+      "image_quality": {
+        "original_sharpness": 28.76,
+        "enhanced_sharpness": 10.78,
+        "improvement_ratio": 0.37,
+        "original_resolution": "768x768",
+        "enhanced_resolution": "1536x1536"
+      },
+      "latency": {
+        "fetch_sec": 90.1,
+        "upscale_sec": 0.16,
+        "ffmpeg_sec": 3.1,
+        "total_sec": 1154.98
+      },
+      "speaking_rate": {
+        "word_count": 3,
+        "audio_duration_sec": 1.15,
+        "wpm": 156.5,
+        "target_wpm": "120-150",
+        "rating": "ideal"
+      }
+    },
+    {
+      "scene_index": 11,
+      "sentence": "Equality is the best.\" Moral: equality",
+      "av_sync": {
+        "audio_duration_sec": 4.49,
+        "video_duration_sec": 4.49,
+        "sync_error_sec": 0.0,
+        "rating": "perfect"
+      },
+      "prompt_adherence": {
+        "score": 1.0,
+        "method": "keyword_heuristic"
+      },
+      "image_quality": {
+        "original_sharpness": 32.71,
+        "enhanced_sharpness": 12.26,
+        "improvement_ratio": 0.37,
+        "original_resolution": "768x768",
+        "enhanced_resolution": "1536x1536"
+      },
+      "latency": {
+        "fetch_sec": 89.97,
+        "upscale_sec": 0.16,
+        "ffmpeg_sec": 9.72,
+        "total_sec": 1251.57
+      },
+      "speaking_rate": {
+        "word_count": 6,
+        "audio_duration_sec": 4.49,
+        "wpm": 80.2,
+        "target_wpm": "120-150",
+        "rating": "acceptable"
+      }
+    }
+  ],
+  "averages": {
+    "avg_sync_error_sec": 0.0,
+    "avg_prompt_adherence": 1.0,
+    "avg_sharpness_improvement": 0.387,
+    "avg_fetch_sec": 103.471,
+    "avg_upscale_sec": 0.172,
+    "avg_ffmpeg_sec": 7.4,
+    "avg_wpm": 147.608,
+    "total_pipeline_sec": 1252.02
+  }
+}

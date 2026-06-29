@@ -1,0 +1,63 @@
+{
+  "story_id": "story_1778822835526_3oeiff",
+  "moral": "Honesty is the best policy",
+  "age": "4",
+  "duration_sec": 40,
+  "created_at": "2026-05-15T05:27:15.526Z",
+  "scenes": [
+    {
+      "scene_index": 0,
+      "sentence": "Little Lily loved to draw.",
+      "word_count": 5,
+      "approx_duration_sec": 1.98
+    },
+    {
+      "scene_index": 1,
+      "sentence": "One day, she made a big, beautiful picture with red, blue, and yellow crayons.",
+      "word_count": 14,
+      "approx_duration_sec": 5.54
+    },
+    {
+      "scene_index": 2,
+      "sentence": "Lily's mom came in and said, \"Wow, Lily!",
+      "word_count": 8,
+      "approx_duration_sec": 3.17
+    },
+    {
+      "scene_index": 3,
+      "sentence": "That's a great picture.",
+      "word_count": 4,
+      "approx_duration_sec": 1.58
+    },
+    {
+      "scene_index": 4,
+      "sentence": "Did you make it all by yourself?\" Lily felt sad.",
+      "word_count": 10,
+      "approx_duration_sec": 3.96
+    },
+    {
+      "scene_index": 5,
+      "sentence": "She had used her big sister's favorite crayons without asking.",
+      "word_count": 10,
+      "approx_duration_sec": 3.96
+    },
+    {
+      "scene_index": 6,
+      "sentence": "Lily said, \"No, I used my sister's crayons.\" Her mom gave her a big hug and said, \"I'm so proud of you for telling the truth!\" From that day on, Lily always told the truth.",
+      "word_count": 35,
+      "approx_duration_sec": 13.86
+    },
+    {
+      "scene_index": 7,
+      "sentence": "She learned that honesty makes you feel good inside.",
+      "word_count": 9,
+      "approx_duration_sec": 3.56
+    },
+    {
+      "scene_index": 8,
+      "sentence": "Moral: Honesty is the best policy.",
+      "word_count": 6,
+      "approx_duration_sec": 2.38
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+.load-container {
+  margin: 0;
+  min-height: 100vh;
+  background: url('/bd2.jpeg') no-repeat center center fixed;
+  background-size: cover;
+  font-family: 'Poppins', sans-serif;
+  overflow: hidden;
+  position: relative;
+  padding: 0 16px;
+}
+
+.feedback-btn {
+  position: absolute;
+  top: 20px;
+  right: 30px;
+  background: linear-gradient(180deg, #f7be66, #e59a43);
+  border: none;
+  color: white;
+  padding: 12px 25px;
+  border-radius: 40px;
+  font-weight: 500;
+  cursor: pointer;
+  box-shadow: 0px 4px 10px rgba(0,0,0,0.2);
+  transition: all 0.3s ease;
+}
+
+.feedback-btn:hover {
+  background-color: #e6a700;
+}
+
+
+
+
+.book-animation {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: min(420px, 70vw);
+  height: auto;
+  mix-blend-mode: multiply;
+  filter: drop-shadow(0 12px 22px rgba(0, 0, 0, 0.16));
+}
+
+.loader {
+  position: absolute;
+  top: calc(50% + 180px);
+  left: 50%;
+  transform: translateX(-50%);
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  align-items: center;
+}
+
+.dot {
+  width: 12px;
+  height: 12px;
+  background-color: #fbbd08;
+  border-radius: 50%;
+  animation: bounce 1.2s infinite ease-in-out;
+}
+
+.dot:nth-child(2) { animation-delay: 0.2s; }
+.dot:nth-child(3) { animation-delay: 0.4s; }
+.dot:nth-child(4) { animation-delay: 0.6s; }
+
+.loading-text {
+  position: absolute;
+  top: calc(50% + 225px);
+  left: 50%;
+  transform: translateX(-50%);
+  color: #2d4b9b;
+  font-size: 1.15rem;
+  font-weight: 700;
+  text-align: center;
+  width: min(90vw, 420px);
+  text-shadow: 0 4px 10px rgba(255, 255, 255, 0.5);
+}
+
+@keyframes bounce {
+  0%, 80%, 100% { transform: scale(0); opacity: 0.6; }
+  40% { transform: scale(1); opacity: 1; }
+}
+
+@media (max-width: 768px) {
+  .feedback-btn {
+    padding: 10px 16px;
+    right: 16px;
+    top: 16px;
+    font-size: 0.92rem;
+  }
+  .load-img {
+    max-width: 150px;
+    opacity: 0.85;
+  }
+  .load1 { top: 28%; right: -20px; }
+  .load2 { bottom: 6%; right: -10px; }
+  .load3 { top: 28%; left: -20px; }
+  .load4 { bottom: 6%; left: -10px; }
+  .book-animation {
+    width: min(300px, 78vw);
+  }
+  .loader {
+    top: calc(50% + 130px);
+  }
+  .loading-text {
+    top: calc(50% + 170px);
+    font-size: 1rem;
+  }
+}
+
+

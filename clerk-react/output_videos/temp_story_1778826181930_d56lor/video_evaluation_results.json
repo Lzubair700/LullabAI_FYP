@@ -1,0 +1,289 @@
+{
+  "story_id": "story_1778826181930_d56lor",
+  "total_pipeline_sec": 642.83,
+  "scene_count": 8,
+  "scenes": [
+    {
+      "scene_index": 0,
+      "sentence": "Sally had a new red ball.",
+      "av_sync": {
+        "audio_duration_sec": 1.94,
+        "video_duration_sec": 1.94,
+        "sync_error_sec": 0.0,
+        "rating": "perfect"
+      },
+      "prompt_adherence": {
+        "score": 0.346,
+        "method": "clip_score"
+      },
+      "image_quality": {
+        "original_sharpness": 23.66,
+        "enhanced_sharpness": 10.18,
+        "improvement_ratio": 0.43,
+        "original_resolution": "768x768",
+        "enhanced_resolution": "1536x1536"
+      },
+      "latency": {
+        "fetch_sec": 7.73,
+        "upscale_sec": 0.24,
+        "ffmpeg_sec": 6.18,
+        "total_sec": 14.16
+      },
+      "speaking_rate": {
+        "word_count": 6,
+        "audio_duration_sec": 1.94,
+        "wpm": 185.6,
+        "target_wpm": "120-150",
+        "rating": "too_fast"
+      }
+    },
+    {
+      "scene_index": 1,
+      "sentence": "Her friend Jill saw the ball and felt sad.",
+      "av_sync": {
+        "audio_duration_sec": 3.02,
+        "video_duration_sec": 3.02,
+        "sync_error_sec": 0.0,
+        "rating": "perfect"
+      },
+      "prompt_adherence": {
+        "score": 0.35,
+        "method": "clip_score"
+      },
+      "image_quality": {
+        "original_sharpness": 25.28,
+        "enhanced_sharpness": 9.9,
+        "improvement_ratio": 0.39,
+        "original_resolution": "768x768",
+        "enhanced_resolution": "1536x1536"
+      },
+      "latency": {
+        "fetch_sec": 89.36,
+        "upscale_sec": 0.16,
+        "ffmpeg_sec": 8.8,
+        "total_sec": 106.07
+      },
+      "speaking_rate": {
+        "word_count": 9,
+        "audio_duration_sec": 3.02,
+        "wpm": 178.8,
+        "target_wpm": "120-150",
+        "rating": "acceptable"
+      }
+    },
+    {
+      "scene_index": 2,
+      "sentence": "\"I want that ball!\" said Jill.",
+      "av_sync": {
+        "audio_duration_sec": 2.26,
+        "video_duration_sec": 2.26,
+        "sync_error_sec": 0.0,
+        "rating": "perfect"
+      },
+      "prompt_adherence": {
+        "score": 0.36,
+        "method": "clip_score"
+      },
+      "image_quality": {
+        "original_sharpness": 26.26,
+        "enhanced_sharpness": 10.2,
+        "improvement_ratio": 0.39,
+        "original_resolution": "768x768",
+        "enhanced_resolution": "1536x1536"
+      },
+      "latency": {
+        "fetch_sec": 90.16,
+        "upscale_sec": 0.16,
+        "ffmpeg_sec": 5.56,
+        "total_sec": 192.99
+      },
+      "speaking_rate": {
+        "word_count": 6,
+        "audio_duration_sec": 2.26,
+        "wpm": 159.3,
+        "target_wpm": "120-150",
+        "rating": "ideal"
+      }
+    },
+    {
+      "scene_index": 3,
+      "sentence": "Sally did not want to share.",
+      "av_sync": {
+        "audio_duration_sec": 1.78,
+        "video_duration_sec": 1.78,
+        "sync_error_sec": 0.0,
+        "rating": "perfect"
+      },
+      "prompt_adherence": {
+        "score": 0.306,
+        "method": "clip_score"
+      },
+      "image_quality": {
+        "original_sharpness": 25.27,
+        "enhanced_sharpness": 10.43,
+        "improvement_ratio": 0.41,
+        "original_resolution": "768x768",
+        "enhanced_resolution": "1536x1536"
+      },
+      "latency": {
+        "fetch_sec": 89.71,
+        "upscale_sec": 0.16,
+        "ffmpeg_sec": 5.18,
+        "total_sec": 282.33
+      },
+      "speaking_rate": {
+        "word_count": 6,
+        "audio_duration_sec": 1.78,
+        "wpm": 202.2,
+        "target_wpm": "120-150",
+        "rating": "too_fast"
+      }
+    },
+    {
+      "scene_index": 4,
+      "sentence": "But then Sally saw Jill's new bike.",
+      "av_sync": {
+        "audio_duration_sec": 2.78,
+        "video_duration_sec": 2.78,
+        "sync_error_sec": 0.0,
+        "rating": "perfect"
+      },
+      "prompt_adherence": {
+        "score": 0.343,
+        "method": "clip_score"
+      },
+      "image_quality": {
+        "original_sharpness": 30.01,
+        "enhanced_sharpness": 11.84,
+        "improvement_ratio": 0.39,
+        "original_resolution": "768x768",
+        "enhanced_resolution": "1536x1536"
+      },
+      "latency": {
+        "fetch_sec": 90.05,
+        "upscale_sec": 0.17,
+        "ffmpeg_sec": 7.34,
+        "total_sec": 374.54
+      },
+      "speaking_rate": {
+        "word_count": 7,
+        "audio_duration_sec": 2.78,
+        "wpm": 151.1,
+        "target_wpm": "120-150",
+        "rating": "ideal"
+      }
+    },
+    {
+      "scene_index": 5,
+      "sentence": "Sally felt bad for not sharing.",
+      "av_sync": {
+        "audio_duration_sec": 2.02,
+        "video_duration_sec": 2.02,
+        "sync_error_sec": 0.0,
+        "rating": "perfect"
+      },
+      "prompt_adherence": {
+        "score": 0.342,
+        "method": "clip_score"
+      },
+      "image_quality": {
+        "original_sharpness": 16.83,
+        "enhanced_sharpness": 6.22,
+        "improvement_ratio": 0.37,
+        "original_resolution": "768x768",
+        "enhanced_resolution": "1536x1536"
+      },
+      "latency": {
+        "fetch_sec": 90.02,
+        "upscale_sec": 0.17,
+        "ffmpeg_sec": 5.3,
+        "total_sec": 462.53
+      },
+      "speaking_rate": {
+        "word_count": 6,
+        "audio_duration_sec": 2.02,
+        "wpm": 178.2,
+        "target_wpm": "120-150",
+        "rating": "acceptable"
+      }
+    },
+    {
+      "scene_index": 6,
+      "sentence": "They both played with the ball and bike together.",
+      "av_sync": {
+        "audio_duration_sec": 2.78,
+        "video_duration_sec": 2.78,
+        "sync_error_sec": 0.0,
+        "rating": "perfect"
+      },
+      "prompt_adherence": {
+        "score": 0.408,
+        "method": "clip_score"
+      },
+      "image_quality": {
+        "original_sharpness": 30.59,
+        "enhanced_sharpness": 12.4,
+        "improvement_ratio": 0.41,
+        "original_resolution": "768x768",
+        "enhanced_resolution": "1536x1536"
+      },
+      "latency": {
+        "fetch_sec": 90.13,
+        "upscale_sec": 0.16,
+        "ffmpeg_sec": 6.97,
+        "total_sec": 554.33
+      },
+      "speaking_rate": {
+        "word_count": 9,
+        "audio_duration_sec": 2.78,
+        "wpm": 194.2,
+        "target_wpm": "120-150",
+        "rating": "too_fast"
+      }
+    },
+    {
+      "scene_index": 7,
+      "sentence": "Moral: Jealousy",
+      "av_sync": {
+        "audio_duration_sec": 1.94,
+        "video_duration_sec": 1.94,
+        "sync_error_sec": 0.0,
+        "rating": "perfect"
+      },
+      "prompt_adherence": {
+        "score": 0.353,
+        "method": "clip_score"
+      },
+      "image_quality": {
+        "original_sharpness": 32.63,
+        "enhanced_sharpness": 12.27,
+        "improvement_ratio": 0.38,
+        "original_resolution": "768x768",
+        "enhanced_resolution": "1536x1536"
+      },
+      "latency": {
+        "fetch_sec": 90.02,
+        "upscale_sec": 0.15,
+        "ffmpeg_sec": 5.11,
+        "total_sec": 642.49
+      },
+      "speaking_rate": {
+        "word_count": 2,
+        "audio_duration_sec": 1.94,
+        "wpm": 61.9,
+        "target_wpm": "120-150",
+        "rating": "too_slow"
+      }
+    }
+  ],
+  "averages": {
+    "avg_sync_error_sec": 0.0,
+    "avg_prompt_adherence": 0.351,
+    "avg_sharpness_improvement": 0.396,
+    "avg_fetch_sec": 79.647,
+    "avg_upscale_sec": 0.171,
+    "avg_ffmpeg_sec": 6.305,
+    "avg_wpm": 163.912,
+    "total_pipeline_sec": 642.83
+  }
+}

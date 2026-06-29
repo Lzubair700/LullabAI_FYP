@@ -1,0 +1,323 @@
+{
+  "story_id": "story_1778757859361_5kmp52",
+  "total_pipeline_sec": 734.23,
+  "scene_count": 9,
+  "scenes": [
+    {
+      "scene_index": 0,
+      "sentence": "Little Lily was a kind girl who loved to help her family.",
+      "av_sync": {
+        "audio_duration_sec": 3.58,
+        "video_duration_sec": 3.58,
+        "sync_error_sec": 0.0,
+        "rating": "perfect"
+      },
+      "prompt_adherence": {
+        "score": 1.0,
+        "method": "keyword_heuristic"
+      },
+      "image_quality": {
+        "original_sharpness": 24.51,
+        "enhanced_sharpness": 8.82,
+        "improvement_ratio": 0.36,
+        "original_resolution": "768x768",
+        "enhanced_resolution": "1536x1536"
+      },
+      "latency": {
+        "fetch_sec": 6.01,
+        "upscale_sec": 0.36,
+        "ffmpeg_sec": 7.92,
+        "total_sec": 14.29
+      },
+      "speaking_rate": {
+        "word_count": 12,
+        "audio_duration_sec": 3.58,
+        "wpm": 201.1,
+        "target_wpm": "120-150",
+        "rating": "too_fast"
+      }
+    },
+    {
+      "scene_index": 1,
+      "sentence": "One day, Lily broke her mom's favorite vase.",
+      "av_sync": {
+        "audio_duration_sec": 3.17,
+        "video_duration_sec": 3.17,
+        "sync_error_sec": 0.0,
+        "rating": "perfect"
+      },
+      "prompt_adherence": {
+        "score": 1.0,
+        "method": "keyword_heuristic"
+      },
+      "image_quality": {
+        "original_sharpness": 27.86,
+        "enhanced_sharpness": 10.69,
+        "improvement_ratio": 0.38,
+        "original_resolution": "768x768",
+        "enhanced_resolution": "1536x1536"
+      },
+      "latency": {
+        "fetch_sec": 90.79,
+        "upscale_sec": 0.16,
+        "ffmpeg_sec": 9.45,
+        "total_sec": 106.42
+      },
+      "speaking_rate": {
+        "word_count": 8,
+        "audio_duration_sec": 3.17,
+        "wpm": 151.4,
+        "target_wpm": "120-150",
+        "rating": "ideal"
+      }
+    },
+    {
+      "scene_index": 2,
+      "sentence": "She felt very bad.",
+      "av_sync": {
+        "audio_duration_sec": 1.54,
+        "video_duration_sec": 1.54,
+        "sync_error_sec": 0.0,
+        "rating": "perfect"
+      },
+      "prompt_adherence": {
+        "score": 1.0,
+        "method": "keyword_heuristic"
+      },
+      "image_quality": {
+        "original_sharpness": 28.55,
+        "enhanced_sharpness": 10.8,
+        "improvement_ratio": 0.38,
+        "original_resolution": "768x768",
+        "enhanced_resolution": "1536x1536"
+      },
+      "latency": {
+        "fetch_sec": 88.96,
+        "upscale_sec": 0.27,
+        "ffmpeg_sec": 4.32,
+        "total_sec": 190.36
+      },
+      "speaking_rate": {
+        "word_count": 4,
+        "audio_duration_sec": 1.54,
+        "wpm": 155.8,
+        "target_wpm": "120-150",
+        "rating": "ideal"
+      }
+    },
+    {
+      "scene_index": 3,
+      "sentence": "Lily could have lied, but she knew that would be wrong.",
+      "av_sync": {
+        "audio_duration_sec": 2.86,
+        "video_duration_sec": 2.86,
+        "sync_error_sec": 0.0,
+        "rating": "perfect"
+      },
+      "prompt_adherence": {
+        "score": 1.0,
+        "method": "keyword_heuristic"
+      },
+      "image_quality": {
+        "original_sharpness": 25.4,
+        "enhanced_sharpness": 9.03,
+        "improvement_ratio": 0.36,
+        "original_resolution": "768x768",
+        "enhanced_resolution": "1536x1536"
+      },
+      "latency": {
+        "fetch_sec": 90.05,
+        "upscale_sec": 0.19,
+        "ffmpeg_sec": 7.39,
+        "total_sec": 283.4
+      },
+      "speaking_rate": {
+        "word_count": 11,
+        "audio_duration_sec": 2.86,
+        "wpm": 230.8,
+        "target_wpm": "120-150",
+        "rating": "too_fast"
+      }
+    },
+    {
+      "scene_index": 4,
+      "sentence": "So Lily told her mom the truth.",
+      "av_sync": {
+        "audio_duration_sec": 1.78,
+        "video_duration_sec": 1.78,
+        "sync_error_sec": 0.0,
+        "rating": "perfect"
+      },
+      "prompt_adherence": {
+        "score": 1.0,
+        "method": "keyword_heuristic"
+      },
+      "image_quality": {
+        "original_sharpness": 21.72,
+        "enhanced_sharpness": 7.79,
+        "improvement_ratio": 0.36,
+        "original_resolution": "768x768",
+        "enhanced_resolution": "1536x1536"
+      },
+      "latency": {
+        "fetch_sec": 90.32,
+        "upscale_sec": 0.22,
+        "ffmpeg_sec": 6.12,
+        "total_sec": 372.49
+      },
+      "speaking_rate": {
+        "word_count": 7,
+        "audio_duration_sec": 1.78,
+        "wpm": 236.0,
+        "target_wpm": "120-150",
+        "rating": "too_fast"
+      }
+    },
+    {
+      "scene_index": 5,
+      "sentence": "At first, her mom was upset.",
+      "av_sync": {
+        "audio_duration_sec": 2.33,
+        "video_duration_sec": 2.33,
+        "sync_error_sec": 0.0,
+        "rating": "perfect"
+      },
+      "prompt_adherence": {
+        "score": 1.0,
+        "method": "keyword_heuristic"
+      },
+      "image_quality": {
+        "original_sharpness": 23.79,
+        "enhanced_sharpness": 8.34,
+        "improvement_ratio": 0.35,
+        "original_resolution": "768x768",
+        "enhanced_resolution": "1536x1536"
+      },
+      "latency": {
+        "fetch_sec": 90.18,
+        "upscale_sec": 0.2,
+        "ffmpeg_sec": 5.84,
+        "total_sec": 462.37
+      },
+      "speaking_rate": {
+        "word_count": 6,
+        "audio_duration_sec": 2.33,
+        "wpm": 154.5,
+        "target_wpm": "120-150",
+        "rating": "ideal"
+      }
+    },
+    {
+      "scene_index": 6,
+      "sentence": "But then she saw how sorry Lily felt.",
+      "av_sync": {
+        "audio_duration_sec": 2.54,
+        "video_duration_sec": 2.54,
+        "sync_error_sec": 0.0,
+        "rating": "perfect"
+      },
+      "prompt_adherence": {
+        "score": 1.0,
+        "method": "keyword_heuristic"
+      },
+      "image_quality": {
+        "original_sharpness": 27.0,
+        "enhanced_sharpness": 9.8,
+        "improvement_ratio": 0.36,
+        "original_resolution": "768x768",
+        "enhanced_resolution": "1536x1536"
+      },
+      "latency": {
+        "fetch_sec": 89.87,
+        "upscale_sec": 0.2,
+        "ffmpeg_sec": 6.18,
+        "total_sec": 552.59
+      },
+      "speaking_rate": {
+        "word_count": 8,
+        "audio_duration_sec": 2.54,
+        "wpm": 189.0,
+        "target_wpm": "120-150",
+        "rating": "too_fast"
+      }
+    },
+    {
+      "scene_index": 7,
+      "sentence": "Her mom gave Lily a big hug and said, \"I'm proud of you for being honest.\" From that day on, Lily always told the truth, even when it was hard.",
+      "av_sync": {
+        "audio_duration_sec": 10.63,
+        "video_duration_sec": 12.36,
+        "sync_error_sec": 1.73,
+        "rating": "poor"
+      },
+      "prompt_adherence": {
+        "score": 1.0,
+        "method": "keyword_heuristic"
+      },
+      "image_quality": {
+        "original_sharpness": 26.26,
+        "enhanced_sharpness": 10.38,
+        "improvement_ratio": 0.4,
+        "original_resolution": "768x768",
+        "enhanced_resolution": "1536x1536"
+      },
+      "latency": {
+        "fetch_sec": 89.82,
+        "upscale_sec": 0.21,
+        "ffmpeg_sec": 34.28,
+        "total_sec": 670.52
+      },
+      "speaking_rate": {
+        "word_count": 30,
+        "audio_duration_sec": 10.63,
+        "wpm": 169.3,
+        "target_wpm": "120-150",
+        "rating": "acceptable"
+      }
+    },
+    {
+      "scene_index": 8,
+      "sentence": "Moral: Honesty is the best policy.",
+      "av_sync": {
+        "audio_duration_sec": 2.95,
+        "video_duration_sec": 2.95,
+        "sync_error_sec": 0.0,
+        "rating": "perfect"
+      },
+      "prompt_adherence": {
+        "score": 1.0,
+        "method": "keyword_heuristic"
+      },
+      "image_quality": {
+        "original_sharpness": 32.28,
+        "enhanced_sharpness": 12.03,
+        "improvement_ratio": 0.37,
+        "original_resolution": "768x768",
+        "enhanced_resolution": "1536x1536"
+      },
+      "latency": {
+        "fetch_sec": 90.18,
+        "upscale_sec": 0.15,
+        "ffmpeg_sec": 7.49,
+        "total_sec": 733.84
+      },
+      "speaking_rate": {
+        "word_count": 6,
+        "audio_duration_sec": 2.95,
+        "wpm": 122.0,
+        "target_wpm": "120-150",
+        "rating": "ideal"
+      }
+    }
+  ],
+  "averages": {
+    "avg_sync_error_sec": 0.192,
+    "avg_prompt_adherence": 1.0,
+    "avg_sharpness_improvement": 0.369,
+    "avg_fetch_sec": 80.687,
+    "avg_upscale_sec": 0.218,
+    "avg_ffmpeg_sec": 9.888,
+    "avg_wpm": 178.878,
+    "total_pipeline_sec": 734.23
+  }
+}

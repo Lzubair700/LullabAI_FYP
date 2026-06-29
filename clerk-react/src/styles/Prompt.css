@@ -1,0 +1,335 @@
+.prompt-container {
+  font-family: 'Poppins', sans-serif;
+  min-height: 100vh;
+  width: 100%;
+  margin: 0;
+  position: relative;
+  overflow: hidden;
+  background: url('/bd2.jpeg') no-repeat center center fixed !important;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 0 18px 30px;
+}
+
+.prompt-logo {
+  top: 14px;
+  left: 34px;
+}
+
+.prompt-feedback-btn {
+  position: absolute;
+  top: 18px;
+  right: 50px;
+  z-index: 30;
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  border: none;
+  border-radius: 999px;
+  padding: 11px 20px;
+  font-size: 1rem;
+  font-weight: 500;
+  color: #ffffff;
+  cursor: pointer;
+  background: linear-gradient(180deg, #f7be66, #e59a43);
+  box-shadow: 0 12px 24px rgba(229, 154, 67, 0.28);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.prompt-feedback-btn:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 14px 28px rgba(229, 154, 67, 0.34);
+}
+
+.prompt-panel {
+  width: min(980px, 100%);
+  margin-top: 0;
+  margin-bottom: 48px;
+  background: rgba(255, 255, 255, 0.34);
+  border: 1px solid rgba(255, 255, 255, 0.62);
+  border-radius: 28px;
+  padding: 28px 30px 24px;
+  backdrop-filter: blur(10px);
+  box-shadow: 0 24px 60px rgba(74, 94, 140, 0.12);
+}
+
+.prompt-block + .prompt-block { margin-top: 14px; }
+
+.prompt-block h3 {
+  color: #2b3960;
+  font-size: 1.28rem;
+  font-weight: 900;
+  margin-bottom: 12px;
+  letter-spacing: 0.04em;
+}
+
+.moral-input-wrap {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  background: rgba(248, 251, 255, 0.84);
+  border: 1px solid rgba(255, 255, 255, 0.75);
+  border-radius: 22px;
+  padding: 12px 14px;
+}
+
+.moral-input-wrap input {
+  flex: 1;
+  border: none;
+  border-radius: 16px;
+  padding: 14px 16px;
+  font-size: 1.02rem;
+  color: #43516c;
+  background: rgba(233, 240, 250, 0.92);
+  outline: none;
+}
+
+.moral-input-wrap input::placeholder { color: #919eb4; }
+
+.moral-icon-btn {
+  border: none;
+  width: 50px;
+  height: 50px;
+  border-radius: 15px;
+  font-size: 1.2rem;
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  color: #6f7f99;
+  background: rgba(235, 242, 251, 0.95);
+}
+
+.wand-btn { color: #7b8cb1; }
+
+/* Wand button hover / active styles */
+.moral-icon-btn.wand-btn:hover {
+  background: linear-gradient(180deg, #ffd58a, #e59a43);
+  color: #ffffff;
+  transform: translateY(-2px);
+}
+
+.moral-icon-btn.wand-btn:active {
+  background: linear-gradient(180deg, #e59a43, #c9772a);
+  transform: translateY(0);
+}
+
+/* Popover for moral suggestions */
+.moral-suggestions {
+  position: absolute;
+  right: 0;
+  top: 58px;
+  min-width: 220px;
+  background: rgba(255,255,255,0.98);
+  border: 1px solid rgba(34,49,80,0.08);
+  border-radius: 12px;
+  box-shadow: 0 12px 30px rgba(20,30,60,0.12);
+  padding: 8px;
+  z-index: 60;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.moral-suggestion-item {
+  background: transparent;
+  border: none;
+  text-align: left;
+  padding: 8px 10px;
+  border-radius: 8px;
+  cursor: pointer;
+  color: #233047;
+  font-weight: 700;
+}
+
+.moral-suggestion-item:hover { background: rgba(230,238,255,0.9); }
+
+.moral-suggestions-footer { display:flex; justify-content:flex-end; padding-top:6px; }
+.moral-suggestion-close { background:transparent; border:none; color:#6f7f99; cursor:pointer; padding:6px 10px; }
+
+.age-track-wrap {
+  background: rgba(240, 246, 255, 0.84);
+  border: 1px solid rgba(255, 255, 255, 0.8);
+  border-radius: 22px;
+  padding: 16px 16px 14px;
+}
+
+.age-track {
+  position: relative;
+  height: 12px;
+  border-radius: 999px;
+  background: rgba(204, 219, 239, 0.72);
+  overflow: visible;
+}
+
+.age-progress {
+  height: 100%;
+  background: linear-gradient(90deg, #f1a9a8, #f4a3b2);
+  border-radius: inherit;
+}
+
+.rocket-indicator {
+  position: absolute;
+  top: -16px;
+  font-size: 34px;
+  transform: translateX(-50%);
+  z-index: 2;
+}
+
+.rocket-indicator i {
+  background: linear-gradient(135deg, #2f7cff 0%, #ff4d4d 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  color: transparent;
+  filter: drop-shadow(0 2px 2px rgba(0, 0, 0, 0.15));
+}
+
+.age-labels {
+  margin-top: 8px;
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+}
+
+.age-label-btn {
+  border: none;
+  background: transparent;
+  color: #5f6f89;
+  font-size: 1.45rem;
+  cursor: pointer;
+}
+
+.age-label-btn.active {
+  color: #37486c;
+  font-weight: 700;
+}
+
+.duration-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 14px;
+}
+
+.duration-card {
+  border: 1px solid rgba(255, 255, 255, 0.8);
+  border-radius: 20px;
+  background: rgba(240, 246, 255, 0.88);
+  padding: 16px 18px;
+  font-size: 1rem;
+  color: #27344f;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  text-align: left;
+}
+
+.duration-card.active {
+  box-shadow: 0 0 0 2px rgba(244, 163, 178, 0.55) inset, 0 12px 28px rgba(86, 108, 154, 0.12);
+}
+
+.duration-emoji { font-size: 1.8rem; line-height: 1; }
+.duration-text strong { font-weight: 700; }
+
+.generate-btn {
+  margin-top: 0;
+  border: none;
+  border-radius: 999px;
+  padding: 16px 54px;
+  font-size: 1rem;
+  font-weight: 800;
+  color: #ffffff;
+  cursor: pointer;
+  background: linear-gradient(180deg, #f7be66, #e59a43);
+  box-shadow: 0 16px 32px rgba(229, 154, 67, 0.32);
+}
+
+.generate-btn:hover:not(:disabled) { transform: translateY(-2px); }
+.generate-btn:disabled { opacity: 0.7; cursor: not-allowed; }
+
+.error-message {
+  margin-top: 10px;
+  background-color: rgba(255, 234, 234, 0.82);
+  color: #c84949;
+  padding: 10px 16px;
+  border-radius: 14px;
+  font-size: 0.95rem;
+}
+
+.auth-message {
+  margin-top: 120px;
+  text-align: center;
+  background: rgba(255, 255, 255, 0.95);
+  padding: 30px;
+  border-radius: 20px;
+}
+
+@media (max-width: 900px) {
+  .prompt-block h3 { font-size: 20px; }
+  .duration-grid { grid-template-columns: 1fr; }
+  .moral-input-wrap input { font-size: 16px; }
+}
+
+@media (max-width: 768px) {
+  .prompt-container {
+    padding: 0 12px 24px;
+  }
+
+  .prompt-logo {
+    top: 14px;
+    left: 20px;
+  }
+
+  .prompt-feedback-btn {
+    top: 14px;
+    right: 14px;
+    padding: 10px 16px;
+    font-size: 0.92rem;
+  }
+
+  .prompt-panel {
+    margin-top: 0;
+    margin-bottom: 34px;
+    padding: 18px 14px 16px;
+    border-radius: 18px;
+  }
+
+  .prompt-block h3 {
+    font-size: 17px;
+  }
+
+  .moral-input-wrap {
+    flex-wrap: wrap;
+    gap: 8px;
+  }
+
+  .moral-input-wrap input {
+    width: 100%;
+    min-width: 0;
+    padding: 12px 14px;
+  }
+
+  .moral-icon-btn {
+    width: 44px;
+    height: 44px;
+    font-size: 18px;
+  }
+
+  .age-label-btn {
+    font-size: 19px;
+  }
+
+  .duration-card {
+    padding: 12px 14px;
+  }
+
+  .generate-btn {
+    margin-top: 0;
+    width: 100%;
+    max-width: 320px;
+    padding: 14px 20px;
+  }
+}

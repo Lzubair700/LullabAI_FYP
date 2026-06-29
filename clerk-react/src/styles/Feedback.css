@@ -1,0 +1,139 @@
+.feedback-container {
+  background: url('/bd2.jpeg') no-repeat center center fixed;
+  background-size: cover;
+  font-family: 'Poppins', sans-serif;
+  margin: 0;
+  min-height: 100vh;
+}
+
+.feedback-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 24px 16px;
+  position: relative;
+}
+
+.feedback-box {
+  background: rgba(255, 255, 255, 0.4);
+  backdrop-filter: blur(16px);
+  border-radius: 28px;
+  padding: 40px 34px;
+  width: 420px;
+  max-width: 100%;
+  text-align: center;
+  box-shadow: 0px 24px 50px rgba(78, 97, 143, 0.16);
+  border: 1px solid rgba(255, 255, 255, 0.62);
+}
+
+.feedback-box h2 {
+  font-weight: 800;
+  color: #2d4b9b;
+  margin-bottom: 22px;
+  font-size: 1.85rem;
+}
+
+/* Make the smaller heading match the main feedback title color/weight */
+.feedback-box h5 {
+  color: #2d4b9b;
+  font-weight: 800;
+  margin-bottom: 10px;
+  font-size: 1rem;
+}
+
+.feedback-box textarea {
+  width: 100%;
+  border-radius: 22px;
+  border: 1px solid rgba(202, 217, 241, 0.9);
+  padding: 15px;
+  resize: none;
+  background-color: rgba(247, 250, 255, 0.92);
+  font-family: 'Poppins', sans-serif;
+  color: #44516a;
+  font-size: 0.98rem;
+}
+
+.feedback-box textarea:focus {
+  outline: none;
+  box-shadow: 0 0 0 3px rgba(65, 105, 225, 0.3);
+}
+
+.stars {
+  margin: 20px 0;
+}
+
+.stars i {
+  font-size: 28px;
+  color: #ddd;
+  cursor: pointer;
+  transition: color 0.3s;
+  margin: 0 5px;
+}
+
+.stars i.active {
+  color: #fbbd08;
+}
+
+.submit-btn {
+  width: 100%;
+  border: none;
+  border-radius: 40px;
+  padding: 13px;
+  margin-top: 10px;
+  font-size: 1rem;
+  font-weight: 700;
+  background: linear-gradient(180deg, #6b90f6, #496ede);
+  color: white;
+  transition: all 0.3s ease;
+  cursor: pointer;
+}
+
+.submit-btn:hover:not(:disabled) {
+  background-color: #365acb;
+}
+
+.submit-btn:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+
+.error-message {
+  background-color: rgba(255, 0, 0, 0.1);
+  color: #d32f2f;
+  padding: 10px;
+  border-radius: 10px;
+  margin-bottom: 15px;
+  font-size: 0.9rem;
+}
+
+.back-link {
+  margin-top: 15px;
+  display: inline-block;
+  color: #4169e1;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.back-link:hover {
+  text-decoration: underline;
+}
+
+.mt-4 {
+  margin-top: 1.5rem;
+}
+
+.mb-2 {
+  margin-bottom: 0.5rem;
+}
+
+@media (max-width: 768px) {
+  .feedback-container {
+    align-items: flex-start;
+    padding-top: 100px;
+  }
+
+  .feedback-box {
+    width: 100%;
+    padding: 28px 20px;
+  }
+}

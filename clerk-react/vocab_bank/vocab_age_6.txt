@@ -1,0 +1,609 @@
+# Vocabulary Bank for Age 6
+# Moderate to advanced words - 1-7 letters mostly
+# Words that 6-year-olds can understand and use
+
+# NOUNS
+mom
+dad
+parent
+baby
+boy
+girl
+kid
+child
+person
+people
+family
+cat
+dog
+puppy
+kitten
+animal
+pet
+bird
+fish
+rabbit
+bear
+lion
+tiger
+elephant
+butterfly
+ball
+toy
+car
+bus
+truck
+train
+plane
+boat
+ship
+hat
+cup
+box
+bag
+bed
+chair
+table
+door
+window
+house
+home
+room
+yard
+garden
+park
+school
+friend
+teacher
+student
+book
+story
+picture
+color
+game
+song
+music
+sun
+moon
+star
+sky
+cloud
+tree
+flower
+rock
+water
+milk
+juice
+cake
+cookie
+candy
+apple
+banana
+orange
+hand
+foot
+eye
+nose
+ear
+hair
+leg
+arm
+head
+face
+body
+rain
+rainbow
+snow
+wind
+ocean
+beach
+mountain
+forest
+river
+lake
+neighbor
+community
+village
+town
+city
+country
+world
+planet
+adventure
+journey
+trip
+discovery
+treasure
+magic
+wish
+dream
+hope
+courage
+kindness
+honesty
+patience
+respect
+team
+teamwork
+problem
+solution
+idea
+plan
+choice
+decision
+mistake
+lesson
+answer
+question
+castle
+princess
+prince
+knight
+dragon
+wizard
+king
+queen
+hero
+heroine
+villain
+monster
+giant
+fairy
+elf
+dwarf
+unicorn
+mermaid
+pirate
+sailor
+explorer
+detective
+scientist
+doctor
+nurse
+firefighter
+police
+officer
+artist
+musician
+singer
+dancer
+actor
+athlete
+player
+coach
+captain
+leader
+helper
+volunteer
+citizen
+guest
+visitor
+traveler
+passenger
+driver
+pilot
+crew
+member
+group
+club
+class
+grade
+library
+museum
+zoo
+aquarium
+theater
+stadium
+playground
+pool
+island
+hill
+valley
+jungle
+desert
+field
+meadow
+farm
+barn
+garage
+workshop
+studio
+office
+store
+shop
+market
+mall
+restaurant
+cafe
+hotel
+hospital
+clinic
+bank
+post office
+police station
+fire station
+church
+temple
+airport
+train station
+bus station
+subway
+taxi
+van
+motorcycle
+bicycle
+scooter
+skateboard
+sled
+sleigh
+backpack
+purse
+wallet
+suitcase
+luggage
+lunch box
+water bottle
+trophy
+medal
+ribbon
+badge
+ticket
+card
+gift card
+library card
+student id
+passport
+certificate
+diploma
+award
+prize
+reward
+payment
+fee
+cost
+price
+value
+money
+coin
+dollar
+cent
+penny
+nickel
+dime
+quarter
+check
+currency
+
+# VERBS
+go
+come
+run
+jump
+walk
+sit
+stand
+fall
+get
+put
+take
+give
+eat
+drink
+play
+see
+look
+watch
+hear
+listen
+say
+tell
+talk
+speak
+cry
+laugh
+smile
+sleep
+wake
+help
+stop
+find
+like
+love
+want
+need
+feel
+make
+do
+think
+know
+learn
+teach
+share
+care
+wait
+try
+work
+build
+draw
+sing
+dance
+climb
+swim
+fly
+hide
+catch
+throw
+kick
+ride
+read
+write
+count
+paint
+cook
+wash
+clean
+brush
+fix
+break
+open
+close
+push
+pull
+carry
+drop
+pick
+hold
+touch
+hug
+kiss
+explore
+discover
+imagine
+create
+invent
+solve
+decide
+choose
+understand
+remember
+forget
+believe
+trust
+promise
+forgive
+apologize
+appreciate
+respect
+admire
+encourage
+support
+protect
+defend
+challenge
+overcome
+succeed
+achieve
+accomplish
+
+# ADJECTIVES
+big
+small
+little
+tiny
+huge
+hot
+cold
+warm
+cool
+wet
+dry
+new
+old
+young
+good
+bad
+sad
+mad
+glad
+happy
+joyful
+red
+blue
+green
+yellow
+pink
+purple
+brown
+black
+white
+gray
+orange
+fast
+slow
+loud
+quiet
+soft
+hard
+sweet
+sour
+nice
+fun
+funny
+pretty
+beautiful
+silly
+tired
+hungry
+thirsty
+full
+empty
+clean
+dirty
+open
+closed
+up
+down
+in
+out
+on
+off
+over
+under
+above
+below
+high
+low
+bright
+dark
+kind
+brave
+smart
+strong
+gentle
+friendly
+excited
+proud
+scared
+afraid
+safe
+careful
+patient
+important
+special
+wonderful
+amazing
+colorful
+helpful
+thoughtful
+generous
+honest
+truthful
+responsible
+reliable
+trustworthy
+confident
+determined
+persistent
+curious
+creative
+imaginative
+wise
+clever
+brilliant
+talented
+skilled
+mature
+independent
+cooperative
+compassionate
+grateful
+humble
+modest
+courageous
+fearless
+adventurous
+
+# ADVERBS
+now
+here
+there
+where
+everywhere
+yes
+no
+maybe
+more
+most
+less
+again
+too
+so
+very
+really
+well
+then
+soon
+later
+today
+tomorrow
+yesterday
+always
+sometimes
+often
+never
+first
+last
+next
+together
+alone
+carefully
+quickly
+slowly
+happily
+sadly
+quietly
+loudly
+gently
+bravely
+kindly
+honestly
+patiently
+respectfully
+gratefully
+confidently
+creatively
+wisely
+
+# PHRASES
+once upon a time
+the end
+good night
+good morning
+good afternoon
+thank you
+please
+sorry
+hello
+goodbye
+excuse me
+you are welcome
+how are you
+nice to meet you
+have a nice day
+good luck
+congratulations
+well done
+great job
+i love you
+i like you
+can you help me
+i need help
+let's play together
+let's be friends
+sharing is caring
+teamwork makes the dream work
+try your best
+never give up
+believe in yourself
+be kind to others
+respect others
+listen carefully
+think before you act
+make good choices
+learn from mistakes
+always tell the truth
+honesty is the best policy
+be grateful
+help those in need
+stand up for what is right
+be brave
+be strong
+be yourself
+dream big
+work hard
+play fair
+have fun
+be happy
+stay safe
+take care
+be careful

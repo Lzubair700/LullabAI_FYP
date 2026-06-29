@@ -1,0 +1,36 @@
+## LullabAI — Elevator Pitch (Job Fair)
+
+---
+
+### 🎤 The Pitch (60 seconds)
+
+> *"We're a team of three and we built **LullabAI** — an AI-powered platform that generates personalized storybook videos for children.*
+>
+> *Here's the problem: parents want meaningful bedtime stories that teach specific values, but finding the right one every night is time-consuming. Content apps like YouTube Kids are generic — they don't let you choose what your child learns.*
+>
+> *Our solution: a parent types in a moral — say, 'sharing is caring' — and within two minutes, LullabAI delivers a fully narrated, illustrated, cinematic video. No templates, no pre-made content — everything is generated from scratch.*
+>
+> *Under the hood, we fine-tuned a LLaMA 3.2 language model on 172 stories using QLoRA, paired it with a RAG retrieval system for context-grounded generation, and built an async Python pipeline that coordinates image generation, neural text-to-speech, AI upscaling, and video assembly — all running concurrently.*
+>
+> *The full stack is React, Node.js, and Python. We evaluated the system across 9 quantitative metrics — covering text accuracy, audio-visual synchronization, image quality, and narration speed.*
+>
+> *What makes this project stand out is that it's not just a model — it's a shipped product. End-to-end, from user input to a downloadable MP4."*
+
+---
+
+### 📋 If They Ask Follow-Up Questions
+
+| Question | Answer |
+|---|---|
+| **"What was your role?"** | *(Customize per team member — e.g., "I owned the ML pipeline and video generation backend")* |
+| **"What was the hardest part?"** | *"Orchestrating five different AI services into one reliable pipeline. Rate limiting, fallback chains, and making sure a 9-scene video doesn't crash halfway through — that's the real engineering."* |
+| **"Why not just use ChatGPT?"** | *"We wanted zero operational cost and full control over output quality. Fine-tuning our own model means we can guarantee age-appropriate, on-theme stories — and it runs locally without any API bill."* |
+| **"How do you know it works?"** | *"9 evaluation metrics — cosine similarity for moral adherence, BERTScore for story quality, Recall@k for RAG accuracy, AV sync error under 0.1 seconds, image quality benchmarks, and speaking rate analysis tuned for children aged 2-8."* |
+| **"Can it scale?"** | *"The architecture is modular — swap the image API, swap the TTS provider, swap the LLM. The pipeline is async with semaphore-based throttling, so it's designed for concurrent users."* |
+| **"What would you do differently?"** | *"With more time, we'd add real-time video streaming instead of batch generation, and train a custom image model so illustrations stay consistent across scenes."* |
+
+---
+
+### 🧠 One-Liner (for your poster/banner)
+
+> **LullabAI: Type a moral. Get a movie.** — AI-generated personalized storybook videos for children, powered by fine-tuned LLaMA, FLUX image synthesis, and neural TTS.

@@ -1,0 +1,200 @@
+{
+  "story_id": "story_1778794327899_hd18ww",
+  "final_video": "C:\\Users\\ABC\\Downloads\\FYP_Arcana\\FYP_Latest\\FYP_Mid1_Ver2\\FYP_Mid1_Ver2\\FYP_Mid1\\clerk-react\\output_videos\\story_1778794327899_hd18ww.mp4",
+  "temp_dir": "C:\\Users\\ABC\\Downloads\\FYP_Arcana\\FYP_Latest\\FYP_Mid1_Ver2\\FYP_Mid1_Ver2\\FYP_Mid1\\clerk-react\\output_videos\\temp_story_1778794327899_hd18ww",
+  "total_pipeline_sec": 1252.02,
+  "scenes": [
+    {
+      "scene_index": 0,
+      "sentence": "The Flower Friends Sara loved her garden.",
+      "prompt_used": "Whimsical colorful 2D storybook illustration for children, magical, soft lighting. The Flower Friends Sara loved her garden.",
+      "img_path": "C:\\Users\\ABC\\Downloads\\FYP_Arcana\\FYP_Latest\\FYP_Mid1_Ver2\\FYP_Mid1_Ver2\\FYP_Mid1\\clerk-react\\output_videos\\temp_story_1778794327899_hd18ww\\scene_0.jpg",
+      "img_original_path": "C:\\Users\\ABC\\Downloads\\FYP_Arcana\\FYP_Latest\\FYP_Mid1_Ver2\\FYP_Mid1_Ver2\\FYP_Mid1\\clerk-react\\output_videos\\temp_story_1778794327899_hd18ww\\scene_0_original.jpg",
+      "audio_path": "C:\\Users\\ABC\\Downloads\\FYP_Arcana\\FYP_Latest\\FYP_Mid1_Ver2\\FYP_Mid1_Ver2\\FYP_Mid1\\clerk-react\\output_videos\\temp_story_1778794327899_hd18ww\\scene_0.mp3",
+      "vid_path": "C:\\Users\\ABC\\Downloads\\FYP_Arcana\\FYP_Latest\\FYP_Mid1_Ver2\\FYP_Mid1_Ver2\\FYP_Mid1\\clerk-react\\output_videos\\temp_story_1778794327899_hd18ww\\scene_0.mp4",
+      "word_count": 7,
+      "timing": {
+        "fetch_sec": 251.68,
+        "upscale_sec": 0.26,
+        "ffmpeg_sec": 7.69,
+        "total_sec": 259.63
+      }
+    },
+    {
+      "scene_index": 1,
+      "sentence": "She had red roses, yellow sunflowers, and blue forget-me-nots.",
+      "prompt_used": "Whimsical colorful 2D storybook illustration for children, magical, soft lighting. She had red roses, yellow sunflowers, and blue forget-me-nots.",
+      "img_path": "C:\\Users\\ABC\\Downloads\\FYP_Arcana\\FYP_Latest\\FYP_Mid1_Ver2\\FYP_Mid1_Ver2\\FYP_Mid1\\clerk-react\\output_videos\\temp_story_1778794327899_hd18ww\\scene_1.jpg",
+      "img_original_path": "C:\\Users\\ABC\\Downloads\\FYP_Arcana\\FYP_Latest\\FYP_Mid1_Ver2\\FYP_Mid1_Ver2\\FYP_Mid1\\clerk-react\\output_videos\\temp_story_1778794327899_hd18ww\\scene_1_original.jpg",
+      "audio_path": "C:\\Users\\ABC\\Downloads\\FYP_Arcana\\FYP_Latest\\FYP_Mid1_Ver2\\FYP_Mid1_Ver2\\FYP_Mid1\\clerk-react\\output_videos\\temp_story_1778794327899_hd18ww\\scene_1.mp3",
+      "vid_path": "C:\\Users\\ABC\\Downloads\\FYP_Arcana\\FYP_Latest\\FYP_Mid1_Ver2\\FYP_Mid1_Ver2\\FYP_Mid1\\clerk-react\\output_videos\\temp_story_1778794327899_hd18ww\\scene_1.mp4",
+      "word_count": 9,
+      "timing": {
+        "fetch_sec": 89.97,
+        "upscale_sec": 0.17,
+        "ffmpeg_sec": 10.59,
+        "total_sec": 352.42
+      }
+    },
+    {
+      "scene_index": 2,
+      "sentence": "Sara's friend Lily came to visit.",
+      "prompt_used": "Whimsical colorful 2D storybook illustration for children, magical, soft lighting. Sara's friend Lily came to visit.",
+      "img_path": "C:\\Users\\ABC\\Downloads\\FYP_Arcana\\FYP_Latest\\FYP_Mid1_Ver2\\FYP_Mid1_Ver2\\FYP_Mid1\\clerk-react\\output_videos\\temp_story_1778794327899_hd18ww\\scene_2.jpg",
+      "img_original_path": "C:\\Users\\ABC\\Downloads\\FYP_Arcana\\FYP_Latest\\FYP_Mid1_Ver2\\FYP_Mid1_Ver2\\FYP_Mid1\\clerk-react\\output_videos\\temp_story_1778794327899_hd18ww\\scene_2_original.jpg",
+      "audio_path": "C:\\Users\\ABC\\Downloads\\FYP_Arcana\\FYP_Latest\\FYP_Mid1_Ver2\\FYP_Mid1_Ver2\\FYP_Mid1\\clerk-react\\output_videos\\temp_story_1778794327899_hd18ww\\scene_2.mp3",
+      "vid_path": "C:\\Users\\ABC\\Downloads\\FYP_Arcana\\FYP_Latest\\FYP_Mid1_Ver2\\FYP_Mid1_Ver2\\FYP_Mid1\\clerk-react\\output_videos\\temp_story_1778794327899_hd18ww\\scene_2.mp4",
+      "word_count": 6,
+      "timing": {
+        "fetch_sec": 89.99,
+        "upscale_sec": 0.16,
+        "ffmpeg_sec": 6.38,
+        "total_sec": 438.19
+      }
+    },
+    {
+      "scene_index": 3,
+      "sentence": "\"Your flowers are so pretty!\" said Lily.",
+      "prompt_used": "Whimsical colorful 2D storybook illustration for children, magical, soft lighting. \"Your flowers are so pretty!\" said Lily.",
+      "img_path": "C:\\Users\\ABC\\Downloads\\FYP_Arcana\\FYP_Latest\\FYP_Mid1_Ver2\\FYP_Mid1_Ver2\\FYP_Mid1\\clerk-react\\output_videos\\temp_story_1778794327899_hd18ww\\scene_3.jpg",
+      "img_original_path": "C:\\Users\\ABC\\Downloads\\FYP_Arcana\\FYP_Latest\\FYP_Mid1_Ver2\\FYP_Mid1_Ver2\\FYP_Mid1\\clerk-react\\output_videos\\temp_story_1778794327899_hd18ww\\scene_3_original.jpg",
+      "audio_path": "C:\\Users\\ABC\\Downloads\\FYP_Arcana\\FYP_Latest\\FYP_Mid1_Ver2\\FYP_Mid1_Ver2\\FYP_Mid1\\clerk-react\\output_videos\\temp_story_1778794327899_hd18ww\\scene_3.mp3",
+      "vid_path": "C:\\Users\\ABC\\Downloads\\FYP_Arcana\\FYP_Latest\\FYP_Mid1_Ver2\\FYP_Mid1_Ver2\\FYP_Mid1\\clerk-react\\output_videos\\temp_story_1778794327899_hd18ww\\scene_3.mp4",
+      "word_count": 7,
+      "timing": {
+        "fetch_sec": 90.04,
+        "upscale_sec": 0.15,
+        "ffmpeg_sec": 6.08,
+        "total_sec": 527.91
+      }
+    },
+    {
+      "scene_index": 4,
+      "sentence": "\"I wish I had a garden like yours.\" Sara smiled.",
+      "prompt_used": "Whimsical colorful 2D storybook illustration for children, magical, soft lighting. \"I wish I had a garden like yours.\" Sara smiled.",
+      "img_path": "C:\\Users\\ABC\\Downloads\\FYP_Arcana\\FYP_Latest\\FYP_Mid1_Ver2\\FYP_Mid1_Ver2\\FYP_Mid1\\clerk-react\\output_videos\\temp_story_1778794327899_hd18ww\\scene_4.jpg",
+      "img_original_path": "C:\\Users\\ABC\\Downloads\\FYP_Arcana\\FYP_Latest\\FYP_Mid1_Ver2\\FYP_Mid1_Ver2\\FYP_Mid1\\clerk-react\\output_videos\\temp_story_1778794327899_hd18ww\\scene_4_original.jpg",
+      "audio_path": "C:\\Users\\ABC\\Downloads\\FYP_Arcana\\FYP_Latest\\FYP_Mid1_Ver2\\FYP_Mid1_Ver2\\FYP_Mid1\\clerk-react\\output_videos\\temp_story_1778794327899_hd18ww\\scene_4.mp3",
+      "vid_path": "C:\\Users\\ABC\\Downloads\\FYP_Arcana\\FYP_Latest\\FYP_Mid1_Ver2\\FYP_Mid1_Ver2\\FYP_Mid1\\clerk-react\\output_videos\\temp_story_1778794327899_hd18ww\\scene_4.mp4",
+      "word_count": 10,
+      "timing": {
+        "fetch_sec": 91.31,
+        "upscale_sec": 0.18,
+        "ffmpeg_sec": 7.88,
+        "total_sec": 621.06
+      }
+    },
+    {
+      "scene_index": 5,
+      "sentence": "\"You can help me take care of them if you'd like.\" Lily's face lit up.",
+      "prompt_used": "Whimsical colorful 2D storybook illustration for children, magical, soft lighting. \"You can help me take care of them if you'd like.\" Lily's face lit up.",
+      "img_path": "C:\\Users\\ABC\\Downloads\\FYP_Arcana\\FYP_Latest\\FYP_Mid1_Ver2\\FYP_Mid1_Ver2\\FYP_Mid1\\clerk-react\\output_videos\\temp_story_1778794327899_hd18ww\\scene_5.jpg",
+      "img_original_path": "C:\\Users\\ABC\\Downloads\\FYP_Arcana\\FYP_Latest\\FYP_Mid1_Ver2\\FYP_Mid1_Ver2\\FYP_Mid1\\clerk-react\\output_videos\\temp_story_1778794327899_hd18ww\\scene_5_original.jpg",
+      "audio_path": "C:\\Users\\ABC\\Downloads\\FYP_Arcana\\FYP_Latest\\FYP_Mid1_Ver2\\FYP_Mid1_Ver2\\FYP_Mid1\\clerk-react\\output_videos\\temp_story_1778794327899_hd18ww\\scene_5.mp3",
+      "vid_path": "C:\\Users\\ABC\\Downloads\\FYP_Arcana\\FYP_Latest\\FYP_Mid1_Ver2\\FYP_Mid1_Ver2\\FYP_Mid1\\clerk-react\\output_videos\\temp_story_1778794327899_hd18ww\\scene_5.mp4",
+      "word_count": 15,
+      "timing": {
+        "fetch_sec": 88.71,
+        "upscale_sec": 0.17,
+        "ffmpeg_sec": 8.9,
+        "total_sec": 710.78
+      }
+    },
+    {
+      "scene_index": 6,
+      "sentence": "The two girls worked together, watering the plants and pulling weeds.",
+      "prompt_used": "Whimsical colorful 2D storybook illustration for children, magical, soft lighting. The two girls worked together, watering the plants and pulling weeds.",
+      "img_path": "C:\\Users\\ABC\\Downloads\\FYP_Arcana\\FYP_Latest\\FYP_Mid1_Ver2\\FYP_Mid1_Ver2\\FYP_Mid1\\clerk-react\\output_videos\\temp_story_1778794327899_hd18ww\\scene_6.jpg",
+      "img_original_path": "C:\\Users\\ABC\\Downloads\\FYP_Arcana\\FYP_Latest\\FYP_Mid1_Ver2\\FYP_Mid1_Ver2\\FYP_Mid1\\clerk-react\\output_videos\\temp_story_1778794327899_hd18ww\\scene_6_original.jpg",
+      "audio_path": "C:\\Users\\ABC\\Downloads\\FYP_Arcana\\FYP_Latest\\FYP_Mid1_Ver2\\FYP_Mid1_Ver2\\FYP_Mid1\\clerk-react\\output_videos\\temp_story_1778794327899_hd18ww\\scene_6.mp3",
+      "vid_path": "C:\\Users\\ABC\\Downloads\\FYP_Arcana\\FYP_Latest\\FYP_Mid1_Ver2\\FYP_Mid1_Ver2\\FYP_Mid1\\clerk-react\\output_videos\\temp_story_1778794327899_hd18ww\\scene_6.mp4",
+      "word_count": 11,
+      "timing": {
+        "fetch_sec": 90.0,
+        "upscale_sec": 0.17,
+        "ffmpeg_sec": 9.47,
+        "total_sec": 801.36
+      }
+    },
+    {
+      "scene_index": 7,
+      "sentence": "When they were done, the garden looked even more beautiful.",
+      "prompt_used": "Whimsical colorful 2D storybook illustration for children, magical, soft lighting. When they were done, the garden looked even more beautiful.",
+      "img_path": "C:\\Users\\ABC\\Downloads\\FYP_Arcana\\FYP_Latest\\FYP_Mid1_Ver2\\FYP_Mid1_Ver2\\FYP_Mid1\\clerk-react\\output_videos\\temp_story_1778794327899_hd18ww\\scene_7.jpg",
+      "img_original_path": "C:\\Users\\ABC\\Downloads\\FYP_Arcana\\FYP_Latest\\FYP_Mid1_Ver2\\FYP_Mid1_Ver2\\FYP_Mid1\\clerk-react\\output_videos\\temp_story_1778794327899_hd18ww\\scene_7_original.jpg",
+      "audio_path": "C:\\Users\\ABC\\Downloads\\FYP_Arcana\\FYP_Latest\\FYP_Mid1_Ver2\\FYP_Mid1_Ver2\\FYP_Mid1\\clerk-react\\output_videos\\temp_story_1778794327899_hd18ww\\scene_7.mp3",
+      "vid_path": "C:\\Users\\ABC\\Downloads\\FYP_Arcana\\FYP_Latest\\FYP_Mid1_Ver2\\FYP_Mid1_Ver2\\FYP_Mid1\\clerk-react\\output_videos\\temp_story_1778794327899_hd18ww\\scene_7.mp4",
+      "word_count": 10,
+      "timing": {
+        "fetch_sec": 89.84,
+        "upscale_sec": 0.15,
+        "ffmpeg_sec": 7.65,
+        "total_sec": 889.36
+      }
+    },
+    {
+      "scene_index": 8,
+      "sentence": "\"We make a great team!\" said Sara.",
+      "prompt_used": "Whimsical colorful 2D storybook illustration for children, magical, soft lighting. \"We make a great team!\" said Sara.",
+      "img_path": "C:\\Users\\ABC\\Downloads\\FYP_Arcana\\FYP_Latest\\FYP_Mid1_Ver2\\FYP_Mid1_Ver2\\FYP_Mid1\\clerk-react\\output_videos\\temp_story_1778794327899_hd18ww\\scene_8.jpg",
+      "img_original_path": "C:\\Users\\ABC\\Downloads\\FYP_Arcana\\FYP_Latest\\FYP_Mid1_Ver2\\FYP_Mid1_Ver2\\FYP_Mid1\\clerk-react\\output_videos\\temp_story_1778794327899_hd18ww\\scene_8_original.jpg",
+      "audio_path": "C:\\Users\\ABC\\Downloads\\FYP_Arcana\\FYP_Latest\\FYP_Mid1_Ver2\\FYP_Mid1_Ver2\\FYP_Mid1\\clerk-react\\output_videos\\temp_story_1778794327899_hd18ww\\scene_8.mp3",
+      "vid_path": "C:\\Users\\ABC\\Downloads\\FYP_Arcana\\FYP_Latest\\FYP_Mid1_Ver2\\FYP_Mid1_Ver2\\FYP_Mid1\\clerk-react\\output_videos\\temp_story_1778794327899_hd18ww\\scene_8.mp4",
+      "word_count": 7,
+      "timing": {
+        "fetch_sec": 90.11,
+        "upscale_sec": 0.16,
+        "ffmpeg_sec": 8.23,
+        "total_sec": 980.08
+      }
+    },
+    {
+      "scene_index": 9,
+      "sentence": "Lily nodded.",
+      "prompt_used": "Whimsical colorful 2D storybook illustration for children, magical, soft lighting. Lily nodded.",
+      "img_path": "C:\\Users\\ABC\\Downloads\\FYP_Arcana\\FYP_Latest\\FYP_Mid1_Ver2\\FYP_Mid1_Ver2\\FYP_Mid1\\clerk-react\\output_videos\\temp_story_1778794327899_hd18ww\\scene_9.jpg",
+      "img_original_path": "C:\\Users\\ABC\\Downloads\\FYP_Arcana\\FYP_Latest\\FYP_Mid1_Ver2\\FYP_Mid1_Ver2\\FYP_Mid1\\clerk-react\\output_videos\\temp_story_1778794327899_hd18ww\\scene_9_original.jpg",
+      "audio_path": "C:\\Users\\ABC\\Downloads\\FYP_Arcana\\FYP_Latest\\FYP_Mid1_Ver2\\FYP_Mid1_Ver2\\FYP_Mid1\\clerk-react\\output_videos\\temp_story_1778794327899_hd18ww\\scene_9.mp3",
+      "vid_path": "C:\\Users\\ABC\\Downloads\\FYP_Arcana\\FYP_Latest\\FYP_Mid1_Ver2\\FYP_Mid1_Ver2\\FYP_Mid1\\clerk-react\\output_videos\\temp_story_1778794327899_hd18ww\\scene_9.mp4",
+      "word_count": 2,
+      "timing": {
+        "fetch_sec": 89.93,
+        "upscale_sec": 0.17,
+        "ffmpeg_sec": 3.11,
+        "total_sec": 1064.9
+      }
+    },
+    {
+      "scene_index": 10,
+      "sentence": "\"Yes, we do.",
+      "prompt_used": "Whimsical colorful 2D storybook illustration for children, magical, soft lighting. \"Yes, we do.",
+      "img_path": "C:\\Users\\ABC\\Downloads\\FYP_Arcana\\FYP_Latest\\FYP_Mid1_Ver2\\FYP_Mid1_Ver2\\FYP_Mid1\\clerk-react\\output_videos\\temp_story_1778794327899_hd18ww\\scene_10.jpg",
+      "img_original_path": "C:\\Users\\ABC\\Downloads\\FYP_Arcana\\FYP_Latest\\FYP_Mid1_Ver2\\FYP_Mid1_Ver2\\FYP_Mid1\\clerk-react\\output_videos\\temp_story_1778794327899_hd18ww\\scene_10_original.jpg",
+      "audio_path": "C:\\Users\\ABC\\Downloads\\FYP_Arcana\\FYP_Latest\\FYP_Mid1_Ver2\\FYP_Mid1_Ver2\\FYP_Mid1\\clerk-react\\output_videos\\temp_story_1778794327899_hd18ww\\scene_10.mp3",
+      "vid_path": "C:\\Users\\ABC\\Downloads\\FYP_Arcana\\FYP_Latest\\FYP_Mid1_Ver2\\FYP_Mid1_Ver2\\FYP_Mid1\\clerk-react\\output_videos\\temp_story_1778794327899_hd18ww\\scene_10.mp4",
+      "word_count": 3,
+      "timing": {
+        "fetch_sec": 90.1,
+        "upscale_sec": 0.16,
+        "ffmpeg_sec": 3.1,
+        "total_sec": 1154.98
+      }
+    },
+    {
+      "scene_index": 11,
+      "sentence": "Equality is the best.\" Moral: equality",
+      "prompt_used": "Whimsical colorful 2D storybook illustration for children, magical, soft lighting. Equality is the best.\" Moral: equality",
+      "img_path": "C:\\Users\\ABC\\Downloads\\FYP_Arcana\\FYP_Latest\\FYP_Mid1_Ver2\\FYP_Mid1_Ver2\\FYP_Mid1\\clerk-react\\output_videos\\temp_story_1778794327899_hd18ww\\scene_11.jpg",
+      "img_original_path": "C:\\Users\\ABC\\Downloads\\FYP_Arcana\\FYP_Latest\\FYP_Mid1_Ver2\\FYP_Mid1_Ver2\\FYP_Mid1\\clerk-react\\output_videos\\temp_story_1778794327899_hd18ww\\scene_11_original.jpg",
+      "audio_path": "C:\\Users\\ABC\\Downloads\\FYP_Arcana\\FYP_Latest\\FYP_Mid1_Ver2\\FYP_Mid1_Ver2\\FYP_Mid1\\clerk-react\\output_videos\\temp_story_1778794327899_hd18ww\\scene_11.mp3",
+      "vid_path": "C:\\Users\\ABC\\Downloads\\FYP_Arcana\\FYP_Latest\\FYP_Mid1_Ver2\\FYP_Mid1_Ver2\\FYP_Mid1\\clerk-react\\output_videos\\temp_story_1778794327899_hd18ww\\scene_11.mp4",
+      "word_count": 6,
+      "timing": {
+        "fetch_sec": 89.97,
+        "upscale_sec": 0.16,
+        "ffmpeg_sec": 9.72,
+        "total_sec": 1251.57
+      }
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "story_id": "story_1770831970410_yeq3ng",
+  "moral": "Respect",
+  "age": "5",
+  "duration_sec": 30,
+  "created_at": "2026-02-11T17:46:10.410Z",
+  "scenes": [
+    {
+      "scene_index": 0,
+      "sentence": "Lily the Puppy Lily was a small, brown puppy.",
+      "word_count": 9,
+      "approx_duration_sec": 3.75
+    },
+    {
+      "scene_index": 1,
+      "sentence": "She loved to play in the park.",
+      "word_count": 7,
+      "approx_duration_sec": 2.92
+    },
+    {
+      "scene_index": 2,
+      "sentence": "One day, Lily saw a big dog.",
+      "word_count": 7,
+      "approx_duration_sec": 2.92
+    },
+    {
+      "scene_index": 3,
+      "sentence": "The big dog looked mean.",
+      "word_count": 5,
+      "approx_duration_sec": 2.08
+    },
+    {
+      "scene_index": 4,
+      "sentence": "Lily ran up to the dog and barked loudly.",
+      "word_count": 9,
+      "approx_duration_sec": 3.75
+    },
+    {
+      "scene_index": 5,
+      "sentence": "\"Stop!\" said the owner.",
+      "word_count": 4,
+      "approx_duration_sec": 1.67
+    },
+    {
+      "scene_index": 6,
+      "sentence": "\"You must respect the big dog.\" Lily felt bad.",
+      "word_count": 9,
+      "approx_duration_sec": 3.75
+    },
+    {
+      "scene_index": 7,
+      "sentence": "She said sorry and sat down.",
+      "word_count": 6,
+      "approx_duration_sec": 2.5
+    },
+    {
+      "scene_index": 8,
+      "sentence": "The big dog wagged his tail.",
+      "word_count": 6,
+      "approx_duration_sec": 2.5
+    },
+    {
+      "scene_index": 9,
+      "sentence": "Lily learned to be kind and respect others.",
+      "word_count": 8,
+      "approx_duration_sec": 3.33
+    },
+    {
+      "scene_index": 10,
+      "sentence": "Moral: Respect",
+      "word_count": 2,
+      "approx_duration_sec": 0.83
+    }
+  ]
+}

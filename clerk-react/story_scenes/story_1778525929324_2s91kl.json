@@ -1,0 +1,69 @@
+{
+  "story_id": "story_1778525929324_2s91kl",
+  "moral": "forgiveness",
+  "age": "7",
+  "duration_sec": 30,
+  "created_at": "2026-05-11T18:58:49.324Z",
+  "scenes": [
+    {
+      "scene_index": 0,
+      "sentence": "Lily was sad.",
+      "word_count": 3,
+      "approx_duration_sec": 1.45
+    },
+    {
+      "scene_index": 1,
+      "sentence": "Her best friend Tom had broken her new toy.",
+      "word_count": 9,
+      "approx_duration_sec": 4.35
+    },
+    {
+      "scene_index": 2,
+      "sentence": "\"I'm so mad!\" she cried.",
+      "word_count": 5,
+      "approx_duration_sec": 2.42
+    },
+    {
+      "scene_index": 3,
+      "sentence": "But then Lily saw the sad look on Tom's face.",
+      "word_count": 10,
+      "approx_duration_sec": 4.84
+    },
+    {
+      "scene_index": 4,
+      "sentence": "\"I'm sorry,\" he said.",
+      "word_count": 4,
+      "approx_duration_sec": 1.94
+    },
+    {
+      "scene_index": 5,
+      "sentence": "Lily thought for a moment.",
+      "word_count": 5,
+      "approx_duration_sec": 2.42
+    },
+    {
+      "scene_index": 6,
+      "sentence": "She remembered how much fun she and Tom had playing together.",
+      "word_count": 11,
+      "approx_duration_sec": 5.32
+    },
+    {
+      "scene_index": 7,
+      "sentence": "Lily gave Tom a big smile.",
+      "word_count": 6,
+      "approx_duration_sec": 2.9
+    },
+    {
+      "scene_index": 8,
+      "sentence": "\"It's okay,\" she said.",
+      "word_count": 4,
+      "approx_duration_sec": 1.94
+    },
+    {
+      "scene_index": 9,
+      "sentence": "\"Let's go play!\" Moral: forgiveness",
+      "word_count": 5,
+      "approx_duration_sec": 2.42
+    }
+  ]
+}

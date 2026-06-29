@@ -1,0 +1,255 @@
+{
+  "story_id": "story_1778609497855_n6pson",
+  "total_pipeline_sec": 470.72,
+  "scene_count": 7,
+  "scenes": [
+    {
+      "scene_index": 0,
+      "sentence": "Once upon a time, there were two sisters named Lily and Rose.",
+      "av_sync": {
+        "audio_duration_sec": 4.18,
+        "video_duration_sec": 4.18,
+        "sync_error_sec": 0.0,
+        "rating": "perfect"
+      },
+      "prompt_adherence": {
+        "score": 1.0,
+        "method": "keyword_heuristic"
+      },
+      "image_quality": {
+        "original_sharpness": 31.3,
+        "enhanced_sharpness": 12.8,
+        "improvement_ratio": 0.41,
+        "original_resolution": "768x768",
+        "enhanced_resolution": "1536x1536"
+      },
+      "latency": {
+        "fetch_sec": 3.31,
+        "upscale_sec": 0.17,
+        "ffmpeg_sec": 10.17,
+        "total_sec": 13.66
+      },
+      "speaking_rate": {
+        "word_count": 12,
+        "audio_duration_sec": 4.18,
+        "wpm": 172.2,
+        "target_wpm": "120-150",
+        "rating": "acceptable"
+      }
+    },
+    {
+      "scene_index": 1,
+      "sentence": "Lily had a new doll, and Rose wanted to play with it.",
+      "av_sync": {
+        "audio_duration_sec": 2.86,
+        "video_duration_sec": 2.86,
+        "sync_error_sec": 0.0,
+        "rating": "perfect"
+      },
+      "prompt_adherence": {
+        "score": 1.0,
+        "method": "keyword_heuristic"
+      },
+      "image_quality": {
+        "original_sharpness": 27.25,
+        "enhanced_sharpness": 10.99,
+        "improvement_ratio": 0.4,
+        "original_resolution": "768x768",
+        "enhanced_resolution": "1536x1536"
+      },
+      "latency": {
+        "fetch_sec": 90.35,
+        "upscale_sec": 0.27,
+        "ffmpeg_sec": 10.52,
+        "total_sec": 104.46
+      },
+      "speaking_rate": {
+        "word_count": 12,
+        "audio_duration_sec": 2.86,
+        "wpm": 251.7,
+        "target_wpm": "120-150",
+        "rating": "too_fast"
+      }
+    },
+    {
+      "scene_index": 2,
+      "sentence": "Lily did not want to share.",
+      "av_sync": {
+        "audio_duration_sec": 1.7,
+        "video_duration_sec": 1.7,
+        "sync_error_sec": 0.0,
+        "rating": "perfect"
+      },
+      "prompt_adherence": {
+        "score": 1.0,
+        "method": "keyword_heuristic"
+      },
+      "image_quality": {
+        "original_sharpness": 32.99,
+        "enhanced_sharpness": 12.89,
+        "improvement_ratio": 0.39,
+        "original_resolution": "768x768",
+        "enhanced_resolution": "1536x1536"
+      },
+      "latency": {
+        "fetch_sec": 89.76,
+        "upscale_sec": 0.21,
+        "ffmpeg_sec": 4.61,
+        "total_sec": 188.25
+      },
+      "speaking_rate": {
+        "word_count": 6,
+        "audio_duration_sec": 1.7,
+        "wpm": 211.8,
+        "target_wpm": "120-150",
+        "rating": "too_fast"
+      }
+    },
+    {
+      "scene_index": 3,
+      "sentence": "But then Lily saw how sad Rose felt.",
+      "av_sync": {
+        "audio_duration_sec": 2.71,
+        "video_duration_sec": 2.71,
+        "sync_error_sec": 0.0,
+        "rating": "perfect"
+      },
+      "prompt_adherence": {
+        "score": 1.0,
+        "method": "keyword_heuristic"
+      },
+      "image_quality": {
+        "original_sharpness": 32.28,
+        "enhanced_sharpness": 12.51,
+        "improvement_ratio": 0.39,
+        "original_resolution": "768x768",
+        "enhanced_resolution": "1536x1536"
+      },
+      "latency": {
+        "fetch_sec": 89.87,
+        "upscale_sec": 0.21,
+        "ffmpeg_sec": 7.28,
+        "total_sec": 280.79
+      },
+      "speaking_rate": {
+        "word_count": 8,
+        "audio_duration_sec": 2.71,
+        "wpm": 177.1,
+        "target_wpm": "120-150",
+        "rating": "acceptable"
+      }
+    },
+    {
+      "scene_index": 4,
+      "sentence": "Lily decided to let Rose play with the doll too.",
+      "av_sync": {
+        "audio_duration_sec": 2.78,
+        "video_duration_sec": 2.78,
+        "sync_error_sec": 0.0,
+        "rating": "perfect"
+      },
+      "prompt_adherence": {
+        "score": 1.0,
+        "method": "keyword_heuristic"
+      },
+      "image_quality": {
+        "original_sharpness": 32.85,
+        "enhanced_sharpness": 12.92,
+        "improvement_ratio": 0.39,
+        "original_resolution": "768x768",
+        "enhanced_resolution": "1536x1536"
+      },
+      "latency": {
+        "fetch_sec": 90.08,
+        "upscale_sec": 0.2,
+        "ffmpeg_sec": 6.94,
+        "total_sec": 370.54
+      },
+      "speaking_rate": {
+        "word_count": 10,
+        "audio_duration_sec": 2.78,
+        "wpm": 215.8,
+        "target_wpm": "120-150",
+        "rating": "too_fast"
+      }
+    },
+    {
+      "scene_index": 5,
+      "sentence": "The sisters had so much fun playing together.",
+      "av_sync": {
+        "audio_duration_sec": 2.4,
+        "video_duration_sec": 2.4,
+        "sync_error_sec": 0.0,
+        "rating": "perfect"
+      },
+      "prompt_adherence": {
+        "score": 1.0,
+        "method": "keyword_heuristic"
+      },
+      "image_quality": {
+        "original_sharpness": 28.67,
+        "enhanced_sharpness": 11.93,
+        "improvement_ratio": 0.42,
+        "original_resolution": "768x768",
+        "enhanced_resolution": "1536x1536"
+      },
+      "latency": {
+        "fetch_sec": 89.92,
+        "upscale_sec": 0.47,
+        "ffmpeg_sec": 14.23,
+        "total_sec": 468.02
+      },
+      "speaking_rate": {
+        "word_count": 8,
+        "audio_duration_sec": 2.4,
+        "wpm": 200.0,
+        "target_wpm": "120-150",
+        "rating": "too_fast"
+      }
+    },
+    {
+      "scene_index": 6,
+      "sentence": "Moral: sharing is caring.",
+      "av_sync": {
+        "audio_duration_sec": 2.26,
+        "video_duration_sec": 2.26,
+        "sync_error_sec": 0.0,
+        "rating": "perfect"
+      },
+      "prompt_adherence": {
+        "score": 1.0,
+        "method": "keyword_heuristic"
+      },
+      "image_quality": {
+        "original_sharpness": 30.12,
+        "enhanced_sharpness": 11.72,
+        "improvement_ratio": 0.39,
+        "original_resolution": "768x768",
+        "enhanced_resolution": "1536x1536"
+      },
+      "latency": {
+        "fetch_sec": 2.26,
+        "upscale_sec": 0.26,
+        "ffmpeg_sec": 14.37,
+        "total_sec": 470.21
+      },
+      "speaking_rate": {
+        "word_count": 4,
+        "audio_duration_sec": 2.26,
+        "wpm": 106.2,
+        "target_wpm": "120-150",
+        "rating": "ideal"
+      }
+    }
+  ],
+  "averages": {
+    "avg_sync_error_sec": 0.0,
+    "avg_prompt_adherence": 1.0,
+    "avg_sharpness_improvement": 0.399,
+    "avg_fetch_sec": 65.079,
+    "avg_upscale_sec": 0.256,
+    "avg_ffmpeg_sec": 9.731,
+    "avg_wpm": 190.686,
+    "total_pipeline_sec": 470.72
+  }
+}

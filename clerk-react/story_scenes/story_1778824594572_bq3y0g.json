@@ -1,0 +1,39 @@
+{
+  "story_id": "story_1778824594572_bq3y0g",
+  "moral": "Teamwork",
+  "age": "6",
+  "duration_sec": 20,
+  "created_at": "2026-05-15T05:56:34.572Z",
+  "scenes": [
+    {
+      "scene_index": 0,
+      "sentence": "Liam and Lily wanted to build a big sand castle.",
+      "word_count": 10,
+      "approx_duration_sec": 5
+    },
+    {
+      "scene_index": 1,
+      "sentence": "Liam dug the holes while Lily added the buckets of wet sand.",
+      "word_count": 12,
+      "approx_duration_sec": 6
+    },
+    {
+      "scene_index": 2,
+      "sentence": "They worked together until their castle was tall and strong.",
+      "word_count": 10,
+      "approx_duration_sec": 5
+    },
+    {
+      "scene_index": 3,
+      "sentence": "\"Yay, we did it!\" they cheered.",
+      "word_count": 6,
+      "approx_duration_sec": 3
+    },
+    {
+      "scene_index": 4,
+      "sentence": "Moral: Teamwork",
+      "word_count": 2,
+      "approx_duration_sec": 1
+    }
+  ]
+}

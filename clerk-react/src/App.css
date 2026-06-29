@@ -1,0 +1,76 @@
+#root {
+  width: 100%;
+  min-height: 100vh;
+}
+
+.app-header {
+  position: fixed;
+  top: 16px;
+  right: 18px;
+  z-index: 1000;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  max-width: calc(100vw - 36px);
+}
+
+.header-btn {
+  background-color: #4c8ef7;
+  color: white;
+  border: none;
+  border-radius: 25px;
+  padding: 10px 22px;
+  font-size: 15px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.header-btn:hover {
+  background-color: #356fe0;
+}
+
+.page-brand {
+  position: absolute;
+  top: 20px;
+  left: 24px;
+  z-index: 30;
+  display: inline-flex;
+  align-items: baseline;
+  gap: 0;
+  font-weight: 900;
+  letter-spacing: 0.8px;
+  line-height: 1;
+  user-select: none;
+}
+
+.page-brand-main {
+  color: #7da8ff;
+  font-size: clamp(1.7rem, 2vw, 2rem);
+}
+
+.page-brand-ai {
+  color: #d59734;
+  font-size: clamp(1.7rem, 2vw, 2rem);
+}
+
+@media (max-width: 768px) {
+  .app-header {
+    top: 12px;
+    right: 12px;
+    max-width: calc(100vw - 24px);
+  }
+
+  .page-brand {
+    top: 18px;
+    left: 16px;
+  }
+
+  .page-brand-main,
+  .page-brand-ai {
+    font-size: 1.45rem;
+  }
+}

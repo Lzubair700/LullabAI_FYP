@@ -1,0 +1,45 @@
+{
+  "story_id": "story_1774883057054_oehdd4",
+  "moral": "Telling truth",
+  "age": "4",
+  "duration_sec": 30,
+  "created_at": "2026-03-30T15:04:17.055Z",
+  "scenes": [
+    {
+      "scene_index": 0,
+      "sentence": "Little Lily was a good girl, but one day she made a mess.",
+      "word_count": 13,
+      "approx_duration_sec": 4.7
+    },
+    {
+      "scene_index": 1,
+      "sentence": "Her mom asked, \"Lily, did you make this mess?\" Lily felt scared.",
+      "word_count": 12,
+      "approx_duration_sec": 4.34
+    },
+    {
+      "scene_index": 2,
+      "sentence": "She did not want to get in trouble, so she said, \"No, I did not make the mess.\" But Lily's mom could see the paint on Lily's hands.",
+      "word_count": 28,
+      "approx_duration_sec": 10.12
+    },
+    {
+      "scene_index": 3,
+      "sentence": "\"Lily, you must tell the truth,\" said her mom.",
+      "word_count": 9,
+      "approx_duration_sec": 3.25
+    },
+    {
+      "scene_index": 4,
+      "sentence": "Lily felt sad and said, \"I'm sorry, I made the mess.\" Her mom gave her a big hug.",
+      "word_count": 18,
+      "approx_duration_sec": 6.51
+    },
+    {
+      "scene_index": 5,
+      "sentence": "Moral: Telling truth",
+      "word_count": 3,
+      "approx_duration_sec": 1.08
+    }
+  ]
+}

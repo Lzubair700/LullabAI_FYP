@@ -1,0 +1,75 @@
+{
+  "story_id": "story_1778435732337_97kqtj",
+  "moral": "Honesty is the best policy",
+  "age": "7",
+  "duration_sec": 40,
+  "created_at": "2026-05-10T17:55:32.337Z",
+  "scenes": [
+    {
+      "scene_index": 0,
+      "sentence": "The Honest Puppy Daisy was a sweet little puppy who loved to play.",
+      "word_count": 13,
+      "approx_duration_sec": 4.6
+    },
+    {
+      "scene_index": 1,
+      "sentence": "One day, Daisy was in the house alone when she saw a big bone on the table.",
+      "word_count": 17,
+      "approx_duration_sec": 6.02
+    },
+    {
+      "scene_index": 2,
+      "sentence": "\"Mmm, that looks yummy!\" she said.",
+      "word_count": 6,
+      "approx_duration_sec": 2.12
+    },
+    {
+      "scene_index": 3,
+      "sentence": "Daisy took the bone and hid it under her bed.",
+      "word_count": 10,
+      "approx_duration_sec": 3.54
+    },
+    {
+      "scene_index": 4,
+      "sentence": "Soon, Daisy's owner came home.",
+      "word_count": 5,
+      "approx_duration_sec": 1.77
+    },
+    {
+      "scene_index": 5,
+      "sentence": "\"Daisy, have you seen my bone?\" he asked.",
+      "word_count": 8,
+      "approx_duration_sec": 2.83
+    },
+    {
+      "scene_index": 6,
+      "sentence": "Daisy felt very bad.",
+      "word_count": 4,
+      "approx_duration_sec": 1.42
+    },
+    {
+      "scene_index": 7,
+      "sentence": "She went to her owner and said, \"I'm sorry, I took the bone.\" Her owner smiled and gave Daisy a hug.",
+      "word_count": 21,
+      "approx_duration_sec": 7.43
+    },
+    {
+      "scene_index": 8,
+      "sentence": "\"I'm proud of you for telling the truth.",
+      "word_count": 8,
+      "approx_duration_sec": 2.83
+    },
+    {
+      "scene_index": 9,
+      "sentence": "Honesty is the best policy.\" From that day on, Daisy always tried to be honest.",
+      "word_count": 15,
+      "approx_duration_sec": 5.31
+    },
+    {
+      "scene_index": 10,
+      "sentence": "Moral: Honesty is the best policy.",
+      "word_count": 6,
+      "approx_duration_sec": 2.12
+    }
+  ]
+}

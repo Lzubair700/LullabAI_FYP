@@ -1,0 +1,63 @@
+{
+  "story_id": "story_1778757859361_5kmp52",
+  "moral": "Honesty is the best policy",
+  "age": 6,
+  "duration_sec": 40,
+  "created_at": "2026-05-14T11:24:19.361Z",
+  "scenes": [
+    {
+      "scene_index": 0,
+      "sentence": "Little Lily was a kind girl who loved to help her family.",
+      "word_count": 12,
+      "approx_duration_sec": 5.22
+    },
+    {
+      "scene_index": 1,
+      "sentence": "One day, Lily broke her mom's favorite vase.",
+      "word_count": 8,
+      "approx_duration_sec": 3.48
+    },
+    {
+      "scene_index": 2,
+      "sentence": "She felt very bad.",
+      "word_count": 4,
+      "approx_duration_sec": 1.74
+    },
+    {
+      "scene_index": 3,
+      "sentence": "Lily could have lied, but she knew that would be wrong.",
+      "word_count": 11,
+      "approx_duration_sec": 4.78
+    },
+    {
+      "scene_index": 4,
+      "sentence": "So Lily told her mom the truth.",
+      "word_count": 7,
+      "approx_duration_sec": 3.04
+    },
+    {
+      "scene_index": 5,
+      "sentence": "At first, her mom was upset.",
+      "word_count": 6,
+      "approx_duration_sec": 2.61
+    },
+    {
+      "scene_index": 6,
+      "sentence": "But then she saw how sorry Lily felt.",
+      "word_count": 8,
+      "approx_duration_sec": 3.48
+    },
+    {
+      "scene_index": 7,
+      "sentence": "Her mom gave Lily a big hug and said, \"I'm proud of you for being honest.\" From that day on, Lily always told the truth, even when it was hard.",
+      "word_count": 30,
+      "approx_duration_sec": 13.04
+    },
+    {
+      "scene_index": 8,
+      "sentence": "Moral: Honesty is the best policy.",
+      "word_count": 6,
+      "approx_duration_sec": 2.61
+    }
+  ]
+}

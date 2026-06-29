@@ -1,0 +1,69 @@
+{
+  "story_id": "story_1779756603599_p5xmgo",
+  "moral": "Kindness",
+  "age": "6",
+  "duration_sec": 30,
+  "created_at": "2026-05-26T00:50:03.599Z",
+  "scenes": [
+    {
+      "scene_index": 0,
+      "sentence": "Little Lily was a kind girl.",
+      "word_count": 6,
+      "approx_duration_sec": 2.86
+    },
+    {
+      "scene_index": 1,
+      "sentence": "One day, she saw a small bird.",
+      "word_count": 7,
+      "approx_duration_sec": 3.33
+    },
+    {
+      "scene_index": 2,
+      "sentence": "The bird's wing was hurt.",
+      "word_count": 5,
+      "approx_duration_sec": 2.38
+    },
+    {
+      "scene_index": 3,
+      "sentence": "Lily got some food and water for the bird.",
+      "word_count": 9,
+      "approx_duration_sec": 4.29
+    },
+    {
+      "scene_index": 4,
+      "sentence": "She kept the bird safe in her room.",
+      "word_count": 8,
+      "approx_duration_sec": 3.81
+    },
+    {
+      "scene_index": 5,
+      "sentence": "Soon, the bird's wing healed.",
+      "word_count": 5,
+      "approx_duration_sec": 2.38
+    },
+    {
+      "scene_index": 6,
+      "sentence": "Lily let the bird fly free.",
+      "word_count": 6,
+      "approx_duration_sec": 2.86
+    },
+    {
+      "scene_index": 7,
+      "sentence": "The bird sang a happy song.",
+      "word_count": 6,
+      "approx_duration_sec": 2.86
+    },
+    {
+      "scene_index": 8,
+      "sentence": "Lily felt so good for helping the hurt bird.",
+      "word_count": 9,
+      "approx_duration_sec": 4.29
+    },
+    {
+      "scene_index": 9,
+      "sentence": "Moral: Kindness",
+      "word_count": 2,
+      "approx_duration_sec": 0.95
+    }
+  ]
+}

@@ -1,0 +1,378 @@
+{
+  "story_id": "story_1778796792674_2451p6",
+  "final_video": "C:\\Users\\ABC\\Downloads\\FYP_Arcana\\FYP_Latest\\FYP_Mid1_Ver2\\FYP_Mid1_Ver2\\FYP_Mid1\\clerk-react\\output_videos\\story_1778796792674_2451p6.mp4",
+  "temp_dir": "C:\\Users\\ABC\\Downloads\\FYP_Arcana\\FYP_Latest\\FYP_Mid1_Ver2\\FYP_Mid1_Ver2\\FYP_Mid1\\clerk-react\\output_videos\\temp_story_1778796792674_2451p6",
+  "total_pipeline_sec": 732.85,
+  "scenes": [
+    {
+      "scene_index": 0,
+      "sentence": "The Lost Toy Lily was a sweet little girl who loved to play.",
+      "prompt_used": "Whimsical colorful 2D storybook illustration for children, magical, soft lighting. The Lost Toy Lily was a sweet little girl who loved to play.",
+      "img_path": "C:\\Users\\ABC\\Downloads\\FYP_Arcana\\FYP_Latest\\FYP_Mid1_Ver2\\FYP_Mid1_Ver2\\FYP_Mid1\\clerk-react\\output_videos\\temp_story_1778796792674_2451p6\\scene_0.jpg",
+      "img_original_path": "C:\\Users\\ABC\\Downloads\\FYP_Arcana\\FYP_Latest\\FYP_Mid1_Ver2\\FYP_Mid1_Ver2\\FYP_Mid1\\clerk-react\\output_videos\\temp_story_1778796792674_2451p6\\scene_0_original.jpg",
+      "audio_path": "C:\\Users\\ABC\\Downloads\\FYP_Arcana\\FYP_Latest\\FYP_Mid1_Ver2\\FYP_Mid1_Ver2\\FYP_Mid1\\clerk-react\\output_videos\\temp_story_1778796792674_2451p6\\scene_0.mp3",
+      "vid_path": "C:\\Users\\ABC\\Downloads\\FYP_Arcana\\FYP_Latest\\FYP_Mid1_Ver2\\FYP_Mid1_Ver2\\FYP_Mid1\\clerk-react\\output_videos\\temp_story_1778796792674_2451p6\\scene_0.mp4",
+      "word_count": 13,
+      "timing": {
+        "fetch_sec": 4.78,
+        "upscale_sec": 0.2,
+        "ffmpeg_sec": 9.31,
+        "total_sec": 14.31
+      },
+      "av_sync": {
+        "audio_duration_sec": 4.18,
+        "video_duration_sec": 4.18,
+        "sync_error_sec": 0.0,
+        "rating": "perfect"
+      },
+      "prompt_adherence": {
+        "score": 1.0,
+        "method": "keyword_heuristic"
+      },
+      "image_quality": {
+        "original_sharpness": 19.16,
+        "enhanced_sharpness": 8.13,
+        "improvement_ratio": 0.42,
+        "original_resolution": "768x768",
+        "enhanced_resolution": "1536x1536"
+      },
+      "speaking_rate": {
+        "word_count": 13,
+        "audio_duration_sec": 4.18,
+        "wpm": 186.6,
+        "target_wpm": "120-150",
+        "rating": "too_fast"
+      }
+    },
+    {
+      "scene_index": 1,
+      "sentence": "One day, Lily was in the park when she found a shiny new toy.",
+      "prompt_used": "Whimsical colorful 2D storybook illustration for children, magical, soft lighting. One day, Lily was in the park when she found a shiny new toy.",
+      "img_path": "C:\\Users\\ABC\\Downloads\\FYP_Arcana\\FYP_Latest\\FYP_Mid1_Ver2\\FYP_Mid1_Ver2\\FYP_Mid1\\clerk-react\\output_videos\\temp_story_1778796792674_2451p6\\scene_1.jpg",
+      "img_original_path": "C:\\Users\\ABC\\Downloads\\FYP_Arcana\\FYP_Latest\\FYP_Mid1_Ver2\\FYP_Mid1_Ver2\\FYP_Mid1\\clerk-react\\output_videos\\temp_story_1778796792674_2451p6\\scene_1_original.jpg",
+      "audio_path": "C:\\Users\\ABC\\Downloads\\FYP_Arcana\\FYP_Latest\\FYP_Mid1_Ver2\\FYP_Mid1_Ver2\\FYP_Mid1\\clerk-react\\output_videos\\temp_story_1778796792674_2451p6\\scene_1.mp3",
+      "vid_path": "C:\\Users\\ABC\\Downloads\\FYP_Arcana\\FYP_Latest\\FYP_Mid1_Ver2\\FYP_Mid1_Ver2\\FYP_Mid1\\clerk-react\\output_videos\\temp_story_1778796792674_2451p6\\scene_1.mp4",
+      "word_count": 14,
+      "timing": {
+        "fetch_sec": 90.12,
+        "upscale_sec": 0.16,
+        "ffmpeg_sec": 9.5,
+        "total_sec": 104.58
+      },
+      "av_sync": {
+        "audio_duration_sec": 4.27,
+        "video_duration_sec": 4.27,
+        "sync_error_sec": 0.0,
+        "rating": "perfect"
+      },
+      "prompt_adherence": {
+        "score": 1.0,
+        "method": "keyword_heuristic"
+      },
+      "image_quality": {
+        "original_sharpness": 23.55,
+        "enhanced_sharpness": 9.24,
+        "improvement_ratio": 0.39,
+        "original_resolution": "768x768",
+        "enhanced_resolution": "1536x1536"
+      },
+      "speaking_rate": {
+        "word_count": 14,
+        "audio_duration_sec": 4.27,
+        "wpm": 196.7,
+        "target_wpm": "120-150",
+        "rating": "too_fast"
+      }
+    },
+    {
+      "scene_index": 2,
+      "sentence": "\"Wow, this is so fun!\" she said.",
+      "prompt_used": "Whimsical colorful 2D storybook illustration for children, magical, soft lighting. \"Wow, this is so fun!\" she said.",
+      "img_path": "C:\\Users\\ABC\\Downloads\\FYP_Arcana\\FYP_Latest\\FYP_Mid1_Ver2\\FYP_Mid1_Ver2\\FYP_Mid1\\clerk-react\\output_videos\\temp_story_1778796792674_2451p6\\scene_2.jpg",
+      "img_original_path": "C:\\Users\\ABC\\Downloads\\FYP_Arcana\\FYP_Latest\\FYP_Mid1_Ver2\\FYP_Mid1_Ver2\\FYP_Mid1\\clerk-react\\output_videos\\temp_story_1778796792674_2451p6\\scene_2_original.jpg",
+      "audio_path": "C:\\Users\\ABC\\Downloads\\FYP_Arcana\\FYP_Latest\\FYP_Mid1_Ver2\\FYP_Mid1_Ver2\\FYP_Mid1\\clerk-react\\output_videos\\temp_story_1778796792674_2451p6\\scene_2.mp3",
+      "vid_path": "C:\\Users\\ABC\\Downloads\\FYP_Arcana\\FYP_Latest\\FYP_Mid1_Ver2\\FYP_Mid1_Ver2\\FYP_Mid1\\clerk-react\\output_videos\\temp_story_1778796792674_2451p6\\scene_2.mp4",
+      "word_count": 7,
+      "timing": {
+        "fetch_sec": 90.27,
+        "upscale_sec": 0.15,
+        "ffmpeg_sec": 6.53,
+        "total_sec": 191.86
+      },
+      "av_sync": {
+        "audio_duration_sec": 2.78,
+        "video_duration_sec": 2.78,
+        "sync_error_sec": 0.0,
+        "rating": "perfect"
+      },
+      "prompt_adherence": {
+        "score": 1.0,
+        "method": "keyword_heuristic"
+      },
+      "image_quality": {
+        "original_sharpness": 31.65,
+        "enhanced_sharpness": 11.54,
+        "improvement_ratio": 0.36,
+        "original_resolution": "768x768",
+        "enhanced_resolution": "1536x1536"
+      },
+      "speaking_rate": {
+        "word_count": 7,
+        "audio_duration_sec": 2.78,
+        "wpm": 151.1,
+        "target_wpm": "120-150",
+        "rating": "ideal"
+      }
+    },
+    {
+      "scene_index": 3,
+      "sentence": "Lily put the toy in her bag and ran home.",
+      "prompt_used": "Whimsical colorful 2D storybook illustration for children, magical, soft lighting. Lily put the toy in her bag and ran home.",
+      "img_path": "C:\\Users\\ABC\\Downloads\\FYP_Arcana\\FYP_Latest\\FYP_Mid1_Ver2\\FYP_Mid1_Ver2\\FYP_Mid1\\clerk-react\\output_videos\\temp_story_1778796792674_2451p6\\scene_3.jpg",
+      "img_original_path": "C:\\Users\\ABC\\Downloads\\FYP_Arcana\\FYP_Latest\\FYP_Mid1_Ver2\\FYP_Mid1_Ver2\\FYP_Mid1\\clerk-react\\output_videos\\temp_story_1778796792674_2451p6\\scene_3_original.jpg",
+      "audio_path": "C:\\Users\\ABC\\Downloads\\FYP_Arcana\\FYP_Latest\\FYP_Mid1_Ver2\\FYP_Mid1_Ver2\\FYP_Mid1\\clerk-react\\output_videos\\temp_story_1778796792674_2451p6\\scene_3.mp3",
+      "vid_path": "C:\\Users\\ABC\\Downloads\\FYP_Arcana\\FYP_Latest\\FYP_Mid1_Ver2\\FYP_Mid1_Ver2\\FYP_Mid1\\clerk-react\\output_videos\\temp_story_1778796792674_2451p6\\scene_3.mp4",
+      "word_count": 10,
+      "timing": {
+        "fetch_sec": 89.77,
+        "upscale_sec": 0.22,
+        "ffmpeg_sec": 6.21,
+        "total_sec": 281.4
+      },
+      "av_sync": {
+        "audio_duration_sec": 2.47,
+        "video_duration_sec": 2.47,
+        "sync_error_sec": 0.0,
+        "rating": "perfect"
+      },
+      "prompt_adherence": {
+        "score": 1.0,
+        "method": "keyword_heuristic"
+      },
+      "image_quality": {
+        "original_sharpness": 25.65,
+        "enhanced_sharpness": 9.85,
+        "improvement_ratio": 0.38,
+        "original_resolution": "768x768",
+        "enhanced_resolution": "1536x1536"
+      },
+      "speaking_rate": {
+        "word_count": 10,
+        "audio_duration_sec": 2.47,
+        "wpm": 242.9,
+        "target_wpm": "120-150",
+        "rating": "too_fast"
+      }
+    },
+    {
+      "scene_index": 4,
+      "sentence": "When Lily got home, her mom asked, \"Where did you get that toy?\" Lily felt very sad.",
+      "prompt_used": "Whimsical colorful 2D storybook illustration for children, magical, soft lighting. When Lily got home, her mom asked, \"Where did you get that toy?\" Lily felt very sad.",
+      "img_path": "C:\\Users\\ABC\\Downloads\\FYP_Arcana\\FYP_Latest\\FYP_Mid1_Ver2\\FYP_Mid1_Ver2\\FYP_Mid1\\clerk-react\\output_videos\\temp_story_1778796792674_2451p6\\scene_4.jpg",
+      "img_original_path": "C:\\Users\\ABC\\Downloads\\FYP_Arcana\\FYP_Latest\\FYP_Mid1_Ver2\\FYP_Mid1_Ver2\\FYP_Mid1\\clerk-react\\output_videos\\temp_story_1778796792674_2451p6\\scene_4_original.jpg",
+      "audio_path": "C:\\Users\\ABC\\Downloads\\FYP_Arcana\\FYP_Latest\\FYP_Mid1_Ver2\\FYP_Mid1_Ver2\\FYP_Mid1\\clerk-react\\output_videos\\temp_story_1778796792674_2451p6\\scene_4.mp3",
+      "vid_path": "C:\\Users\\ABC\\Downloads\\FYP_Arcana\\FYP_Latest\\FYP_Mid1_Ver2\\FYP_Mid1_Ver2\\FYP_Mid1\\clerk-react\\output_videos\\temp_story_1778796792674_2451p6\\scene_4.mp4",
+      "word_count": 17,
+      "timing": {
+        "fetch_sec": 89.94,
+        "upscale_sec": 0.2,
+        "ffmpeg_sec": 14.34,
+        "total_sec": 379.46
+      },
+      "av_sync": {
+        "audio_duration_sec": 7.3,
+        "video_duration_sec": 7.3,
+        "sync_error_sec": 0.0,
+        "rating": "perfect"
+      },
+      "prompt_adherence": {
+        "score": 1.0,
+        "method": "keyword_heuristic"
+      },
+      "image_quality": {
+        "original_sharpness": 25.1,
+        "enhanced_sharpness": 9.51,
+        "improvement_ratio": 0.38,
+        "original_resolution": "768x768",
+        "enhanced_resolution": "1536x1536"
+      },
+      "speaking_rate": {
+        "word_count": 17,
+        "audio_duration_sec": 7.3,
+        "wpm": 139.7,
+        "target_wpm": "120-150",
+        "rating": "ideal"
+      }
+    },
+    {
+      "scene_index": 5,
+      "sentence": "She said, \"I found it in the park.\" Her mom gave her a big hug.",
+      "prompt_used": "Whimsical colorful 2D storybook illustration for children, magical, soft lighting. She said, \"I found it in the park.\" Her mom gave her a big hug.",
+      "img_path": "C:\\Users\\ABC\\Downloads\\FYP_Arcana\\FYP_Latest\\FYP_Mid1_Ver2\\FYP_Mid1_Ver2\\FYP_Mid1\\clerk-react\\output_videos\\temp_story_1778796792674_2451p6\\scene_5.jpg",
+      "img_original_path": "C:\\Users\\ABC\\Downloads\\FYP_Arcana\\FYP_Latest\\FYP_Mid1_Ver2\\FYP_Mid1_Ver2\\FYP_Mid1\\clerk-react\\output_videos\\temp_story_1778796792674_2451p6\\scene_5_original.jpg",
+      "audio_path": "C:\\Users\\ABC\\Downloads\\FYP_Arcana\\FYP_Latest\\FYP_Mid1_Ver2\\FYP_Mid1_Ver2\\FYP_Mid1\\clerk-react\\output_videos\\temp_story_1778796792674_2451p6\\scene_5.mp3",
+      "vid_path": "C:\\Users\\ABC\\Downloads\\FYP_Arcana\\FYP_Latest\\FYP_Mid1_Ver2\\FYP_Mid1_Ver2\\FYP_Mid1\\clerk-react\\output_videos\\temp_story_1778796792674_2451p6\\scene_5.mp4",
+      "word_count": 15,
+      "timing": {
+        "fetch_sec": 90.41,
+        "upscale_sec": 0.16,
+        "ffmpeg_sec": 10.02,
+        "total_sec": 465.51
+      },
+      "av_sync": {
+        "audio_duration_sec": 4.73,
+        "video_duration_sec": 4.73,
+        "sync_error_sec": 0.0,
+        "rating": "perfect"
+      },
+      "prompt_adherence": {
+        "score": 1.0,
+        "method": "keyword_heuristic"
+      },
+      "image_quality": {
+        "original_sharpness": 29.31,
+        "enhanced_sharpness": 10.99,
+        "improvement_ratio": 0.37,
+        "original_resolution": "768x768",
+        "enhanced_resolution": "1536x1536"
+      },
+      "speaking_rate": {
+        "word_count": 15,
+        "audio_duration_sec": 4.73,
+        "wpm": 190.3,
+        "target_wpm": "120-150",
+        "rating": "too_fast"
+      }
+    },
+    {
+      "scene_index": 6,
+      "sentence": "\"I'm proud of you for telling the truth.",
+      "prompt_used": "Whimsical colorful 2D storybook illustration for children, magical, soft lighting. \"I'm proud of you for telling the truth.",
+      "img_path": "C:\\Users\\ABC\\Downloads\\FYP_Arcana\\FYP_Latest\\FYP_Mid1_Ver2\\FYP_Mid1_Ver2\\FYP_Mid1\\clerk-react\\output_videos\\temp_story_1778796792674_2451p6\\scene_6.jpg",
+      "img_original_path": "C:\\Users\\ABC\\Downloads\\FYP_Arcana\\FYP_Latest\\FYP_Mid1_Ver2\\FYP_Mid1_Ver2\\FYP_Mid1\\clerk-react\\output_videos\\temp_story_1778796792674_2451p6\\scene_6_original.jpg",
+      "audio_path": "C:\\Users\\ABC\\Downloads\\FYP_Arcana\\FYP_Latest\\FYP_Mid1_Ver2\\FYP_Mid1_Ver2\\FYP_Mid1\\clerk-react\\output_videos\\temp_story_1778796792674_2451p6\\scene_6.mp3",
+      "vid_path": "C:\\Users\\ABC\\Downloads\\FYP_Arcana\\FYP_Latest\\FYP_Mid1_Ver2\\FYP_Mid1_Ver2\\FYP_Mid1\\clerk-react\\output_videos\\temp_story_1778796792674_2451p6\\scene_6.mp4",
+      "word_count": 8,
+      "timing": {
+        "fetch_sec": 89.47,
+        "upscale_sec": 0.17,
+        "ffmpeg_sec": 4.93,
+        "total_sec": 549.91
+      },
+      "av_sync": {
+        "audio_duration_sec": 1.94,
+        "video_duration_sec": 1.94,
+        "sync_error_sec": 0.0,
+        "rating": "perfect"
+      },
+      "prompt_adherence": {
+        "score": 1.0,
+        "method": "keyword_heuristic"
+      },
+      "image_quality": {
+        "original_sharpness": 22.07,
+        "enhanced_sharpness": 7.95,
+        "improvement_ratio": 0.36,
+        "original_resolution": "768x768",
+        "enhanced_resolution": "1536x1536"
+      },
+      "speaking_rate": {
+        "word_count": 8,
+        "audio_duration_sec": 1.94,
+        "wpm": 247.4,
+        "target_wpm": "120-150",
+        "rating": "too_fast"
+      }
+    },
+    {
+      "scene_index": 7,
+      "sentence": "Honesty is the best policy.\" From that day on, Lily always tried to be honest.",
+      "prompt_used": "Whimsical colorful 2D storybook illustration for children, magical, soft lighting. Honesty is the best policy.\" From that day on, Lily always tried to be honest.",
+      "img_path": "C:\\Users\\ABC\\Downloads\\FYP_Arcana\\FYP_Latest\\FYP_Mid1_Ver2\\FYP_Mid1_Ver2\\FYP_Mid1\\clerk-react\\output_videos\\temp_story_1778796792674_2451p6\\scene_7.jpg",
+      "img_original_path": "C:\\Users\\ABC\\Downloads\\FYP_Arcana\\FYP_Latest\\FYP_Mid1_Ver2\\FYP_Mid1_Ver2\\FYP_Mid1\\clerk-react\\output_videos\\temp_story_1778796792674_2451p6\\scene_7_original.jpg",
+      "audio_path": "C:\\Users\\ABC\\Downloads\\FYP_Arcana\\FYP_Latest\\FYP_Mid1_Ver2\\FYP_Mid1_Ver2\\FYP_Mid1\\clerk-react\\output_videos\\temp_story_1778796792674_2451p6\\scene_7.mp3",
+      "vid_path": "C:\\Users\\ABC\\Downloads\\FYP_Arcana\\FYP_Latest\\FYP_Mid1_Ver2\\FYP_Mid1_Ver2\\FYP_Mid1\\clerk-react\\output_videos\\temp_story_1778796792674_2451p6\\scene_7.mp4",
+      "word_count": 15,
+      "timing": {
+        "fetch_sec": 89.99,
+        "upscale_sec": 0.15,
+        "ffmpeg_sec": 11.2,
+        "total_sec": 646.15
+      },
+      "av_sync": {
+        "audio_duration_sec": 5.42,
+        "video_duration_sec": 5.42,
+        "sync_error_sec": 0.0,
+        "rating": "perfect"
+      },
+      "prompt_adherence": {
+        "score": 1.0,
+        "method": "keyword_heuristic"
+      },
+      "image_quality": {
+        "original_sharpness": 28.47,
+        "enhanced_sharpness": 11.29,
+        "improvement_ratio": 0.4,
+        "original_resolution": "768x768",
+        "enhanced_resolution": "1536x1536"
+      },
+      "speaking_rate": {
+        "word_count": 15,
+        "audio_duration_sec": 5.42,
+        "wpm": 166.1,
+        "target_wpm": "120-150",
+        "rating": "acceptable"
+      }
+    },
+    {
+      "scene_index": 8,
+      "sentence": "Moral: Honesty is the best policy.",
+      "prompt_used": "Whimsical colorful 2D storybook illustration for children, magical, soft lighting. Moral: Honesty is the best policy.",
+      "img_path": "C:\\Users\\ABC\\Downloads\\FYP_Arcana\\FYP_Latest\\FYP_Mid1_Ver2\\FYP_Mid1_Ver2\\FYP_Mid1\\clerk-react\\output_videos\\temp_story_1778796792674_2451p6\\scene_8.jpg",
+      "img_original_path": "C:\\Users\\ABC\\Downloads\\FYP_Arcana\\FYP_Latest\\FYP_Mid1_Ver2\\FYP_Mid1_Ver2\\FYP_Mid1\\clerk-react\\output_videos\\temp_story_1778796792674_2451p6\\scene_8_original.jpg",
+      "audio_path": "C:\\Users\\ABC\\Downloads\\FYP_Arcana\\FYP_Latest\\FYP_Mid1_Ver2\\FYP_Mid1_Ver2\\FYP_Mid1\\clerk-react\\output_videos\\temp_story_1778796792674_2451p6\\scene_8.mp3",
+      "vid_path": "C:\\Users\\ABC\\Downloads\\FYP_Arcana\\FYP_Latest\\FYP_Mid1_Ver2\\FYP_Mid1_Ver2\\FYP_Mid1\\clerk-react\\output_videos\\temp_story_1778796792674_2451p6\\scene_8.mp4",
+      "word_count": 6,
+      "timing": {
+        "fetch_sec": 90.04,
+        "upscale_sec": 0.12,
+        "ffmpeg_sec": 7.53,
+        "total_sec": 732.5
+      },
+      "av_sync": {
+        "audio_duration_sec": 3.34,
+        "video_duration_sec": 3.34,
+        "sync_error_sec": 0.0,
+        "rating": "perfect"
+      },
+      "prompt_adherence": {
+        "score": 1.0,
+        "method": "keyword_heuristic"
+      },
+      "image_quality": {
+        "original_sharpness": 31.13,
+        "enhanced_sharpness": 12.5,
+        "improvement_ratio": 0.4,
+        "original_resolution": "768x768",
+        "enhanced_resolution": "1536x1536"
+      },
+      "speaking_rate": {
+        "word_count": 6,
+        "audio_duration_sec": 3.34,
+        "wpm": 107.8,
+        "target_wpm": "120-150",
+        "rating": "ideal"
+      }
+    }
+  ],
+  "averages": {
+    "avg_sync_error_sec": 0.0,
+    "avg_prompt_adherence": 1.0,
+    "avg_sharpness_improvement": 0.384,
+    "avg_fetch_sec": 80.532,
+    "avg_upscale_sec": 0.17,
+    "avg_ffmpeg_sec": 8.841,
+    "avg_wpm": 180.956,
+    "total_pipeline_sec": 732.85
+  }
+}
